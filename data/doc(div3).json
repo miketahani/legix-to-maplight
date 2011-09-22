@@ -1,0 +1,559 @@
+{"fragment":{"model": "calm",
+     "authority": "us-ca",
+     "src": "urn:legix:us-ca:code-evid:doc(div3):json",
+     "title": "Evidence Code - Division 3",
+     "manifestations": "HTML,SLIM,CALM,RDF",
+     "content": 
+     {
+       "id": "div3",
+       "class": "Division",
+       "num": "3",
+       "title": "General Provisions",
+       "id2": "div3-sec300",
+       "heading":
+       {
+         "id": "div3-heading",
+         "class": "LawHeading",
+         "versions": [
+           {
+             "id": "div3-heading-id8CE2D603D2D6" 
+           } 
+         ]
+       },
+       "levels": [
+         {
+           "id": "div3-chp1",
+           "class": "Chapter",
+           "num": "1",
+           "title": "Applicability of Code",
+           "id2": "chp1-sec300",
+           "rangeLow": "300",
+           "rangeText": " [§300]",
+           "heading":
+           {
+             "id": "div3-chp1-heading",
+             "class": "LawHeading",
+             "versions": [
+               {
+                 "id": "div3-chp1-heading-idEABF2CE41C9D" 
+               } 
+             ]
+           },
+           "sections": [
+             {
+               "id": "sec300",
+               "class": "LawSection",
+               "num": "300",
+               "versions": [
+                 {
+                   "id": "sec300-amended-2002-chp0784",
+                   "src": "urn:legix:us-ca:2002-chp0784:doc(sec101)",
+                   "srcLabel": "Stats. of 2001, Chapter 784 - §101",
+                   "effect": "amended",
+                   "effective": "2003-01-01",
+                   "linking": "embedded" 
+                 },
+                 {
+                   "id": "sec300-amended-1998-chp0931",
+                   "src": "urn:legix:us-ca:1998-chp0931:doc(sec141)",
+                   "srcLabel": "Stats. of 1997, Chapter 931 - §141",
+                   "effect": "amended",
+                   "effective": "1999-01-01",
+                   "linking": "linked" 
+                 } 
+               ] 
+             } 
+           ] 
+         },
+         {
+           "id": "div3-chp2",
+           "class": "Chapter",
+           "num": "2",
+           "title": "Province of Court and Jury",
+           "id2": "chp2-sec310",
+           "rangeLow": "310",
+           "rangeHigh": "312",
+           "rangeText": " [§310-§312]",
+           "heading":
+           {
+             "id": "div3-chp2-heading",
+             "class": "LawHeading",
+             "versions": [
+               {
+                 "id": "div3-chp2-heading-id67E19522C386" 
+               } 
+             ]
+           },
+           "sections": [
+             {
+               "id": "sec310",
+               "class": "LawSection",
+               "num": "310",
+               "versions": [
+                 {
+                   "id": "sec310-enacted-1965-chp0299",
+                   "src": "urn:legix:us-ca:1965-chp0299:doc",
+                   "srcLabel": "Stats. of 1965, Chapter 299",
+                   "effect": "enacted",
+                   "effective": "1966-01-01",
+                   "linking": "embedded" 
+                 } 
+               ] 
+             },
+             {
+               "id": "sec311",
+               "class": "LawSection",
+               "num": "311",
+               "versions": [
+                 {
+                   "id": "sec311-enacted-1965-chp0299",
+                   "src": "urn:legix:us-ca:1965-chp0299:doc",
+                   "srcLabel": "Stats. of 1965, Chapter 299",
+                   "effect": "enacted",
+                   "effective": "1966-01-01",
+                   "linking": "embedded" 
+                 } 
+               ] 
+             },
+             {
+               "id": "sec312",
+               "class": "LawSection",
+               "num": "312",
+               "versions": [
+                 {
+                   "id": "sec312-enacted-1965-chp0299",
+                   "src": "urn:legix:us-ca:1965-chp0299:doc",
+                   "srcLabel": "Stats. of 1965, Chapter 299",
+                   "effect": "enacted",
+                   "effective": "1966-01-01",
+                   "linking": "embedded" 
+                 } 
+               ] 
+             } 
+           ] 
+         },
+         {
+           "id": "div3-chp3",
+           "class": "Chapter",
+           "num": "3",
+           "title": "Order of Proof",
+           "id2": "chp3-sec320",
+           "rangeLow": "320",
+           "rangeText": " [§320]",
+           "heading":
+           {
+             "id": "div3-chp3-heading",
+             "class": "LawHeading",
+             "versions": [
+               {
+                 "id": "div3-chp3-heading-id96F65AF392AB" 
+               } 
+             ]
+           },
+           "sections": [
+             {
+               "id": "sec320",
+               "class": "LawSection",
+               "num": "320",
+               "versions": [
+                 {
+                   "id": "sec320-enacted-1965-chp0299",
+                   "src": "urn:legix:us-ca:1965-chp0299:doc",
+                   "srcLabel": "Stats. of 1965, Chapter 299",
+                   "effect": "enacted",
+                   "effective": "1966-01-01",
+                   "linking": "embedded" 
+                 } 
+               ] 
+             } 
+           ] 
+         },
+         {
+           "id": "div3-chp4",
+           "class": "Chapter",
+           "num": "4",
+           "title": "Admitting and Excluding Evidence",
+           "id2": "div3-chp4-sec350",
+           "heading":
+           {
+             "id": "div3-chp4-heading",
+             "class": "LawHeading",
+             "versions": [
+               {
+                 "id": "div3-chp4-heading-idC4AC0FACF219" 
+               } 
+             ]
+           },
+           "levels": [
+             {
+               "id": "div3-chp4-art1",
+               "class": "Article",
+               "num": "1",
+               "title": "General Provisions",
+               "id2": "art1-sec350",
+               "rangeLow": "350",
+               "rangeHigh": "356",
+               "rangeText": " [§350-§356]",
+               "heading":
+               {
+                 "id": "div3-chp4-art1-heading",
+                 "class": "LawHeading",
+                 "versions": [
+                   {
+                     "id": "div3-chp4-art1-heading-id1A6E0A0A3641" 
+                   } 
+                 ]
+               },
+               "sections": [
+                 {
+                   "id": "sec350",
+                   "class": "LawSection",
+                   "num": "350",
+                   "versions": [
+                     {
+                       "id": "sec350-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec351",
+                   "class": "LawSection",
+                   "num": "351",
+                   "versions": [
+                     {
+                       "id": "sec351-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec351.1",
+                   "class": "LawSection",
+                   "num": "351.1",
+                   "versions": [
+                     {
+                       "id": "sec351.1-added-1983-chp0202",
+                       "src": "urn:legix:us-ca:1983-chp0202:doc(sec1)",
+                       "srcLabel": "Stats. of 1983, Chapter 202 - §1",
+                       "effect": "added",
+                       "effective": "1983-07-12",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec352",
+                   "class": "LawSection",
+                   "num": "352",
+                   "versions": [
+                     {
+                       "id": "sec352-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec352.1",
+                   "class": "LawSection",
+                   "num": "352.1",
+                   "versions": [
+                     {
+                       "id": "sec352.1-amended-1996-chp1075",
+                       "src": "urn:legix:us-ca:1996-chp1075:doc(sec5)",
+                       "srcLabel": "Stats. of 1995, Chapter 1075 - §5",
+                       "effect": "amended",
+                       "effective": "1997-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec353",
+                   "class": "LawSection",
+                   "num": "353",
+                   "versions": [
+                     {
+                       "id": "sec353-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec354",
+                   "class": "LawSection",
+                   "num": "354",
+                   "versions": [
+                     {
+                       "id": "sec354-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec355",
+                   "class": "LawSection",
+                   "num": "355",
+                   "versions": [
+                     {
+                       "id": "sec355-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec356",
+                   "class": "LawSection",
+                   "num": "356",
+                   "versions": [
+                     {
+                       "id": "sec356-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 } 
+               ] 
+             },
+             {
+               "id": "div3-chp4-art2",
+               "class": "Article",
+               "num": "2",
+               "title": "Preliminary Determinations on Admissibility of Evidence",
+               "id2": "art2-sec400",
+               "rangeLow": "400",
+               "rangeHigh": "406",
+               "rangeText": " [§400-§406]",
+               "heading":
+               {
+                 "id": "div3-chp4-art2-heading",
+                 "class": "LawHeading",
+                 "versions": [
+                   {
+                     "id": "div3-chp4-art2-heading-id0CCDA52E0CD8" 
+                   } 
+                 ]
+               },
+               "sections": [
+                 {
+                   "id": "sec400",
+                   "class": "LawSection",
+                   "num": "400",
+                   "versions": [
+                     {
+                       "id": "sec400-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec401",
+                   "class": "LawSection",
+                   "num": "401",
+                   "versions": [
+                     {
+                       "id": "sec401-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec402",
+                   "class": "LawSection",
+                   "num": "402",
+                   "versions": [
+                     {
+                       "id": "sec402-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec403",
+                   "class": "LawSection",
+                   "num": "403",
+                   "versions": [
+                     {
+                       "id": "sec403-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec404",
+                   "class": "LawSection",
+                   "num": "404",
+                   "versions": [
+                     {
+                       "id": "sec404-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec405",
+                   "class": "LawSection",
+                   "num": "405",
+                   "versions": [
+                     {
+                       "id": "sec405-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 },
+                 {
+                   "id": "sec406",
+                   "class": "LawSection",
+                   "num": "406",
+                   "versions": [
+                     {
+                       "id": "sec406-enacted-1965-chp0299",
+                       "src": "urn:legix:us-ca:1965-chp0299:doc",
+                       "srcLabel": "Stats. of 1965, Chapter 299",
+                       "effect": "enacted",
+                       "effective": "1966-01-01",
+                       "linking": "embedded" 
+                     } 
+                   ] 
+                 } 
+               ] 
+             } 
+           ] 
+         },
+         {
+           "id": "div3-chp5",
+           "class": "Chapter",
+           "num": "5",
+           "title": "Weight of Evidence Generally",
+           "id2": "chp5-sec410",
+           "rangeLow": "410",
+           "rangeHigh": "413",
+           "rangeText": " [§410-§413]",
+           "heading":
+           {
+             "id": "div3-chp5-heading",
+             "class": "LawHeading",
+             "versions": [
+               {
+                 "id": "div3-chp5-heading-idA7CD6CF6215A" 
+               } 
+             ]
+           },
+           "sections": [
+             {
+               "id": "sec410",
+               "class": "LawSection",
+               "num": "410",
+               "versions": [
+                 {
+                   "id": "sec410-enacted-1965-chp0299",
+                   "src": "urn:legix:us-ca:1965-chp0299:doc",
+                   "srcLabel": "Stats. of 1965, Chapter 299",
+                   "effect": "enacted",
+                   "effective": "1966-01-01",
+                   "linking": "embedded" 
+                 } 
+               ] 
+             },
+             {
+               "id": "sec411",
+               "class": "LawSection",
+               "num": "411",
+               "versions": [
+                 {
+                   "id": "sec411-enacted-1965-chp0299",
+                   "src": "urn:legix:us-ca:1965-chp0299:doc",
+                   "srcLabel": "Stats. of 1965, Chapter 299",
+                   "effect": "enacted",
+                   "effective": "1966-01-01",
+                   "linking": "embedded" 
+                 } 
+               ] 
+             },
+             {
+               "id": "sec412",
+               "class": "LawSection",
+               "num": "412",
+               "versions": [
+                 {
+                   "id": "sec412-enacted-1965-chp0299",
+                   "src": "urn:legix:us-ca:1965-chp0299:doc",
+                   "srcLabel": "Stats. of 1965, Chapter 299",
+                   "effect": "enacted",
+                   "effective": "1966-01-01",
+                   "linking": "embedded" 
+                 } 
+               ] 
+             },
+             {
+               "id": "sec413",
+               "class": "LawSection",
+               "num": "413",
+               "versions": [
+                 {
+                   "id": "sec413-enacted-1965-chp0299",
+                   "src": "urn:legix:us-ca:1965-chp0299:doc",
+                   "srcLabel": "Stats. of 1965, Chapter 299",
+                   "effect": "enacted",
+                   "effective": "1966-01-01",
+                   "linking": "embedded" 
+                 } 
+               ] 
+             } 
+           ] 
+         } 
+       ] 
+     } 
+   }
+   }
