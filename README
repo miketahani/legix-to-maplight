@@ -1,4 +1,0 @@
-this script takes a json file from legix.info, similar to http://legix.info/us-ca/code-bpc/doc(div1).json,
-then parses it for statute information. a corresponding bill number (the one that spawned the statute) is
-then used to search maplight.org's california API, which returns a list of organizations that
-supported/opposed the legislation which led to the state code.
