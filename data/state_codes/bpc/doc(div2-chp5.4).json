@@ -1,0 +1,248 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div2-chp5.4):json",
+    "title": "Business and Professions Code - Division 2, Chapter 5.4",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div2-chp5.4",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "5.4",
+      "title": "Prescription Lenses",
+      "id2": "chp5.4-sec2540",
+      "rangeLow": "2540",
+      "rangeHigh": "2545",
+      "rangeText": " [§2540-§2545]",
+      "heading":
+      {
+        "id": "div2-chp5.4-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div2-chp5.4-heading-idE103F15D98F6"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec2540",
+        "class": "LawSection",
+        "num": "2540",
+        "versions": 
+        [
+          {
+            "id": "sec2540-amended-2006-chp0148",
+            "src": "urn:legix:us-ca:2006-chp0148:doc(sec2)",
+            "srcLabel": "Stats. of 2005, Chapter 148 - §2",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2540.1",
+        "class": "LawSection",
+        "num": "2540.1",
+        "versions": 
+        [
+          {
+            "id": "sec2540.1-added-2007-chp0678",
+            "src": "urn:legix:us-ca:2007-chp0678:doc(sec27)",
+            "srcLabel": "Stats. of 2007, Chapter 678 - §27",
+            "effect": "added",
+            "effective": "2008-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2541",
+        "class": "LawSection",
+        "num": "2541",
+        "versions": 
+        [
+          {
+            "id": "sec2541-amended-2006-chp0148",
+            "src": "urn:legix:us-ca:2006-chp0148:doc(sec3)",
+            "srcLabel": "Stats. of 2005, Chapter 148 - §3",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2541.1",
+        "class": "LawSection",
+        "num": "2541.1",
+        "versions": 
+        [
+          {
+            "id": "sec2541.1-added-1998-chp0008",
+            "src": "urn:legix:us-ca:1998-chp0008:doc(sec1)",
+            "srcLabel": "Stats. of 1997, Chapter 8 - §1",
+            "effect": "added",
+            "effective": "1999-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2541.2",
+        "class": "LawSection",
+        "num": "2541.2",
+        "versions": 
+        [
+          {
+            "id": "sec2541.2-added-2002-chp0814",
+            "src": "urn:legix:us-ca:2002-chp0814:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 814 - §1",
+            "effect": "added",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2541.3",
+        "class": "LawSection",
+        "num": "2541.3",
+        "versions": 
+        [
+          {
+            "id": "sec2541.3-amended-2007-chp0483",
+            "src": "urn:legix:us-ca:2007-chp0483:doc(sec4)",
+            "srcLabel": "Stats. of 2007, Chapter 483 - §4",
+            "effect": "amended",
+            "effective": "2008-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec2541.3-amended-2006-chp0148",
+            "src": "urn:legix:us-ca:2006-chp0148:doc(sec4)",
+            "srcLabel": "Stats. of 2005, Chapter 148 - §4",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec2541.6",
+        "class": "LawSection",
+        "num": "2541.6",
+        "versions": 
+        [
+          {
+            "id": "sec2541.6-amended-2007-chp0483",
+            "src": "urn:legix:us-ca:2007-chp0483:doc(sec5)",
+            "srcLabel": "Stats. of 2007, Chapter 483 - §5",
+            "effect": "amended",
+            "effective": "2008-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec2541.6-amended-2006-chp0148",
+            "src": "urn:legix:us-ca:2006-chp0148:doc(sec5)",
+            "srcLabel": "Stats. of 2005, Chapter 148 - §5",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec2542",
+        "class": "LawSection",
+        "num": "2542",
+        "versions": 
+        [
+          {
+            "id": "sec2542-amended-1985-chp1139",
+            "src": "urn:legix:us-ca:1985-chp1139:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 1139 - §3",
+            "effect": "amended",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2543",
+        "class": "LawSection",
+        "num": "2543",
+        "versions": 
+        [
+          {
+            "id": "sec2543-amended-2006-chp0148",
+            "src": "urn:legix:us-ca:2006-chp0148:doc(sec6)",
+            "srcLabel": "Stats. of 2005, Chapter 148 - §6",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec2543-amended-2002-chp0814",
+            "src": "urn:legix:us-ca:2002-chp0814:doc(sec2)",
+            "srcLabel": "Stats. of 2001, Chapter 814 - §2",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec2544",
+        "class": "LawSection",
+        "num": "2544",
+        "versions": 
+        [
+          {
+            "id": "sec2544-amended-2010-chp0604",
+            "src": "urn:legix:us-ca:2010-chp0604:doc(sec1)",
+            "srcLabel": "Stats. of 2009, Chapter 604 - §1",
+            "effect": "amended",
+            "effective": "2011-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec2544-amended-2000-chp0676",
+            "src": "urn:legix:us-ca:2000-chp0676:doc(sec2)",
+            "srcLabel": "Stats. of 1999, Chapter 676 - §2",
+            "effect": "amended",
+            "effective": "2001-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec2545",
+        "class": "LawSection",
+        "num": "2545",
+        "versions": 
+        [
+          {
+            "id": "sec2545-amended-2002-chp0814",
+            "src": "urn:legix:us-ca:2002-chp0814:doc(sec3)",
+            "srcLabel": "Stats. of 2001, Chapter 814 - §3",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

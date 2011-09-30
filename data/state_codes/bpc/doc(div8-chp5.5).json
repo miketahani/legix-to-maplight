@@ -1,0 +1,728 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp5.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 5.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp5.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "5.5",
+      "title": "Franchise Relations",
+      "id2": "div8-chp5.5-sec20000",
+      "heading":
+      {
+        "id": "div8-chp5.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp5.5-heading-idA486A6F00967"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div8-chp5.5-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "Definitions",
+        "id2": "art1-sec20000",
+        "rangeLow": "20000",
+        "rangeHigh": "20010",
+        "rangeText": " [§20000-§20010]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art1-heading-id0E73B65775D5"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20000",
+          "class": "LawSection",
+          "num": "20000",
+          "versions": 
+          [
+            {
+              "id": "sec20000-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20001",
+          "class": "LawSection",
+          "num": "20001",
+          "versions": 
+          [
+            {
+              "id": "sec20001-amended-1989-chp1380",
+              "src": "urn:legix:us-ca:1989-chp1380:doc(sec1)",
+              "srcLabel": "Stats. of 1989, Chapter 1380 - §1",
+              "effect": "amended",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20002",
+          "class": "LawSection",
+          "num": "20002",
+          "versions": 
+          [
+            {
+              "id": "sec20002-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20003",
+          "class": "LawSection",
+          "num": "20003",
+          "versions": 
+          [
+            {
+              "id": "sec20003-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20004",
+          "class": "LawSection",
+          "num": "20004",
+          "versions": 
+          [
+            {
+              "id": "sec20004-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20005",
+          "class": "LawSection",
+          "num": "20005",
+          "versions": 
+          [
+            {
+              "id": "sec20005-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20006",
+          "class": "LawSection",
+          "num": "20006",
+          "versions": 
+          [
+            {
+              "id": "sec20006-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20007",
+          "class": "LawSection",
+          "num": "20007",
+          "versions": 
+          [
+            {
+              "id": "sec20007-amended-2002-chp0664",
+              "src": "urn:legix:us-ca:2002-chp0664:doc(sec29)",
+              "srcLabel": "Stats. of 2001, Chapter 664 - §29",
+              "effect": "amended",
+              "effective": "2003-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20008",
+          "class": "LawSection",
+          "num": "20008",
+          "versions": 
+          [
+            {
+              "id": "sec20008-amended-1994-chp1010",
+              "src": "urn:legix:us-ca:1994-chp1010:doc(sec25)",
+              "srcLabel": "Stats. of 1993, Chapter 1010 - §25",
+              "effect": "amended",
+              "effective": "1995-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20009",
+          "class": "LawSection",
+          "num": "20009",
+          "versions": 
+          [
+            {
+              "id": "sec20009-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20010",
+          "class": "LawSection",
+          "num": "20010",
+          "versions": 
+          [
+            {
+              "id": "sec20010-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Jurisdiction",
+        "id2": "art2-sec20015",
+        "rangeLow": "20015",
+        "rangeText": " [§20015]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art2-heading-id64B8619C13F1"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20015",
+          "class": "LawSection",
+          "num": "20015",
+          "versions": 
+          [
+            {
+              "id": "sec20015-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art3",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3",
+        "title": "Termination",
+        "id2": "art3-sec20020",
+        "rangeLow": "20020",
+        "rangeHigh": "20021",
+        "rangeText": " [§20020-§20021]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art3-heading-id165378752A60"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20020",
+          "class": "LawSection",
+          "num": "20020",
+          "versions": 
+          [
+            {
+              "id": "sec20020-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20021",
+          "class": "LawSection",
+          "num": "20021",
+          "versions": 
+          [
+            {
+              "id": "sec20021-amended-2009-chp0500",
+              "src": "urn:legix:us-ca:2009-chp0500:doc(sec7)",
+              "srcLabel": "Stats. of 2009, Chapter 500 - §7",
+              "effect": "amended",
+              "effective": "2010-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4",
+        "title": "Nonrenewal",
+        "id2": "art4-sec20025",
+        "rangeLow": "20025",
+        "rangeHigh": "20026",
+        "rangeText": " [§20025-§20026]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art4-heading-id10A53CC81B38"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20025",
+          "class": "LawSection",
+          "num": "20025",
+          "versions": 
+          [
+            {
+              "id": "sec20025-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20026",
+          "class": "LawSection",
+          "num": "20026",
+          "versions": 
+          [
+            {
+              "id": "sec20026-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art4.4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4.4",
+        "title": "Transfers",
+        "id2": "art4.4-sec20027",
+        "rangeLow": "20027",
+        "rangeText": " [§20027]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art4.4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art4.4-heading-idC8E8E7B4562F"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20027",
+          "class": "LawSection",
+          "num": "20027",
+          "versions": 
+          [
+            {
+              "id": "sec20027-added-1983-chp0374",
+              "src": "urn:legix:us-ca:1983-chp0374:doc(sec1)",
+              "srcLabel": "Stats. of 1983, Chapter 374 - §1",
+              "effect": "added",
+              "effective": "1984-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "5",
+        "title": "Notices",
+        "id2": "art5-sec20030",
+        "rangeLow": "20030",
+        "rangeText": " [§20030]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art5-heading-id2F0E2C9093ED"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20030",
+          "class": "LawSection",
+          "num": "20030",
+          "versions": 
+          [
+            {
+              "id": "sec20030-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art6",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "6",
+        "title": "Offers to Repurchase Inventory",
+        "id2": "art6-sec20035",
+        "rangeLow": "20035",
+        "rangeHigh": "20037",
+        "rangeText": " [§20035-§20037]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art6-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art6-heading-id04DCA23A6B36"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20035",
+          "class": "LawSection",
+          "num": "20035",
+          "versions": 
+          [
+            {
+              "id": "sec20035-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20036",
+          "class": "LawSection",
+          "num": "20036",
+          "versions": 
+          [
+            {
+              "id": "sec20036-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20037",
+          "class": "LawSection",
+          "num": "20037",
+          "versions": 
+          [
+            {
+              "id": "sec20037-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art7",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "7",
+        "title": "Arbitration",
+        "id2": "art7-sec20040",
+        "rangeLow": "20040",
+        "rangeText": " [§20040]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art7-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art7-heading-id60791C4BB1EC"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20040",
+          "class": "LawSection",
+          "num": "20040",
+          "versions": 
+          [
+            {
+              "id": "sec20040-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art9",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "9",
+        "title": "Miscellaneous Provisions",
+        "id2": "art9-sec20041",
+        "rangeLow": "20041",
+        "rangeHigh": "20043",
+        "rangeText": " [§20041-§20043]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art9-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art9-heading-id5770BB5B638F"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20041",
+          "class": "LawSection",
+          "num": "20041",
+          "versions": 
+          [
+            {
+              "id": "sec20041-amended-1983-chp0545",
+              "src": "urn:legix:us-ca:1983-chp0545:doc(sec1)",
+              "srcLabel": "Stats. of 1983, Chapter 545 - §1",
+              "effect": "amended",
+              "effective": "1984-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20042",
+          "class": "LawSection",
+          "num": "20042",
+          "versions": 
+          [
+            {
+              "id": "sec20042-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec20043",
+          "class": "LawSection",
+          "num": "20043",
+          "versions": 
+          [
+            {
+              "id": "sec20043-added-1980-chp1355",
+              "src": "urn:legix:us-ca:1980-chp1355:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1355 - §1",
+              "effect": "added",
+              "effective": "1980-10-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp5.5-art8",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "8",
+        "title": "Venue of Disputes",
+        "id2": "art8-sec20040.5",
+        "rangeLow": "20040.5",
+        "rangeText": " [§20040.5]",
+        "heading":
+        {
+          "id": "div8-chp5.5-art8-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp5.5-art8-heading-id78354D0FC871"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec20040.5",
+          "class": "LawSection",
+          "num": "20040.5",
+          "versions": 
+          [
+            {
+              "id": "sec20040.5-added-1994-chp1277",
+              "src": "urn:legix:us-ca:1994-chp1277:doc(sec1)",
+              "srcLabel": "Stats. of 1993, Chapter 1277 - §1",
+              "effect": "added",
+              "effective": "1995-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

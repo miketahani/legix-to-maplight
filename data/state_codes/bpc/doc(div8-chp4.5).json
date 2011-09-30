@@ -1,0 +1,152 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp4.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 4.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp4.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "4.5",
+      "title": "Mule Racing",
+      "id2": "chp4.5-sec19700",
+      "rangeLow": "19700",
+      "rangeHigh": "19705",
+      "rangeText": " [§19700-§19705]",
+      "heading":
+      {
+        "id": "div8-chp4.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp4.5-heading-id032C68424C9E"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec19700",
+        "class": "LawSection",
+        "num": "19700",
+        "versions": 
+        [
+          {
+            "id": "sec19700-added-1977-chp0366",
+            "src": "urn:legix:us-ca:1977-chp0366:doc",
+            "srcLabel": "Stats. of 1977, Chapter 366",
+            "effect": "added",
+            "effective": "1978-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec19701",
+        "class": "LawSection",
+        "num": "19701",
+        "versions": 
+        [
+          {
+            "id": "sec19701-amended-2002-chp0872",
+            "src": "urn:legix:us-ca:2002-chp0872:doc(sec3)",
+            "srcLabel": "Stats. of 2001, Chapter 872 - §3",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec19701-amended-1993-chp1120",
+            "src": "urn:legix:us-ca:1993-chp1120:doc(sec14)",
+            "srcLabel": "Stats. of 1993, Chapter 1120 - §14",
+            "effect": "amended",
+            "effective": "1994-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec19702",
+        "class": "LawSection",
+        "num": "19702",
+        "versions": 
+        [
+          {
+            "id": "sec19702-amended-1994-chp0317",
+            "src": "urn:legix:us-ca:1994-chp0317:doc(sec1)",
+            "srcLabel": "Stats. of 1993, Chapter 317 - §1",
+            "effect": "amended",
+            "effective": "1994-08-22",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec19702-amended-1993-chp1120",
+            "src": "urn:legix:us-ca:1993-chp1120:doc(sec15)",
+            "srcLabel": "Stats. of 1993, Chapter 1120 - §15",
+            "effect": "amended",
+            "effective": "1994-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec19703",
+        "class": "LawSection",
+        "num": "19703",
+        "versions": 
+        [
+          {
+            "id": "sec19703-amended-1981-chp1133",
+            "src": "urn:legix:us-ca:1981-chp1133:doc(sec2)",
+            "srcLabel": "Stats. of 1981, Chapter 1133 - §2",
+            "effect": "amended",
+            "effective": "1982-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec19704",
+        "class": "LawSection",
+        "num": "19704",
+        "versions": 
+        [
+          {
+            "id": "sec19704-amended-1981-chp1133",
+            "src": "urn:legix:us-ca:1981-chp1133:doc(sec3)",
+            "srcLabel": "Stats. of 1981, Chapter 1133 - §3",
+            "effect": "amended",
+            "effective": "1982-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec19705",
+        "class": "LawSection",
+        "num": "19705",
+        "versions": 
+        [
+          {
+            "id": "sec19705-amended-1994-chp0317",
+            "src": "urn:legix:us-ca:1994-chp0317:doc(sec2)",
+            "srcLabel": "Stats. of 1993, Chapter 317 - §2",
+            "effect": "amended",
+            "effective": "1994-08-22",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

@@ -1,0 +1,152 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div7-prt2-chp7):json",
+    "title": "Business and Professions Code - Division 7, Part 2, Chapter 7",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div7-prt2-chp7",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "7",
+      "title": "Sales of Telephone and Other Communications Equipment",
+      "id2": "chp7-sec17360",
+      "rangeLow": "17360",
+      "rangeHigh": "17365",
+      "rangeText": " [§17360-§17365]",
+      "heading":
+      {
+        "id": "div7-prt2-chp7-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div7-prt2-chp7-heading-id5CDDF5CEB036"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec17360",
+        "class": "LawSection",
+        "num": "17360",
+        "versions": 
+        [
+          {
+            "id": "sec17360-added-1983-chp0738",
+            "src": "urn:legix:us-ca:1983-chp0738:doc(sec2)",
+            "srcLabel": "Stats. of 1983, Chapter 738 - §2",
+            "effect": "added",
+            "effective": "1983-09-13",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17361",
+        "class": "LawSection",
+        "num": "17361",
+        "versions": 
+        [
+          {
+            "id": "sec17361-added-1983-chp0738",
+            "src": "urn:legix:us-ca:1983-chp0738:doc(sec2)",
+            "srcLabel": "Stats. of 1983, Chapter 738 - §2",
+            "effect": "added",
+            "effective": "1983-09-13",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17362",
+        "class": "LawSection",
+        "num": "17362",
+        "versions": 
+        [
+          {
+            "id": "sec17362-added-1983-chp0738",
+            "src": "urn:legix:us-ca:1983-chp0738:doc(sec2)",
+            "srcLabel": "Stats. of 1983, Chapter 738 - §2",
+            "effect": "added",
+            "effective": "1983-09-13",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17363",
+        "class": "LawSection",
+        "num": "17363",
+        "versions": 
+        [
+          {
+            "id": "sec17363-amended-1984-chp0544",
+            "src": "urn:legix:us-ca:1984-chp0544:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 544 - §1",
+            "effect": "amended",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17363.5",
+        "class": "LawSection",
+        "num": "17363.5",
+        "versions": 
+        [
+          {
+            "id": "sec17363.5-added-1984-chp0544",
+            "src": "urn:legix:us-ca:1984-chp0544:doc(sec2)",
+            "srcLabel": "Stats. of 1983, Chapter 544 - §2",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17364",
+        "class": "LawSection",
+        "num": "17364",
+        "versions": 
+        [
+          {
+            "id": "sec17364-added-1983-chp0738",
+            "src": "urn:legix:us-ca:1983-chp0738:doc(sec2)",
+            "srcLabel": "Stats. of 1983, Chapter 738 - §2",
+            "effect": "added",
+            "effective": "1983-09-13",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17365",
+        "class": "LawSection",
+        "num": "17365",
+        "versions": 
+        [
+          {
+            "id": "sec17365-added-1983-chp0738",
+            "src": "urn:legix:us-ca:1983-chp0738:doc(sec2)",
+            "srcLabel": "Stats. of 1983, Chapter 738 - §2",
+            "effect": "added",
+            "effective": "1983-09-13",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

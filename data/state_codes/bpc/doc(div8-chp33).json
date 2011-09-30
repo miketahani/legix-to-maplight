@@ -1,0 +1,104 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp33):json",
+    "title": "Business and Professions Code - Division 8, Chapter 33",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp33",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "33",
+      "title": "Anti-phishing Act of 2005",
+      "id2": "chp33-sec22948",
+      "rangeLow": "22948",
+      "rangeHigh": "22948.3",
+      "rangeText": " [§22948-§22948.3]",
+      "heading":
+      {
+        "id": "div8-chp33-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp33-heading-id8F9D8E87CFA8"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22948",
+        "class": "LawSection",
+        "num": "22948",
+        "versions": 
+        [
+          {
+            "id": "sec22948-added-2005-chp0437",
+            "src": "urn:legix:us-ca:2005-chp0437:doc(sec1)",
+            "srcLabel": "Stats. of 2005, Chapter 437 - §1",
+            "effect": "added",
+            "effective": "2006-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22948.1",
+        "class": "LawSection",
+        "num": "22948.1",
+        "versions": 
+        [
+          {
+            "id": "sec22948.1-added-2005-chp0437",
+            "src": "urn:legix:us-ca:2005-chp0437:doc(sec1)",
+            "srcLabel": "Stats. of 2005, Chapter 437 - §1",
+            "effect": "added",
+            "effective": "2006-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22948.2",
+        "class": "LawSection",
+        "num": "22948.2",
+        "versions": 
+        [
+          {
+            "id": "sec22948.2-added-2005-chp0437",
+            "src": "urn:legix:us-ca:2005-chp0437:doc(sec1)",
+            "srcLabel": "Stats. of 2005, Chapter 437 - §1",
+            "effect": "added",
+            "effective": "2006-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22948.3",
+        "class": "LawSection",
+        "num": "22948.3",
+        "versions": 
+        [
+          {
+            "id": "sec22948.3-added-2005-chp0437",
+            "src": "urn:legix:us-ca:2005-chp0437:doc(sec1)",
+            "srcLabel": "Stats. of 2005, Chapter 437 - §1",
+            "effect": "added",
+            "effective": "2006-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

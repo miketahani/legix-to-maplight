@@ -1,0 +1,342 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div4-prt4):json",
+    "title": "Business and Professions Code - Division 4, Part 4",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div4-prt4",
+      "class": "Part",
+      "role": "slim:Part",
+      "num": "4",
+      "title": "Certified Common Interest Development Manager",
+      "id2": "div4-prt4-sec11500",
+      "heading":
+      {
+        "id": "div4-prt4-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div4-prt4-heading-id2CB4AC0262DD"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div4-prt4-chp1",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "1",
+        "title": "Purpose and Definitions",
+        "id2": "chp1-sec11500",
+        "rangeLow": "11500",
+        "rangeHigh": "11501",
+        "rangeText": " [§11500-§11501]",
+        "heading":
+        {
+          "id": "div4-prt4-chp1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div4-prt4-chp1-heading-id868E503E7A8E"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec11500",
+          "class": "LawSection",
+          "num": "11500",
+          "versions": 
+          [
+            {
+              "id": "sec11500-amended-2007-chp0236",
+              "src": "urn:legix:us-ca:2007-chp0236:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 236 - §2",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec11500-amended-2003-chp0147",
+              "src": "urn:legix:us-ca:2003-chp0147:doc(sec1)",
+              "srcLabel": "Stats. of 2003, Chapter 147 - §1",
+              "effect": "amended",
+              "effective": "2004-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec11501",
+          "class": "LawSection",
+          "num": "11501",
+          "versions": 
+          [
+            {
+              "id": "sec11501-amended-2007-chp0236",
+              "src": "urn:legix:us-ca:2007-chp0236:doc(sec3)",
+              "srcLabel": "Stats. of 2007, Chapter 236 - §3",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div4-prt4-chp2",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "2",
+        "title": "Certified Common Interest Development Manager",
+        "id2": "chp2-sec11502",
+        "rangeLow": "11502",
+        "rangeHigh": "11503",
+        "rangeText": " [§11502-§11503]",
+        "heading":
+        {
+          "id": "div4-prt4-chp2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div4-prt4-chp2-heading-id801B47422B77"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec11502",
+          "class": "LawSection",
+          "num": "11502",
+          "versions": 
+          [
+            {
+              "id": "sec11502-amended-2007-chp0236",
+              "src": "urn:legix:us-ca:2007-chp0236:doc(sec4)",
+              "srcLabel": "Stats. of 2007, Chapter 236 - §4",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec11502-amended-2003-chp0147",
+              "src": "urn:legix:us-ca:2003-chp0147:doc(sec2)",
+              "srcLabel": "Stats. of 2003, Chapter 147 - §2",
+              "effect": "amended",
+              "effective": "2004-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec11502.5",
+          "class": "LawSection",
+          "num": "11502.5",
+          "versions": 
+          [
+            {
+              "id": "sec11502.5-amended-2007-chp0236",
+              "src": "urn:legix:us-ca:2007-chp0236:doc(sec5)",
+              "srcLabel": "Stats. of 2007, Chapter 236 - §5",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec11502.5-added-2003-chp0147",
+              "src": "urn:legix:us-ca:2003-chp0147:doc(sec3)",
+              "srcLabel": "Stats. of 2003, Chapter 147 - §3",
+              "effect": "added",
+              "effective": "2004-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec11503",
+          "class": "LawSection",
+          "num": "11503",
+          "versions": 
+          [
+            {
+              "id": "sec11503-added-2002-chp1116",
+              "src": "urn:legix:us-ca:2002-chp1116:doc(sec5)",
+              "srcLabel": "Stats. of 2001, Chapter 1116 - §5",
+              "effect": "added",
+              "effective": "2003-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div4-prt4-chp3",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "3",
+        "title": "Disclosure Requirements",
+        "id2": "chp3-sec11504",
+        "rangeLow": "11504",
+        "rangeText": " [§11504]",
+        "heading":
+        {
+          "id": "div4-prt4-chp3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div4-prt4-chp3-heading-id4C7517632DD0"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec11504",
+          "class": "LawSection",
+          "num": "11504",
+          "versions": 
+          [
+            {
+              "id": "sec11504-amended-2007-chp0236",
+              "src": "urn:legix:us-ca:2007-chp0236:doc(sec6)",
+              "srcLabel": "Stats. of 2007, Chapter 236 - §6",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec11504-amended-2003-chp0147",
+              "src": "urn:legix:us-ca:2003-chp0147:doc(sec4)",
+              "srcLabel": "Stats. of 2003, Chapter 147 - §4",
+              "effect": "amended",
+              "effective": "2004-01-01",
+              "linking": "linked"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div4-prt4-chp4",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "4",
+        "title": "Unfair Business Practices",
+        "id2": "chp4-sec11505",
+        "rangeLow": "11505",
+        "rangeText": " [§11505]",
+        "heading":
+        {
+          "id": "div4-prt4-chp4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div4-prt4-chp4-heading-id95D5833160FE"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec11505",
+          "class": "LawSection",
+          "num": "11505",
+          "versions": 
+          [
+            {
+              "id": "sec11505-amended-2007-chp0236",
+              "src": "urn:legix:us-ca:2007-chp0236:doc(sec7)",
+              "srcLabel": "Stats. of 2007, Chapter 236 - §7",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div4-prt4-chp5",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "5",
+        "title": "Sunset Review",
+        "id2": "chp5-sec11506",
+        "rangeLow": "11506",
+        "rangeText": " [§11506]",
+        "heading":
+        {
+          "id": "div4-prt4-chp5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div4-prt4-chp5-heading-id4945FF63AD41"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec11506",
+          "class": "LawSection",
+          "num": "11506",
+          "versions": 
+          [
+            {
+              "id": "sec11506-amended-2010-chp0695",
+              "src": "urn:legix:us-ca:2010-chp0695:doc(sec46)",
+              "srcLabel": "Stats. of 2009, Chapter 695 - §46",
+              "effect": "amended",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec11506-amended-2007-chp0236",
+              "src": "urn:legix:us-ca:2007-chp0236:doc(sec8)",
+              "srcLabel": "Stats. of 2007, Chapter 236 - §8",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "linked"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

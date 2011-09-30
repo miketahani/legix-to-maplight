@@ -1,0 +1,88 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp17.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 17.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp17.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "17.5",
+      "title": "Appliance Labeling",
+      "id2": "chp17.5-sec22410",
+      "rangeLow": "22410",
+      "rangeHigh": "22411.2",
+      "rangeText": " [§22410-§22411.2]",
+      "heading":
+      {
+        "id": "div8-chp17.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp17.5-heading-id30A9D298F8C5"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22410",
+        "class": "LawSection",
+        "num": "22410",
+        "versions": 
+        [
+          {
+            "id": "sec22410-added-1975-chp0923",
+            "src": "urn:legix:us-ca:1975-chp0923:doc",
+            "srcLabel": "Stats. of 1975, Chapter 923",
+            "effect": "added",
+            "effective": "1976-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22411",
+        "class": "LawSection",
+        "num": "22411",
+        "versions": 
+        [
+          {
+            "id": "sec22411-amended-1977-chp0044",
+            "src": "urn:legix:us-ca:1977-chp0044:doc",
+            "srcLabel": "Stats. of 1977, Chapter 44",
+            "effect": "amended",
+            "effective": "1978-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22411.2",
+        "class": "LawSection",
+        "num": "22411.2",
+        "versions": 
+        [
+          {
+            "id": "sec22411.2-added-1977-chp0044",
+            "src": "urn:legix:us-ca:1977-chp0044:doc",
+            "srcLabel": "Stats. of 1977, Chapter 44",
+            "effect": "added",
+            "effective": "1978-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

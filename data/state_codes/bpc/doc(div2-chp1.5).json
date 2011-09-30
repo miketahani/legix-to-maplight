@@ -1,0 +1,72 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div2-chp1.5):json",
+    "title": "Business and Professions Code - Division 2, Chapter 1.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div2-chp1.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "1.5",
+      "title": "Exemption from Licensure",
+      "id2": "chp1.5-sec900",
+      "rangeLow": "900",
+      "rangeHigh": "901",
+      "rangeText": " [§900-§901]",
+      "heading":
+      {
+        "id": "div2-chp1.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div2-chp1.5-heading-id1DED0522664B"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec900",
+        "class": "LawSection",
+        "num": "900",
+        "versions": 
+        [
+          {
+            "id": "sec900-amended-2010-chp0270",
+            "src": "urn:legix:us-ca:2010-chp0270:doc(sec1)",
+            "srcLabel": "Stats. of 2009, Chapter 270 - §1",
+            "effect": "amended",
+            "effective": "2011-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec901",
+        "class": "LawSection",
+        "num": "901",
+        "versions": 
+        [
+          {
+            "id": "sec901-added-2010-chp0270",
+            "src": "urn:legix:us-ca:2010-chp0270:doc(sec2)",
+            "srcLabel": "Stats. of 2009, Chapter 270 - §2",
+            "effect": "added",
+            "effective": "2011-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

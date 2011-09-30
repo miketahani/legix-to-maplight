@@ -1,0 +1,312 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp20):json",
+    "title": "Business and Professions Code - Division 8, Chapter 20",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp20",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "20",
+      "title": "Professional Photocopiers",
+      "id2": "chp20-sec22450",
+      "rangeLow": "22450",
+      "rangeHigh": "22463",
+      "rangeText": " [§22450-§22463]",
+      "heading":
+      {
+        "id": "div8-chp20-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp20-heading-id086464FA2B88"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22450",
+        "class": "LawSection",
+        "num": "22450",
+        "versions": 
+        [
+          {
+            "id": "sec22450-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22451",
+        "class": "LawSection",
+        "num": "22451",
+        "versions": 
+        [
+          {
+            "id": "sec22451-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22452",
+        "class": "LawSection",
+        "num": "22452",
+        "versions": 
+        [
+          {
+            "id": "sec22452-amended-2009-chp0458",
+            "src": "urn:legix:us-ca:2009-chp0458:doc(sec4)",
+            "srcLabel": "Stats. of 2009, Chapter 458 - §4",
+            "effect": "amended",
+            "effective": "2010-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec22452-amended-2007-chp0402",
+            "src": "urn:legix:us-ca:2007-chp0402:doc(sec3)",
+            "srcLabel": "Stats. of 2007, Chapter 402 - §3",
+            "effect": "amended",
+            "effective": "2008-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec22453",
+        "class": "LawSection",
+        "num": "22453",
+        "versions": 
+        [
+          {
+            "id": "sec22453-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22453.1",
+        "class": "LawSection",
+        "num": "22453.1",
+        "versions": 
+        [
+          {
+            "id": "sec22453.1-amended-2001-chp0728",
+            "src": "urn:legix:us-ca:2001-chp0728:doc(sec69)",
+            "srcLabel": "Stats. of 2001, Chapter 728 - §69",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22454",
+        "class": "LawSection",
+        "num": "22454",
+        "versions": 
+        [
+          {
+            "id": "sec22454-amended-2009-chp0458",
+            "src": "urn:legix:us-ca:2009-chp0458:doc(sec5)",
+            "srcLabel": "Stats. of 2009, Chapter 458 - §5",
+            "effect": "amended",
+            "effective": "2010-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22455",
+        "class": "LawSection",
+        "num": "22455",
+        "versions": 
+        [
+          {
+            "id": "sec22455-amended-2002-chp0784",
+            "src": "urn:legix:us-ca:2002-chp0784:doc(sec9)",
+            "srcLabel": "Stats. of 2001, Chapter 784 - §9",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22456",
+        "class": "LawSection",
+        "num": "22456",
+        "versions": 
+        [
+          {
+            "id": "sec22456-amended-2001-chp0035",
+            "src": "urn:legix:us-ca:2001-chp0035:doc(sec4)",
+            "srcLabel": "Stats. of 2001, Chapter 35 - §4",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec22456-amended-2001-chp0035-ver94",
+            "src": "urn:legix:us-ca:2001-chp0035-ver94:doc(sec4)",
+            "srcLabel": "Stats. of 2001, Chapter 35 - §4",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec22457",
+        "class": "LawSection",
+        "num": "22457",
+        "versions": 
+        [
+          {
+            "id": "sec22457-amended-2009-chp0458",
+            "src": "urn:legix:us-ca:2009-chp0458:doc(sec6)",
+            "srcLabel": "Stats. of 2009, Chapter 458 - §6",
+            "effect": "amended",
+            "effective": "2010-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22458",
+        "class": "LawSection",
+        "num": "22458",
+        "versions": 
+        [
+          {
+            "id": "sec22458-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22459",
+        "class": "LawSection",
+        "num": "22459",
+        "versions": 
+        [
+          {
+            "id": "sec22459-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22460",
+        "class": "LawSection",
+        "num": "22460",
+        "versions": 
+        [
+          {
+            "id": "sec22460-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22460.5",
+        "class": "LawSection",
+        "num": "22460.5",
+        "versions": 
+        [
+          {
+            "id": "sec22460.5-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22461",
+        "class": "LawSection",
+        "num": "22461",
+        "versions": 
+        [
+          {
+            "id": "sec22461-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22462",
+        "class": "LawSection",
+        "num": "22462",
+        "versions": 
+        [
+          {
+            "id": "sec22462-amended-1986-chp0603",
+            "src": "urn:legix:us-ca:1986-chp0603:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 603 - §1",
+            "effect": "amended",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22463",
+        "class": "LawSection",
+        "num": "22463",
+        "versions": 
+        [
+          {
+            "id": "sec22463-added-1984-chp1005",
+            "src": "urn:legix:us-ca:1984-chp1005:doc(sec1)",
+            "srcLabel": "Stats. of 1983, Chapter 1005 - §1",
+            "effect": "added",
+            "effective": "1985-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

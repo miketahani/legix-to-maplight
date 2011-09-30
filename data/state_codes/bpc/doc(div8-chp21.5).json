@@ -1,0 +1,136 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp21.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 21.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp21.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "21.5",
+      "title": "Money Exchange Houses",
+      "id2": "chp21.5-sec22515",
+      "rangeLow": "22515",
+      "rangeHigh": "22519.5",
+      "rangeText": " [§22515-§22519.5]",
+      "heading":
+      {
+        "id": "div8-chp21.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp21.5-heading-idD8C951B375AA"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22515",
+        "class": "LawSection",
+        "num": "22515",
+        "versions": 
+        [
+          {
+            "id": "sec22515-added-1988-chp0433",
+            "src": "urn:legix:us-ca:1988-chp0433:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 433 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22516",
+        "class": "LawSection",
+        "num": "22516",
+        "versions": 
+        [
+          {
+            "id": "sec22516-added-1988-chp0433",
+            "src": "urn:legix:us-ca:1988-chp0433:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 433 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22517",
+        "class": "LawSection",
+        "num": "22517",
+        "versions": 
+        [
+          {
+            "id": "sec22517-added-1988-chp0433",
+            "src": "urn:legix:us-ca:1988-chp0433:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 433 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22518",
+        "class": "LawSection",
+        "num": "22518",
+        "versions": 
+        [
+          {
+            "id": "sec22518-added-1988-chp0433",
+            "src": "urn:legix:us-ca:1988-chp0433:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 433 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22519",
+        "class": "LawSection",
+        "num": "22519",
+        "versions": 
+        [
+          {
+            "id": "sec22519-added-1988-chp0433",
+            "src": "urn:legix:us-ca:1988-chp0433:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 433 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22519.5",
+        "class": "LawSection",
+        "num": "22519.5",
+        "versions": 
+        [
+          {
+            "id": "sec22519.5-added-1990-chp0216",
+            "src": "urn:legix:us-ca:1990-chp0216:doc(sec4)",
+            "srcLabel": "Stats. of 1989, Chapter 216 - §4",
+            "effect": "added",
+            "effective": "1991-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

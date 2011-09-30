@@ -1,0 +1,120 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp24):json",
+    "title": "Business and Professions Code - Division 8, Chapter 24",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp24",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "24",
+      "title": "Bakery Trays,bakery Baskets, and Merchandise Pallets",
+      "id2": "chp24-sec22750",
+      "rangeLow": "22750",
+      "rangeHigh": "22754",
+      "rangeText": " [§22750-§22754]",
+      "heading":
+      {
+        "id": "div8-chp24-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp24-heading-id76422878C7BA"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22750",
+        "class": "LawSection",
+        "num": "22750",
+        "versions": 
+        [
+          {
+            "id": "sec22750-amended-1995-chp0456",
+            "src": "urn:legix:us-ca:1995-chp0456:doc(sec3)",
+            "srcLabel": "Stats. of 1995, Chapter 456 - §3",
+            "effect": "amended",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22751",
+        "class": "LawSection",
+        "num": "22751",
+        "versions": 
+        [
+          {
+            "id": "sec22751-amended-1995-chp0456",
+            "src": "urn:legix:us-ca:1995-chp0456:doc(sec4)",
+            "srcLabel": "Stats. of 1995, Chapter 456 - §4",
+            "effect": "amended",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22752",
+        "class": "LawSection",
+        "num": "22752",
+        "versions": 
+        [
+          {
+            "id": "sec22752-amended-1995-chp0456",
+            "src": "urn:legix:us-ca:1995-chp0456:doc(sec5)",
+            "srcLabel": "Stats. of 1995, Chapter 456 - §5",
+            "effect": "amended",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22753",
+        "class": "LawSection",
+        "num": "22753",
+        "versions": 
+        [
+          {
+            "id": "sec22753-amended-1995-chp0456",
+            "src": "urn:legix:us-ca:1995-chp0456:doc(sec6)",
+            "srcLabel": "Stats. of 1995, Chapter 456 - §6",
+            "effect": "amended",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22754",
+        "class": "LawSection",
+        "num": "22754",
+        "versions": 
+        [
+          {
+            "id": "sec22754-added-1995-chp0456",
+            "src": "urn:legix:us-ca:1995-chp0456:doc(sec7)",
+            "srcLabel": "Stats. of 1995, Chapter 456 - §7",
+            "effect": "added",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

@@ -1,0 +1,216 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div2-chp5.45):json",
+    "title": "Business and Professions Code - Division 2, Chapter 5.45",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div2-chp5.45",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "5.45",
+      "title": "Nonresident Contact Lens Sellers",
+      "id2": "chp5.45-sec2546",
+      "rangeLow": "2546",
+      "rangeHigh": "2546.10",
+      "rangeText": " [§2546-§2546.10]",
+      "heading":
+      {
+        "id": "div2-chp5.45-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div2-chp5.45-heading-id048F920FE3F2"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec2546",
+        "class": "LawSection",
+        "num": "2546",
+        "versions": 
+        [
+          {
+            "id": "sec2546-added-1995-chp0853",
+            "src": "urn:legix:us-ca:1995-chp0853:doc(sec1)",
+            "srcLabel": "Stats. of 1995, Chapter 853 - §1",
+            "effect": "added",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.1",
+        "class": "LawSection",
+        "num": "2546.1",
+        "versions": 
+        [
+          {
+            "id": "sec2546.1-added-1995-chp0853",
+            "src": "urn:legix:us-ca:1995-chp0853:doc(sec1)",
+            "srcLabel": "Stats. of 1995, Chapter 853 - §1",
+            "effect": "added",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.2",
+        "class": "LawSection",
+        "num": "2546.2",
+        "versions": 
+        [
+          {
+            "id": "sec2546.2-amended-2007-chp0678",
+            "src": "urn:legix:us-ca:2007-chp0678:doc(sec28)",
+            "srcLabel": "Stats. of 2007, Chapter 678 - §28",
+            "effect": "amended",
+            "effective": "2008-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.3",
+        "class": "LawSection",
+        "num": "2546.3",
+        "versions": 
+        [
+          {
+            "id": "sec2546.3-added-1995-chp0853",
+            "src": "urn:legix:us-ca:1995-chp0853:doc(sec1)",
+            "srcLabel": "Stats. of 1995, Chapter 853 - §1",
+            "effect": "added",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.4",
+        "class": "LawSection",
+        "num": "2546.4",
+        "versions": 
+        [
+          {
+            "id": "sec2546.4-added-1995-chp0853",
+            "src": "urn:legix:us-ca:1995-chp0853:doc(sec1)",
+            "srcLabel": "Stats. of 1995, Chapter 853 - §1",
+            "effect": "added",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.5",
+        "class": "LawSection",
+        "num": "2546.5",
+        "versions": 
+        [
+          {
+            "id": "sec2546.5-amended-2002-chp0814",
+            "src": "urn:legix:us-ca:2002-chp0814:doc(sec4)",
+            "srcLabel": "Stats. of 2001, Chapter 814 - §4",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.6",
+        "class": "LawSection",
+        "num": "2546.6",
+        "versions": 
+        [
+          {
+            "id": "sec2546.6-amended-2002-chp0814",
+            "src": "urn:legix:us-ca:2002-chp0814:doc(sec5)",
+            "srcLabel": "Stats. of 2001, Chapter 814 - §5",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.7",
+        "class": "LawSection",
+        "num": "2546.7",
+        "versions": 
+        [
+          {
+            "id": "sec2546.7-added-1995-chp0853",
+            "src": "urn:legix:us-ca:1995-chp0853:doc(sec1)",
+            "srcLabel": "Stats. of 1995, Chapter 853 - §1",
+            "effect": "added",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.8",
+        "class": "LawSection",
+        "num": "2546.8",
+        "versions": 
+        [
+          {
+            "id": "sec2546.8-added-1995-chp0853",
+            "src": "urn:legix:us-ca:1995-chp0853:doc(sec1)",
+            "srcLabel": "Stats. of 1995, Chapter 853 - §1",
+            "effect": "added",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.9",
+        "class": "LawSection",
+        "num": "2546.9",
+        "versions": 
+        [
+          {
+            "id": "sec2546.9-amended-2000-chp0836",
+            "src": "urn:legix:us-ca:2000-chp0836:doc(sec17)",
+            "srcLabel": "Stats. of 1999, Chapter 836 - §17",
+            "effect": "amended",
+            "effective": "2001-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2546.10",
+        "class": "LawSection",
+        "num": "2546.10",
+        "versions": 
+        [
+          {
+            "id": "sec2546.10-added-2002-chp0814",
+            "src": "urn:legix:us-ca:2002-chp0814:doc(sec6)",
+            "srcLabel": "Stats. of 2001, Chapter 814 - §6",
+            "effect": "added",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

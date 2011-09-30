@@ -1,0 +1,248 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div5-chp3):json",
+    "title": "Business and Professions Code - Division 5, Chapter 3",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div5-chp3",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "3",
+      "title": "Standards of Weights and Measures",
+      "id2": "chp3-sec12300",
+      "rangeLow": "12300",
+      "rangeHigh": "12314",
+      "rangeText": " [§12300-§12314]",
+      "heading":
+      {
+        "id": "div5-chp3-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div5-chp3-heading-id40968A6D08A3"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec12300",
+        "class": "LawSection",
+        "num": "12300",
+        "versions": 
+        [
+          {
+            "id": "sec12300-added-1939-chp0043",
+            "src": "urn:legix:us-ca:1939-chp0043:doc",
+            "srcLabel": "Stats. of 1939, Chapter 43",
+            "effect": "added",
+            "effective": "1940-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12301",
+        "class": "LawSection",
+        "num": "12301",
+        "versions": 
+        [
+          {
+            "id": "sec12301-added-1939-chp0043",
+            "src": "urn:legix:us-ca:1939-chp0043:doc",
+            "srcLabel": "Stats. of 1939, Chapter 43",
+            "effect": "added",
+            "effective": "1940-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12303",
+        "class": "LawSection",
+        "num": "12303",
+        "versions": 
+        [
+          {
+            "id": "sec12303-added-1981-chp0097",
+            "src": "urn:legix:us-ca:1981-chp0097:doc(sec2)",
+            "srcLabel": "Stats. of 1981, Chapter 97 - §2",
+            "effect": "added",
+            "effective": "1982-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12304",
+        "class": "LawSection",
+        "num": "12304",
+        "versions": 
+        [
+          {
+            "id": "sec12304-added-1981-chp0097",
+            "src": "urn:legix:us-ca:1981-chp0097:doc(sec4)",
+            "srcLabel": "Stats. of 1981, Chapter 97 - §4",
+            "effect": "added",
+            "effective": "1982-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12305",
+        "class": "LawSection",
+        "num": "12305",
+        "versions": 
+        [
+          {
+            "id": "sec12305-added-1981-chp0097",
+            "src": "urn:legix:us-ca:1981-chp0097:doc(sec6)",
+            "srcLabel": "Stats. of 1981, Chapter 97 - §6",
+            "effect": "added",
+            "effective": "1982-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12308",
+        "class": "LawSection",
+        "num": "12308",
+        "versions": 
+        [
+          {
+            "id": "sec12308-amended-1939-chp0992",
+            "src": "urn:legix:us-ca:1939-chp0992:doc",
+            "srcLabel": "Stats. of 1939, Chapter 992",
+            "effect": "amended",
+            "effective": "1940-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12309",
+        "class": "LawSection",
+        "num": "12309",
+        "versions": 
+        [
+          {
+            "id": "sec12309-amended-1939-chp0992",
+            "src": "urn:legix:us-ca:1939-chp0992:doc",
+            "srcLabel": "Stats. of 1939, Chapter 992",
+            "effect": "amended",
+            "effective": "1940-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12310",
+        "class": "LawSection",
+        "num": "12310",
+        "versions": 
+        [
+          {
+            "id": "sec12310-added-1981-chp0097",
+            "src": "urn:legix:us-ca:1981-chp0097:doc(sec8)",
+            "srcLabel": "Stats. of 1981, Chapter 97 - §8",
+            "effect": "added",
+            "effective": "1982-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12310.5",
+        "class": "LawSection",
+        "num": "12310.5",
+        "versions": 
+        [
+          {
+            "id": "sec12310.5-added-1968-chp0731",
+            "src": "urn:legix:us-ca:1968-chp0731:doc",
+            "srcLabel": "Stats. of 1967, Chapter 731",
+            "effect": "added",
+            "effective": "1969-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12311",
+        "class": "LawSection",
+        "num": "12311",
+        "versions": 
+        [
+          {
+            "id": "sec12311-added-1981-chp0097",
+            "src": "urn:legix:us-ca:1981-chp0097:doc(sec10)",
+            "srcLabel": "Stats. of 1981, Chapter 97 - §10",
+            "effect": "added",
+            "effective": "1982-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12312",
+        "class": "LawSection",
+        "num": "12312",
+        "versions": 
+        [
+          {
+            "id": "sec12312-added-1939-chp0043",
+            "src": "urn:legix:us-ca:1939-chp0043:doc",
+            "srcLabel": "Stats. of 1939, Chapter 43",
+            "effect": "added",
+            "effective": "1940-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12313",
+        "class": "LawSection",
+        "num": "12313",
+        "versions": 
+        [
+          {
+            "id": "sec12313-added-1977-chp0872",
+            "src": "urn:legix:us-ca:1977-chp0872:doc",
+            "srcLabel": "Stats. of 1977, Chapter 872",
+            "effect": "added",
+            "effective": "1978-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12314",
+        "class": "LawSection",
+        "num": "12314",
+        "versions": 
+        [
+          {
+            "id": "sec12314-added-1982-chp0758",
+            "src": "urn:legix:us-ca:1982-chp0758:doc(sec1.5)",
+            "srcLabel": "Stats. of 1981, Chapter 758 - §1.5",
+            "effect": "added",
+            "effective": "1983-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

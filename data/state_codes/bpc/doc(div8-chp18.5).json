@@ -1,0 +1,55 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp18.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 18.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp18.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "18.5",
+      "title": "Simulated Checks",
+      "id2": "chp18.5-sec22433",
+      "rangeLow": "22433",
+      "rangeText": " [§22433]",
+      "heading":
+      {
+        "id": "div8-chp18.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp18.5-heading-id891864F1AD80"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22433",
+        "class": "LawSection",
+        "num": "22433",
+        "versions": 
+        [
+          {
+            "id": "sec22433-amended-2000-chp0185",
+            "src": "urn:legix:us-ca:2000-chp0185:doc(sec2)",
+            "srcLabel": "Stats. of 1999, Chapter 185 - §2",
+            "effect": "amended",
+            "effective": "2001-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

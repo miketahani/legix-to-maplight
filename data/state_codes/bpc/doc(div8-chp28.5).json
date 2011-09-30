@@ -1,0 +1,55 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp28.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 28.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp28.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "28.5",
+      "title": "Intermodal Marine Terminals",
+      "id2": "chp28.5-sec22928",
+      "rangeLow": "22928",
+      "rangeText": " [§22928]",
+      "heading":
+      {
+        "id": "div8-chp28.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp28.5-heading-id6DDDBCA70D68"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22928",
+        "class": "LawSection",
+        "num": "22928",
+        "versions": 
+        [
+          {
+            "id": "sec22928-added-2005-chp0244",
+            "src": "urn:legix:us-ca:2005-chp0244:doc(sec1)",
+            "srcLabel": "Stats. of 2005, Chapter 244 - §1",
+            "effect": "added",
+            "effective": "2006-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

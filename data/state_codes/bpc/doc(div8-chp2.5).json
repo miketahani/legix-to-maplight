@@ -1,0 +1,717 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp2.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 2.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp2.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "2.5",
+      "title": "Athlete Agents",
+      "id2": "div8-chp2.5-sec18895",
+      "heading":
+      {
+        "id": "div8-chp2.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp2.5-heading-id0BE0A45D466A"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div8-chp2.5-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "General Provisions",
+        "id2": "art1-sec18895",
+        "rangeLow": "18895",
+        "rangeHigh": "18895.2",
+        "rangeText": " [§18895-§18895.2]",
+        "heading":
+        {
+          "id": "div8-chp2.5-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp2.5-art1-heading-idDE0744D4EA33"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec18895",
+          "class": "LawSection",
+          "num": "18895",
+          "versions": 
+          [
+            {
+              "id": "sec18895-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18895.2",
+          "class": "LawSection",
+          "num": "18895.2",
+          "versions": 
+          [
+            {
+              "id": "sec18895.2-amended-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec1)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §1",
+              "effect": "amended",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec18895.2-amended-1997-chp0015",
+              "src": "urn:legix:us-ca:1997-chp0015:doc(sec1)",
+              "srcLabel": "Stats. of 1997, Chapter 15 - §1",
+              "effect": "amended",
+              "effective": "1998-01-01",
+              "linking": "linked"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp2.5-art1.5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1.5",
+        "title": "Public Disclosure",
+        "id2": "art1.5-sec18896",
+        "rangeLow": "18896",
+        "rangeHigh": "18896.8",
+        "rangeText": " [§18896-§18896.8]",
+        "heading":
+        {
+          "id": "div8-chp2.5-art1.5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp2.5-art1.5-heading-id2E9BA32A4037"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec18896",
+          "class": "LawSection",
+          "num": "18896",
+          "versions": 
+          [
+            {
+              "id": "sec18896-added-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec2)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §2",
+              "effect": "added",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18896.2",
+          "class": "LawSection",
+          "num": "18896.2",
+          "versions": 
+          [
+            {
+              "id": "sec18896.2-added-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec2)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §2",
+              "effect": "added",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18896.3",
+          "class": "LawSection",
+          "num": "18896.3",
+          "versions": 
+          [
+            {
+              "id": "sec18896.3-added-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec2)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §2",
+              "effect": "added",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18896.4",
+          "class": "LawSection",
+          "num": "18896.4",
+          "versions": 
+          [
+            {
+              "id": "sec18896.4-added-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec2)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §2",
+              "effect": "added",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18896.6",
+          "class": "LawSection",
+          "num": "18896.6",
+          "versions": 
+          [
+            {
+              "id": "sec18896.6-added-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec2)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §2",
+              "effect": "added",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18896.8",
+          "class": "LawSection",
+          "num": "18896.8",
+          "versions": 
+          [
+            {
+              "id": "sec18896.8-amended-1999-chp1000",
+              "src": "urn:legix:us-ca:1999-chp1000:doc(sec8.5)",
+              "srcLabel": "Stats. of 1999, Chapter 1000 - §8.5",
+              "effect": "amended",
+              "effective": "2000-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp2.5-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Professional Athletes and Athlete Agents",
+        "id2": "art2-sec18897",
+        "rangeLow": "18897",
+        "rangeHigh": "18897.5",
+        "rangeText": " [§18897-§18897.5]",
+        "heading":
+        {
+          "id": "div8-chp2.5-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp2.5-art2-heading-id4597EBC19828"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec18897",
+          "class": "LawSection",
+          "num": "18897",
+          "versions": 
+          [
+            {
+              "id": "sec18897-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.1",
+          "class": "LawSection",
+          "num": "18897.1",
+          "versions": 
+          [
+            {
+              "id": "sec18897.1-added-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec3)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §3",
+              "effect": "added",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.2",
+          "class": "LawSection",
+          "num": "18897.2",
+          "versions": 
+          [
+            {
+              "id": "sec18897.2-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.23",
+          "class": "LawSection",
+          "num": "18897.23",
+          "versions": 
+          [
+            {
+              "id": "sec18897.23-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.27",
+          "class": "LawSection",
+          "num": "18897.27",
+          "versions": 
+          [
+            {
+              "id": "sec18897.27-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec18897.27-added-1996-chp0858",
+              "src": "urn:legix:us-ca:1996-chp0858:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 858 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.3",
+          "class": "LawSection",
+          "num": "18897.3",
+          "versions": 
+          [
+            {
+              "id": "sec18897.3-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.33",
+          "class": "LawSection",
+          "num": "18897.33",
+          "versions": 
+          [
+            {
+              "id": "sec18897.33-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.37",
+          "class": "LawSection",
+          "num": "18897.37",
+          "versions": 
+          [
+            {
+              "id": "sec18897.37-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.4",
+          "class": "LawSection",
+          "num": "18897.4",
+          "versions": 
+          [
+            {
+              "id": "sec18897.4-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.43",
+          "class": "LawSection",
+          "num": "18897.43",
+          "versions": 
+          [
+            {
+              "id": "sec18897.43-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.47",
+          "class": "LawSection",
+          "num": "18897.47",
+          "versions": 
+          [
+            {
+              "id": "sec18897.47-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.5",
+          "class": "LawSection",
+          "num": "18897.5",
+          "versions": 
+          [
+            {
+              "id": "sec18897.5-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp2.5-art3",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3",
+        "title": "Student Athletes and Educational Institutions 18897.6-18897.77",
+        "heading":
+        {
+          "id": "div8-chp2.5-art3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp2.5-art3-heading-id9FD14CEF0F08"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec18897.6",
+          "class": "LawSection",
+          "num": "18897.6",
+          "versions": 
+          [
+            {
+              "id": "sec18897.6-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.63",
+          "class": "LawSection",
+          "num": "18897.63",
+          "versions": 
+          [
+            {
+              "id": "sec18897.63-amended-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec4)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §4",
+              "effect": "amended",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.67",
+          "class": "LawSection",
+          "num": "18897.67",
+          "versions": 
+          [
+            {
+              "id": "sec18897.67-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.7",
+          "class": "LawSection",
+          "num": "18897.7",
+          "versions": 
+          [
+            {
+              "id": "sec18897.7-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.73",
+          "class": "LawSection",
+          "num": "18897.73",
+          "versions": 
+          [
+            {
+              "id": "sec18897.73-amended-2004-chp0183",
+              "src": "urn:legix:us-ca:2004-chp0183:doc(sec20)",
+              "srcLabel": "Stats. of 2003, Chapter 183 - §20",
+              "effect": "amended",
+              "effective": "2005-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.77",
+          "class": "LawSection",
+          "num": "18897.77",
+          "versions": 
+          [
+            {
+              "id": "sec18897.77-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp2.5-art4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4",
+        "title": "Enforcement",
+        "id2": "art4-sec18897.8",
+        "rangeLow": "18897.8",
+        "rangeHigh": "18897.97",
+        "rangeText": " [§18897.8-§18897.97]",
+        "heading":
+        {
+          "id": "div8-chp2.5-art4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp2.5-art4-heading-id4FAD3025D68D"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec18897.8",
+          "class": "LawSection",
+          "num": "18897.8",
+          "versions": 
+          [
+            {
+              "id": "sec18897.8-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec18897.8-added-1996-chp0858",
+              "src": "urn:legix:us-ca:1996-chp0858:doc(sec3)",
+              "srcLabel": "Stats. of 1995, Chapter 858 - §3",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.83",
+          "class": "LawSection",
+          "num": "18897.83",
+          "versions": 
+          [
+            {
+              "id": "sec18897.83-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.87",
+          "class": "LawSection",
+          "num": "18897.87",
+          "versions": 
+          [
+            {
+              "id": "sec18897.87-amended-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec5)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §5",
+              "effect": "amended",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.9",
+          "class": "LawSection",
+          "num": "18897.9",
+          "versions": 
+          [
+            {
+              "id": "sec18897.9-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec18897.9-added-1996-chp0858",
+              "src": "urn:legix:us-ca:1996-chp0858:doc(sec4)",
+              "srcLabel": "Stats. of 1995, Chapter 858 - §4",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.93",
+          "class": "LawSection",
+          "num": "18897.93",
+          "versions": 
+          [
+            {
+              "id": "sec18897.93-added-1996-chp0857",
+              "src": "urn:legix:us-ca:1996-chp0857:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 857 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec18897.97",
+          "class": "LawSection",
+          "num": "18897.97",
+          "versions": 
+          [
+            {
+              "id": "sec18897.97-added-1997-chp0809",
+              "src": "urn:legix:us-ca:1997-chp0809:doc(sec6)",
+              "srcLabel": "Stats. of 1997, Chapter 809 - §6",
+              "effect": "added",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

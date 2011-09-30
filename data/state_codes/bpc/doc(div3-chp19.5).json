@@ -1,0 +1,248 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div3-chp19.5):json",
+    "title": "Business and Professions Code - Division 3, Chapter 19.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div3-chp19.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "19.5",
+      "title": "Aircraft Repair",
+      "id2": "chp19.5-sec9790",
+      "rangeLow": "9790",
+      "rangeHigh": "9798.4",
+      "rangeText": " [§9790-§9798.4]",
+      "heading":
+      {
+        "id": "div3-chp19.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div3-chp19.5-heading-idDBA0E8F5F7EB"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec9790",
+        "class": "LawSection",
+        "num": "9790",
+        "versions": 
+        [
+          {
+            "id": "sec9790-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9791",
+        "class": "LawSection",
+        "num": "9791",
+        "versions": 
+        [
+          {
+            "id": "sec9791-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9792",
+        "class": "LawSection",
+        "num": "9792",
+        "versions": 
+        [
+          {
+            "id": "sec9792-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9793",
+        "class": "LawSection",
+        "num": "9793",
+        "versions": 
+        [
+          {
+            "id": "sec9793-amended-1993-chp0589",
+            "src": "urn:legix:us-ca:1993-chp0589:doc(sec14)",
+            "srcLabel": "Stats. of 1993, Chapter 589 - §14",
+            "effect": "amended",
+            "effective": "1994-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9794",
+        "class": "LawSection",
+        "num": "9794",
+        "versions": 
+        [
+          {
+            "id": "sec9794-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9795",
+        "class": "LawSection",
+        "num": "9795",
+        "versions": 
+        [
+          {
+            "id": "sec9795-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9796",
+        "class": "LawSection",
+        "num": "9796",
+        "versions": 
+        [
+          {
+            "id": "sec9796-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9797",
+        "class": "LawSection",
+        "num": "9797",
+        "versions": 
+        [
+          {
+            "id": "sec9797-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9798",
+        "class": "LawSection",
+        "num": "9798",
+        "versions": 
+        [
+          {
+            "id": "sec9798-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9798.1",
+        "class": "LawSection",
+        "num": "9798.1",
+        "versions": 
+        [
+          {
+            "id": "sec9798.1-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9798.2",
+        "class": "LawSection",
+        "num": "9798.2",
+        "versions": 
+        [
+          {
+            "id": "sec9798.2-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9798.3",
+        "class": "LawSection",
+        "num": "9798.3",
+        "versions": 
+        [
+          {
+            "id": "sec9798.3-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9798.4",
+        "class": "LawSection",
+        "num": "9798.4",
+        "versions": 
+        [
+          {
+            "id": "sec9798.4-added-1992-chp1001",
+            "src": "urn:legix:us-ca:1992-chp1001:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1001 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

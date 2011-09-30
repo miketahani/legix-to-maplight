@@ -1,0 +1,104 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div7-prt3-chp2):json",
+    "title": "Business and Professions Code - Division 7, Part 3, Chapter 2",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div7-prt3-chp2",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "2",
+      "title": "Premium Coupons",
+      "id2": "chp2-sec17700",
+      "rangeLow": "17700",
+      "rangeHigh": "17702",
+      "rangeText": " [§17700-§17702]",
+      "heading":
+      {
+        "id": "div7-prt3-chp2-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div7-prt3-chp2-heading-id4231D6F5F71F"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec17700",
+        "class": "LawSection",
+        "num": "17700",
+        "versions": 
+        [
+          {
+            "id": "sec17700-amended-1957-chp0776",
+            "src": "urn:legix:us-ca:1957-chp0776:doc",
+            "srcLabel": "Stats. of 1957, Chapter 776",
+            "effect": "amended",
+            "effective": "1958-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17701",
+        "class": "LawSection",
+        "num": "17701",
+        "versions": 
+        [
+          {
+            "id": "sec17701-added-1941-chp0064",
+            "src": "urn:legix:us-ca:1941-chp0064:doc",
+            "srcLabel": "Stats. of 1941, Chapter 64",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17701.5",
+        "class": "LawSection",
+        "num": "17701.5",
+        "versions": 
+        [
+          {
+            "id": "sec17701.5-added-1990-chp0863",
+            "src": "urn:legix:us-ca:1990-chp0863:doc(sec1)",
+            "srcLabel": "Stats. of 1989, Chapter 863 - §1",
+            "effect": "added",
+            "effective": "1991-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17702",
+        "class": "LawSection",
+        "num": "17702",
+        "versions": 
+        [
+          {
+            "id": "sec17702-added-1941-chp0064",
+            "src": "urn:legix:us-ca:1941-chp0064:doc",
+            "srcLabel": "Stats. of 1941, Chapter 64",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

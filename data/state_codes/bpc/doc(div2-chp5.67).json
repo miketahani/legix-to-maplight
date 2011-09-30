@@ -1,0 +1,136 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div2-chp5.67):json",
+    "title": "Business and Professions Code - Division 2, Chapter 5.67",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div2-chp5.67",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "5.67",
+      "title": "Perfusionists",
+      "id2": "chp5.67-sec2590",
+      "rangeLow": "2590",
+      "rangeHigh": "2596",
+      "rangeText": " [§2590-§2596]",
+      "heading":
+      {
+        "id": "div2-chp5.67-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div2-chp5.67-heading-id40D83F036F00"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec2590",
+        "class": "LawSection",
+        "num": "2590",
+        "versions": 
+        [
+          {
+            "id": "sec2590-amended-1997-chp0677",
+            "src": "urn:legix:us-ca:1997-chp0677:doc(sec1)",
+            "srcLabel": "Stats. of 1997, Chapter 677 - §1",
+            "effect": "amended",
+            "effective": "1998-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2591",
+        "class": "LawSection",
+        "num": "2591",
+        "versions": 
+        [
+          {
+            "id": "sec2591-amended-1997-chp0677",
+            "src": "urn:legix:us-ca:1997-chp0677:doc(sec2)",
+            "srcLabel": "Stats. of 1997, Chapter 677 - §2",
+            "effect": "amended",
+            "effective": "1998-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2592",
+        "class": "LawSection",
+        "num": "2592",
+        "versions": 
+        [
+          {
+            "id": "sec2592-amended-1997-chp0677",
+            "src": "urn:legix:us-ca:1997-chp0677:doc(sec3)",
+            "srcLabel": "Stats. of 1997, Chapter 677 - §3",
+            "effect": "amended",
+            "effective": "1998-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2593",
+        "class": "LawSection",
+        "num": "2593",
+        "versions": 
+        [
+          {
+            "id": "sec2593-added-1992-chp0343",
+            "src": "urn:legix:us-ca:1992-chp0343:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 343 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2595",
+        "class": "LawSection",
+        "num": "2595",
+        "versions": 
+        [
+          {
+            "id": "sec2595-added-1992-chp0343",
+            "src": "urn:legix:us-ca:1992-chp0343:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 343 - §2",
+            "effect": "added",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2596",
+        "class": "LawSection",
+        "num": "2596",
+        "versions": 
+        [
+          {
+            "id": "sec2596-amended-1993-chp1267",
+            "src": "urn:legix:us-ca:1993-chp1267:doc(sec47)",
+            "srcLabel": "Stats. of 1993, Chapter 1267 - §47",
+            "effect": "amended",
+            "effective": "1994-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

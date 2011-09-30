@@ -1,0 +1,120 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp22):json",
+    "title": "Business and Professions Code - Division 8, Chapter 22",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp22",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "22",
+      "title": "Internet Privacy Requirements",
+      "id2": "chp22-sec22575",
+      "rangeLow": "22575",
+      "rangeHigh": "22579",
+      "rangeText": " [§22575-§22579]",
+      "heading":
+      {
+        "id": "div8-chp22-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp22-heading-idD83D168F7FBF"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22575",
+        "class": "LawSection",
+        "num": "22575",
+        "versions": 
+        [
+          {
+            "id": "sec22575-amended-2004-chp0865",
+            "src": "urn:legix:us-ca:2004-chp0865:doc(sec32)",
+            "srcLabel": "Stats. of 2003, Chapter 865 - §32",
+            "effect": "amended",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22576",
+        "class": "LawSection",
+        "num": "22576",
+        "versions": 
+        [
+          {
+            "id": "sec22576-added-2003-chp0829",
+            "src": "urn:legix:us-ca:2003-chp0829:doc(sec3)",
+            "srcLabel": "Stats. of 2003, Chapter 829 - §3",
+            "effect": "added",
+            "effective": "2004-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22577",
+        "class": "LawSection",
+        "num": "22577",
+        "versions": 
+        [
+          {
+            "id": "sec22577-added-2003-chp0829",
+            "src": "urn:legix:us-ca:2003-chp0829:doc(sec3)",
+            "srcLabel": "Stats. of 2003, Chapter 829 - §3",
+            "effect": "added",
+            "effective": "2004-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22578",
+        "class": "LawSection",
+        "num": "22578",
+        "versions": 
+        [
+          {
+            "id": "sec22578-added-2003-chp0829",
+            "src": "urn:legix:us-ca:2003-chp0829:doc(sec3)",
+            "srcLabel": "Stats. of 2003, Chapter 829 - §3",
+            "effect": "added",
+            "effective": "2004-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22579",
+        "class": "LawSection",
+        "num": "22579",
+        "versions": 
+        [
+          {
+            "id": "sec22579-added-2003-chp0829",
+            "src": "urn:legix:us-ca:2003-chp0829:doc(sec3)",
+            "srcLabel": "Stats. of 2003, Chapter 829 - §3",
+            "effect": "added",
+            "effective": "2004-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

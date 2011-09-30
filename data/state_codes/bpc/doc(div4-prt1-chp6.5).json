@@ -1,0 +1,400 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div4-prt1-chp6.5):json",
+    "title": "Business and Professions Code - Division 4, Part 1, Chapter 6.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div4-prt1-chp6.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "6.5",
+      "title": "Real Estate Recovery Program",
+      "id2": "chp6.5-sec10470",
+      "rangeLow": "10470",
+      "rangeHigh": "10481",
+      "rangeText": " [§10470-§10481]",
+      "heading":
+      {
+        "id": "div4-prt1-chp6.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div4-prt1-chp6.5-heading-idF0C03FB25EBA"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec10470",
+        "class": "LawSection",
+        "num": "10470",
+        "versions": 
+        [
+          {
+            "id": "sec10470-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10470.1",
+        "class": "LawSection",
+        "num": "10470.1",
+        "versions": 
+        [
+          {
+            "id": "sec10470.1-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10471",
+        "class": "LawSection",
+        "num": "10471",
+        "versions": 
+        [
+          {
+            "id": "sec10471-amended-2001-chp0389",
+            "src": "urn:legix:us-ca:2001-chp0389:doc(sec4)",
+            "srcLabel": "Stats. of 2001, Chapter 389 - §4",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec10471-amended-1998-chp0641",
+            "src": "urn:legix:us-ca:1998-chp0641:doc(sec13)",
+            "srcLabel": "Stats. of 1997, Chapter 641 - §13",
+            "effect": "amended",
+            "effective": "1999-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec10471.1",
+        "class": "LawSection",
+        "num": "10471.1",
+        "versions": 
+        [
+          {
+            "id": "sec10471.1-amended-2001-chp0389",
+            "src": "urn:legix:us-ca:2001-chp0389:doc(sec5)",
+            "srcLabel": "Stats. of 2001, Chapter 389 - §5",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10471.2",
+        "class": "LawSection",
+        "num": "10471.2",
+        "versions": 
+        [
+          {
+            "id": "sec10471.2-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10471.3",
+        "class": "LawSection",
+        "num": "10471.3",
+        "versions": 
+        [
+          {
+            "id": "sec10471.3-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10471.4",
+        "class": "LawSection",
+        "num": "10471.4",
+        "versions": 
+        [
+          {
+            "id": "sec10471.4-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10471.5",
+        "class": "LawSection",
+        "num": "10471.5",
+        "versions": 
+        [
+          {
+            "id": "sec10471.5-amended-2001-chp0389",
+            "src": "urn:legix:us-ca:2001-chp0389:doc(sec6)",
+            "srcLabel": "Stats. of 2001, Chapter 389 - §6",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10471.6",
+        "class": "LawSection",
+        "num": "10471.6",
+        "versions": 
+        [
+          {
+            "id": "sec10471.6-amended-2001-chp0389",
+            "src": "urn:legix:us-ca:2001-chp0389:doc(sec7)",
+            "srcLabel": "Stats. of 2001, Chapter 389 - §7",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10472",
+        "class": "LawSection",
+        "num": "10472",
+        "versions": 
+        [
+          {
+            "id": "sec10472-amended-2001-chp0389",
+            "src": "urn:legix:us-ca:2001-chp0389:doc(sec8)",
+            "srcLabel": "Stats. of 2001, Chapter 389 - §8",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10472.1",
+        "class": "LawSection",
+        "num": "10472.1",
+        "versions": 
+        [
+          {
+            "id": "sec10472.1-amended-2001-chp0389",
+            "src": "urn:legix:us-ca:2001-chp0389:doc(sec9)",
+            "srcLabel": "Stats. of 2001, Chapter 389 - §9",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10473",
+        "class": "LawSection",
+        "num": "10473",
+        "versions": 
+        [
+          {
+            "id": "sec10473-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10473.1",
+        "class": "LawSection",
+        "num": "10473.1",
+        "versions": 
+        [
+          {
+            "id": "sec10473.1-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10474",
+        "class": "LawSection",
+        "num": "10474",
+        "versions": 
+        [
+          {
+            "id": "sec10474-amended-2008-chp0279",
+            "src": "urn:legix:us-ca:2008-chp0279:doc(sec1)",
+            "srcLabel": "Stats. of 2007, Chapter 279 - §1",
+            "effect": "amended",
+            "effective": "2009-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10474.5",
+        "class": "LawSection",
+        "num": "10474.5",
+        "versions": 
+        [
+          {
+            "id": "sec10474.5-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10475",
+        "class": "LawSection",
+        "num": "10475",
+        "versions": 
+        [
+          {
+            "id": "sec10475-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10476",
+        "class": "LawSection",
+        "num": "10476",
+        "versions": 
+        [
+          {
+            "id": "sec10476-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10477",
+        "class": "LawSection",
+        "num": "10477",
+        "versions": 
+        [
+          {
+            "id": "sec10477-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10478",
+        "class": "LawSection",
+        "num": "10478",
+        "versions": 
+        [
+          {
+            "id": "sec10478-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10479",
+        "class": "LawSection",
+        "num": "10479",
+        "versions": 
+        [
+          {
+            "id": "sec10479-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10480",
+        "class": "LawSection",
+        "num": "10480",
+        "versions": 
+        [
+          {
+            "id": "sec10480-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec10481",
+        "class": "LawSection",
+        "num": "10481",
+        "versions": 
+        [
+          {
+            "id": "sec10481-added-1985-chp0690",
+            "src": "urn:legix:us-ca:1985-chp0690:doc(sec3)",
+            "srcLabel": "Stats. of 1985, Chapter 690 - §3",
+            "effect": "added",
+            "effective": "1986-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

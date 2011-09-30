@@ -1,0 +1,31 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp15.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 15.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp15.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "15.5",
+      "title": "Automobile Rental Agencies",
+      "heading":
+      {
+        "id": "div8-chp15.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp15.5-heading-idF13C01465450"
+          }
+        ]
+      
+      }
+    }
+  }
+}
+   

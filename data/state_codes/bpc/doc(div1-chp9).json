@@ -1,0 +1,136 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div1-chp9):json",
+    "title": "Business and Professions Code - Division 1, Chapter 9",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div1-chp9",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "9",
+      "title": "Certification of Third-party Dispute Resolution Processes for New Motor Vehicles",
+      "id2": "chp9-sec472",
+      "rangeLow": "472",
+      "rangeHigh": "472.5",
+      "rangeText": " [§472-§472.5]",
+      "heading":
+      {
+        "id": "div1-chp9-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div1-chp9-heading-id6B129B018EC0"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec472",
+        "class": "LawSection",
+        "num": "472",
+        "versions": 
+        [
+          {
+            "id": "sec472-amended-1992-chp1232",
+            "src": "urn:legix:us-ca:1992-chp1232:doc(sec1)",
+            "srcLabel": "Stats. of 1991, Chapter 1232 - §1",
+            "effect": "amended",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec472.1",
+        "class": "LawSection",
+        "num": "472.1",
+        "versions": 
+        [
+          {
+            "id": "sec472.1-amended-1992-chp1232",
+            "src": "urn:legix:us-ca:1992-chp1232:doc(sec2)",
+            "srcLabel": "Stats. of 1991, Chapter 1232 - §2",
+            "effect": "amended",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec472.2",
+        "class": "LawSection",
+        "num": "472.2",
+        "versions": 
+        [
+          {
+            "id": "sec472.2-amended-1992-chp1232",
+            "src": "urn:legix:us-ca:1992-chp1232:doc(sec3)",
+            "srcLabel": "Stats. of 1991, Chapter 1232 - §3",
+            "effect": "amended",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec472.3",
+        "class": "LawSection",
+        "num": "472.3",
+        "versions": 
+        [
+          {
+            "id": "sec472.3-amended-1992-chp1232",
+            "src": "urn:legix:us-ca:1992-chp1232:doc(sec4)",
+            "srcLabel": "Stats. of 1991, Chapter 1232 - §4",
+            "effect": "amended",
+            "effective": "1993-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec472.4",
+        "class": "LawSection",
+        "num": "472.4",
+        "versions": 
+        [
+          {
+            "id": "sec472.4-amended-2002-chp0107",
+            "src": "urn:legix:us-ca:2002-chp0107:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 107 - §1",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec472.5",
+        "class": "LawSection",
+        "num": "472.5",
+        "versions": 
+        [
+          {
+            "id": "sec472.5-amended-1998-chp0970",
+            "src": "urn:legix:us-ca:1998-chp0970:doc(sec3)",
+            "srcLabel": "Stats. of 1997, Chapter 970 - §3",
+            "effect": "amended",
+            "effective": "1999-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

@@ -1,0 +1,152 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div2-chp5.65):json",
+    "title": "Business and Professions Code - Division 2, Chapter 5.65",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div2-chp5.65",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "5.65",
+      "title": "Dietitians",
+      "id2": "chp5.65-sec2585",
+      "rangeLow": "2585",
+      "rangeHigh": "2586.8",
+      "rangeText": " [§2585-§2586.8]",
+      "heading":
+      {
+        "id": "div2-chp5.65-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div2-chp5.65-heading-idFD8B91ECFD12"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec2585",
+        "class": "LawSection",
+        "num": "2585",
+        "versions": 
+        [
+          {
+            "id": "sec2585-amended-2001-chp0628",
+            "src": "urn:legix:us-ca:2001-chp0628:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 628 - §1",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec2585-amended-1995-chp0180",
+            "src": "urn:legix:us-ca:1995-chp0180:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 180 - §2",
+            "effect": "amended",
+            "effective": "1996-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec2586",
+        "class": "LawSection",
+        "num": "2586",
+        "versions": 
+        [
+          {
+            "id": "sec2586-amended-2002-chp0325",
+            "src": "urn:legix:us-ca:2002-chp0325:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 325 - §1",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec2586-amended-2001-chp0628",
+            "src": "urn:legix:us-ca:2001-chp0628:doc(sec2)",
+            "srcLabel": "Stats. of 2001, Chapter 628 - §2",
+            "effect": "amended",
+            "effective": "2002-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec2586.2",
+        "class": "LawSection",
+        "num": "2586.2",
+        "versions": 
+        [
+          {
+            "id": "sec2586.2-added-2003-chp0069",
+            "src": "urn:legix:us-ca:2003-chp0069:doc(sec1)",
+            "srcLabel": "Stats. of 2003, Chapter 69 - §1",
+            "effect": "added",
+            "effective": "2004-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2586.4",
+        "class": "LawSection",
+        "num": "2586.4",
+        "versions": 
+        [
+          {
+            "id": "sec2586.4-added-2003-chp0069",
+            "src": "urn:legix:us-ca:2003-chp0069:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 69 - §2",
+            "effect": "added",
+            "effective": "2004-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2586.6",
+        "class": "LawSection",
+        "num": "2586.6",
+        "versions": 
+        [
+          {
+            "id": "sec2586.6-added-2003-chp0069",
+            "src": "urn:legix:us-ca:2003-chp0069:doc(sec3)",
+            "srcLabel": "Stats. of 2003, Chapter 69 - §3",
+            "effect": "added",
+            "effective": "2004-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec2586.8",
+        "class": "LawSection",
+        "num": "2586.8",
+        "versions": 
+        [
+          {
+            "id": "sec2586.8-added-2003-chp0069",
+            "src": "urn:legix:us-ca:2003-chp0069:doc(sec4)",
+            "srcLabel": "Stats. of 2003, Chapter 69 - §4",
+            "effect": "added",
+            "effective": "2004-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

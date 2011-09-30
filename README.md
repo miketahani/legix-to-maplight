@@ -1,23 +1,23 @@
-# legix to maplight
+# Legix to Maplight
 
-names organizations that influenced the creation of california state codes.
+Expose organizations that influenced the creation of california state codes.
 
-### technical description
+### Technical Description
 
-a mashup script that combines [legix](http://legix.info)'s API and [maplight](http://maplight.org)'s API.
+A mashup script that combines [Legix](http://legix.info)'s API and [Maplight](http://maplight.org)'s API.
 
-1. get legix-formatted file as command-line input *(e.g., division one of the business professional code at <http://legix.info/us-ca/code-bpc/doc(div1).json>)*
-2. parse that json file for statute information
-3. look up corresponding bill number
-4. use bill number to search [maplight](http://maplight.org)'s california API
-5. list organizations and their position (support/oppose) on the legislation
+1. Get legix-formatted file as command-line input *(e.g., Division 1 of the Business Professional Code at <http://legix.info/us-ca/code-bpc/doc(div1).json>)*
+2. Parse that JSON file for statute information
+3. Look up corresponding bill number in **/data/statuteslist.json**
+4. Use the returned bill number to search [Maplight](http://maplight.org)'s California API
+5. List organizations and their position (support/oppose) on the legislation
 
-### future
+### Future
 
-* link campaign contribution data
-* building a frontend for one-click, on-demand information retrieval
-* data visualization (think graphs, as in graph theory)
+* Link this data to campaign contribution data
+* Build a frontend for one-click, on-demand information retrieval
+* Data visualization (think graphs, as in graph theory)
 
-### author
+### Author Info
 
-mike tahani
+Mike Tahani, m.tahani at gmail

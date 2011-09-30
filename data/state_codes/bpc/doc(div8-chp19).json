@@ -1,0 +1,293 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp19):json",
+    "title": "Business and Professions Code - Division 8, Chapter 19",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp19",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "19",
+      "title": "Shopping and Laundry Carts",
+      "id2": "div8-chp19-sec22435",
+      "heading":
+      {
+        "id": "div8-chp19-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp19-heading-idD14C3331CFD4"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div8-chp19-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "Identification of Shopping and Laundry Carts",
+        "id2": "art1-sec22435",
+        "rangeLow": "22435",
+        "rangeHigh": "22435.8",
+        "rangeText": " [§22435-§22435.8]",
+        "heading":
+        {
+          "id": "div8-chp19-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp19-art1-heading-idF625828F23DB"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec22435",
+          "class": "LawSection",
+          "num": "22435",
+          "versions": 
+          [
+            {
+              "id": "sec22435-added-1981-chp0687",
+              "src": "urn:legix:us-ca:1981-chp0687:doc(sec1)",
+              "srcLabel": "Stats. of 1981, Chapter 687 - §1",
+              "effect": "added",
+              "effective": "1982-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.1",
+          "class": "LawSection",
+          "num": "22435.1",
+          "versions": 
+          [
+            {
+              "id": "sec22435.1-amended-1996-chp0291",
+              "src": "urn:legix:us-ca:1996-chp0291:doc(sec1)",
+              "srcLabel": "Stats. of 1995, Chapter 291 - §1",
+              "effect": "amended",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.2",
+          "class": "LawSection",
+          "num": "22435.2",
+          "versions": 
+          [
+            {
+              "id": "sec22435.2-amended-1983-chp0436",
+              "src": "urn:legix:us-ca:1983-chp0436:doc(sec1)",
+              "srcLabel": "Stats. of 1983, Chapter 436 - §1",
+              "effect": "amended",
+              "effective": "1984-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.3",
+          "class": "LawSection",
+          "num": "22435.3",
+          "versions": 
+          [
+            {
+              "id": "sec22435.3-added-1981-chp0687",
+              "src": "urn:legix:us-ca:1981-chp0687:doc(sec1)",
+              "srcLabel": "Stats. of 1981, Chapter 687 - §1",
+              "effect": "added",
+              "effective": "1982-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.4",
+          "class": "LawSection",
+          "num": "22435.4",
+          "versions": 
+          [
+            {
+              "id": "sec22435.4-added-1981-chp0687",
+              "src": "urn:legix:us-ca:1981-chp0687:doc(sec1)",
+              "srcLabel": "Stats. of 1981, Chapter 687 - §1",
+              "effect": "added",
+              "effective": "1982-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.5",
+          "class": "LawSection",
+          "num": "22435.5",
+          "versions": 
+          [
+            {
+              "id": "sec22435.5-added-1983-chp0436",
+              "src": "urn:legix:us-ca:1983-chp0436:doc(sec2)",
+              "srcLabel": "Stats. of 1983, Chapter 436 - §2",
+              "effect": "added",
+              "effective": "1984-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.7",
+          "class": "LawSection",
+          "num": "22435.7",
+          "versions": 
+          [
+            {
+              "id": "sec22435.7-amended-1998-chp0016",
+              "src": "urn:legix:us-ca:1998-chp0016:doc(sec1)",
+              "srcLabel": "Stats. of 1997, Chapter 16 - §1",
+              "effect": "amended",
+              "effective": "1999-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec22435.7-added-1996-chp0291",
+              "src": "urn:legix:us-ca:1996-chp0291:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 291 - §2",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.8",
+          "class": "LawSection",
+          "num": "22435.8",
+          "versions": 
+          [
+            {
+              "id": "sec22435.8-added-1998-chp0016",
+              "src": "urn:legix:us-ca:1998-chp0016:doc(sec2)",
+              "srcLabel": "Stats. of 1997, Chapter 16 - §2",
+              "effect": "added",
+              "effective": "1999-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div8-chp19-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Shopping Cart or Laundry Cart Retrieval Services",
+        "id2": "art2-sec22435.10",
+        "rangeLow": "22435.10",
+        "rangeHigh": "22435.13",
+        "rangeText": " [§22435.10-§22435.13]",
+        "heading":
+        {
+          "id": "div8-chp19-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div8-chp19-art2-heading-idAA43C8C6324C"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec22435.10",
+          "class": "LawSection",
+          "num": "22435.10",
+          "versions": 
+          [
+            {
+              "id": "sec22435.10-added-1981-chp0687",
+              "src": "urn:legix:us-ca:1981-chp0687:doc(sec1)",
+              "srcLabel": "Stats. of 1981, Chapter 687 - §1",
+              "effect": "added",
+              "effective": "1982-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.11",
+          "class": "LawSection",
+          "num": "22435.11",
+          "versions": 
+          [
+            {
+              "id": "sec22435.11-added-1981-chp0687",
+              "src": "urn:legix:us-ca:1981-chp0687:doc(sec1)",
+              "srcLabel": "Stats. of 1981, Chapter 687 - §1",
+              "effect": "added",
+              "effective": "1982-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.12",
+          "class": "LawSection",
+          "num": "22435.12",
+          "versions": 
+          [
+            {
+              "id": "sec22435.12-added-1981-chp0687",
+              "src": "urn:legix:us-ca:1981-chp0687:doc(sec1)",
+              "srcLabel": "Stats. of 1981, Chapter 687 - §1",
+              "effect": "added",
+              "effective": "1982-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec22435.13",
+          "class": "LawSection",
+          "num": "22435.13",
+          "versions": 
+          [
+            {
+              "id": "sec22435.13-added-1981-chp0687",
+              "src": "urn:legix:us-ca:1981-chp0687:doc(sec1)",
+              "srcLabel": "Stats. of 1981, Chapter 687 - §1",
+              "effect": "added",
+              "effective": "1982-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

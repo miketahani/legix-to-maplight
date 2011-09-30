@@ -1,0 +1,184 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div3-chp21.5):json",
+    "title": "Business and Professions Code - Division 3, Chapter 21.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div3-chp21.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "21.5",
+      "title": "Foreign Labor Contractors",
+      "id2": "chp21.5-sec9998",
+      "rangeLow": "9998",
+      "rangeHigh": "9998.8",
+      "rangeText": " [§9998-§9998.8]",
+      "heading":
+      {
+        "id": "div3-chp21.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div3-chp21.5-heading-id51CCE4B0E775"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec9998",
+        "class": "LawSection",
+        "num": "9998",
+        "versions": 
+        [
+          {
+            "id": "sec9998-added-1988-chp1450",
+            "src": "urn:legix:us-ca:1988-chp1450:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 1450 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9998.1",
+        "class": "LawSection",
+        "num": "9998.1",
+        "versions": 
+        [
+          {
+            "id": "sec9998.1-amended-1994-chp1010",
+            "src": "urn:legix:us-ca:1994-chp1010:doc(sec18)",
+            "srcLabel": "Stats. of 1993, Chapter 1010 - §18",
+            "effect": "amended",
+            "effective": "1995-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9998.2",
+        "class": "LawSection",
+        "num": "9998.2",
+        "versions": 
+        [
+          {
+            "id": "sec9998.2-amended-1989-chp1360",
+            "src": "urn:legix:us-ca:1989-chp1360:doc(sec6)",
+            "srcLabel": "Stats. of 1989, Chapter 1360 - §6",
+            "effect": "amended",
+            "effective": "1990-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9998.3",
+        "class": "LawSection",
+        "num": "9998.3",
+        "versions": 
+        [
+          {
+            "id": "sec9998.3-added-1988-chp1450",
+            "src": "urn:legix:us-ca:1988-chp1450:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 1450 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9998.4",
+        "class": "LawSection",
+        "num": "9998.4",
+        "versions": 
+        [
+          {
+            "id": "sec9998.4-added-1988-chp1450",
+            "src": "urn:legix:us-ca:1988-chp1450:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 1450 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9998.5",
+        "class": "LawSection",
+        "num": "9998.5",
+        "versions": 
+        [
+          {
+            "id": "sec9998.5-added-1988-chp1450",
+            "src": "urn:legix:us-ca:1988-chp1450:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 1450 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9998.6",
+        "class": "LawSection",
+        "num": "9998.6",
+        "versions": 
+        [
+          {
+            "id": "sec9998.6-added-1988-chp1450",
+            "src": "urn:legix:us-ca:1988-chp1450:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 1450 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9998.7",
+        "class": "LawSection",
+        "num": "9998.7",
+        "versions": 
+        [
+          {
+            "id": "sec9998.7-added-1988-chp1450",
+            "src": "urn:legix:us-ca:1988-chp1450:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 1450 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec9998.8",
+        "class": "LawSection",
+        "num": "9998.8",
+        "versions": 
+        [
+          {
+            "id": "sec9998.8-added-1988-chp1450",
+            "src": "urn:legix:us-ca:1988-chp1450:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 1450 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

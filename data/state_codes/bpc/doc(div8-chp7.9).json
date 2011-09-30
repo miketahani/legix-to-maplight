@@ -1,0 +1,72 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp7.9):json",
+    "title": "Business and Professions Code - Division 8, Chapter 7.9",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp7.9",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "7.9",
+      "title": "Hours of Business",
+      "id2": "chp7.9-sec21150",
+      "rangeLow": "21150",
+      "rangeHigh": "21150.1",
+      "rangeText": " [§21150-§21150.1]",
+      "heading":
+      {
+        "id": "div8-chp7.9-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp7.9-heading-id59265951C703"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec21150",
+        "class": "LawSection",
+        "num": "21150",
+        "versions": 
+        [
+          {
+            "id": "sec21150-added-1981-chp0090",
+            "src": "urn:legix:us-ca:1981-chp0090:doc(sec9)",
+            "srcLabel": "Stats. of 1981, Chapter 90 - §9",
+            "effect": "added",
+            "effective": "1982-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21150.1",
+        "class": "LawSection",
+        "num": "21150.1",
+        "versions": 
+        [
+          {
+            "id": "sec21150.1-amended-1982-chp0599",
+            "src": "urn:legix:us-ca:1982-chp0599:doc(sec1)",
+            "srcLabel": "Stats. of 1981, Chapter 599 - §1",
+            "effect": "amended",
+            "effective": "1983-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

@@ -1,0 +1,734 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div6-chp2):json",
+    "title": "Business and Professions Code - Division 6, Chapter 2",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div6-chp2",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "2",
+      "title": "Model State Trademark Law",
+      "id2": "div6-chp2-sec14200",
+      "heading":
+      {
+        "id": "div6-chp2-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div6-chp2-heading-idD6FEFACAC847"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div6-chp2-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "General Provisions",
+        "id2": "art1-sec14200",
+        "rangeLow": "14200",
+        "rangeHigh": "14202",
+        "rangeText": " [§14200-§14202]",
+        "heading":
+        {
+          "id": "div6-chp2-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art1-heading-id17E1ECE63C80"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14200",
+          "class": "LawSection",
+          "num": "14200",
+          "versions": 
+          [
+            {
+              "id": "sec14200-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14202",
+          "class": "LawSection",
+          "num": "14202",
+          "versions": 
+          [
+            {
+              "id": "sec14202-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Application for Registration",
+        "id2": "art2-sec14205",
+        "rangeLow": "14205",
+        "rangeHigh": "14209",
+        "rangeText": " [§14205-§14209]",
+        "heading":
+        {
+          "id": "div6-chp2-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art2-heading-id96467F8B035B"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14205",
+          "class": "LawSection",
+          "num": "14205",
+          "versions": 
+          [
+            {
+              "id": "sec14205-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14207",
+          "class": "LawSection",
+          "num": "14207",
+          "versions": 
+          [
+            {
+              "id": "sec14207-amended-2008-chp0179",
+              "src": "urn:legix:us-ca:2008-chp0179:doc(sec20)",
+              "srcLabel": "Stats. of 2007, Chapter 179 - §20",
+              "effect": "amended",
+              "effective": "2009-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14209",
+          "class": "LawSection",
+          "num": "14209",
+          "versions": 
+          [
+            {
+              "id": "sec14209-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art3",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3",
+        "title": "Certificate of Registration",
+        "id2": "art3-sec14215",
+        "rangeLow": "14215",
+        "rangeHigh": "14217",
+        "rangeText": " [§14215-§14217]",
+        "heading":
+        {
+          "id": "div6-chp2-art3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art3-heading-id4F0AE1F68F56"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14215",
+          "class": "LawSection",
+          "num": "14215",
+          "versions": 
+          [
+            {
+              "id": "sec14215-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14217",
+          "class": "LawSection",
+          "num": "14217",
+          "versions": 
+          [
+            {
+              "id": "sec14217-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4",
+        "title": "Assignments, Changes of Name, and Other Instruments",
+        "id2": "art4-sec14220",
+        "rangeLow": "14220",
+        "rangeText": " [§14220]",
+        "heading":
+        {
+          "id": "div6-chp2-art4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art4-heading-id64E25B0DA847"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14220",
+          "class": "LawSection",
+          "num": "14220",
+          "versions": 
+          [
+            {
+              "id": "sec14220-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "5",
+        "title": "Records",
+        "id2": "art5-sec14225",
+        "rangeLow": "14225",
+        "rangeText": " [§14225]",
+        "heading":
+        {
+          "id": "div6-chp2-art5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art5-heading-idB51DA81C7CCB"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14225",
+          "class": "LawSection",
+          "num": "14225",
+          "versions": 
+          [
+            {
+              "id": "sec14225-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art6",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "6",
+        "title": "Cancellation",
+        "id2": "art6-sec14230",
+        "rangeLow": "14230",
+        "rangeText": " [§14230]",
+        "heading":
+        {
+          "id": "div6-chp2-art6-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art6-heading-idB52B3217284B"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14230",
+          "class": "LawSection",
+          "num": "14230",
+          "versions": 
+          [
+            {
+              "id": "sec14230-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art7",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "7",
+        "title": "Classification",
+        "id2": "art7-sec14235",
+        "rangeLow": "14235",
+        "rangeText": " [§14235]",
+        "heading":
+        {
+          "id": "div6-chp2-art7-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art7-heading-idB74012A5F4E0"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14235",
+          "class": "LawSection",
+          "num": "14235",
+          "versions": 
+          [
+            {
+              "id": "sec14235-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art8",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "8",
+        "title": "Fraudulent Registration",
+        "id2": "art8-sec14240",
+        "rangeLow": "14240",
+        "rangeText": " [§14240]",
+        "heading":
+        {
+          "id": "div6-chp2-art8-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art8-heading-id99B38B225FDE"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14240",
+          "class": "LawSection",
+          "num": "14240",
+          "versions": 
+          [
+            {
+              "id": "sec14240-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art9",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "9",
+        "title": "Violations",
+        "id2": "art9-sec14245",
+        "rangeLow": "14245",
+        "rangeHigh": "14259",
+        "rangeText": " [§14245-§14259]",
+        "heading":
+        {
+          "id": "div6-chp2-art9-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art9-heading-idC9DA07CC23A2"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14245",
+          "class": "LawSection",
+          "num": "14245",
+          "versions": 
+          [
+            {
+              "id": "sec14245-amended-2008-chp0179",
+              "src": "urn:legix:us-ca:2008-chp0179:doc(sec21)",
+              "srcLabel": "Stats. of 2007, Chapter 179 - §21",
+              "effect": "amended",
+              "effective": "2009-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14247",
+          "class": "LawSection",
+          "num": "14247",
+          "versions": 
+          [
+            {
+              "id": "sec14247-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14250",
+          "class": "LawSection",
+          "num": "14250",
+          "versions": 
+          [
+            {
+              "id": "sec14250-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec14250-amended-1995-chp0656",
+              "src": "urn:legix:us-ca:1995-chp0656:doc(sec2)",
+              "srcLabel": "Stats. of 1995, Chapter 656 - §2",
+              "effect": "amended",
+              "effective": "1996-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec14252",
+          "class": "LawSection",
+          "num": "14252",
+          "versions": 
+          [
+            {
+              "id": "sec14252-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14254",
+          "class": "LawSection",
+          "num": "14254",
+          "versions": 
+          [
+            {
+              "id": "sec14254-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14259",
+          "class": "LawSection",
+          "num": "14259",
+          "versions": 
+          [
+            {
+              "id": "sec14259-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art10",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "10",
+        "title": "Fees",
+        "id2": "art10-sec14260",
+        "rangeLow": "14260",
+        "rangeText": " [§14260]",
+        "heading":
+        {
+          "id": "div6-chp2-art10-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art10-heading-idAFF746285AAA"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14260",
+          "class": "LawSection",
+          "num": "14260",
+          "versions": 
+          [
+            {
+              "id": "sec14260-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec14260-amended-1995-chp0656",
+              "src": "urn:legix:us-ca:1995-chp0656:doc(sec3)",
+              "srcLabel": "Stats. of 1995, Chapter 656 - §3",
+              "effect": "amended",
+              "effective": "1996-01-01",
+              "linking": "linked"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art11",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "11",
+        "title": "Severability",
+        "id2": "art11-sec14265",
+        "rangeLow": "14265",
+        "rangeText": " [§14265]",
+        "heading":
+        {
+          "id": "div6-chp2-art11-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art11-heading-id4DC59FC0CAD8"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14265",
+          "class": "LawSection",
+          "num": "14265",
+          "versions": 
+          [
+            {
+              "id": "sec14265-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div6-chp2-art12",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "12",
+        "title": "Miscellaneous",
+        "id2": "art12-sec14270",
+        "rangeLow": "14270",
+        "rangeHigh": "14272",
+        "rangeText": " [§14270-§14272]",
+        "heading":
+        {
+          "id": "div6-chp2-art12-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div6-chp2-art12-heading-id072151EAAE7B"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec14270",
+          "class": "LawSection",
+          "num": "14270",
+          "versions": 
+          [
+            {
+              "id": "sec14270-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec14272",
+          "class": "LawSection",
+          "num": "14272",
+          "versions": 
+          [
+            {
+              "id": "sec14272-added-2007-chp0711",
+              "src": "urn:legix:us-ca:2007-chp0711:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 711 - §2",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

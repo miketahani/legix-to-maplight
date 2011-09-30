@@ -1,0 +1,88 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp6.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 6.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp6.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "6.5",
+      "title": "Video Arcades",
+      "id2": "chp6.5-sec20600",
+      "rangeLow": "20600",
+      "rangeHigh": "20602",
+      "rangeText": " [§20600-§20602]",
+      "heading":
+      {
+        "id": "div8-chp6.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp6.5-heading-id1DEE3BDA2087"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec20600",
+        "class": "LawSection",
+        "num": "20600",
+        "versions": 
+        [
+          {
+            "id": "sec20600-added-2002-chp0748",
+            "src": "urn:legix:us-ca:2002-chp0748:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 748 - §1",
+            "effect": "added",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec20601",
+        "class": "LawSection",
+        "num": "20601",
+        "versions": 
+        [
+          {
+            "id": "sec20601-added-2002-chp0748",
+            "src": "urn:legix:us-ca:2002-chp0748:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 748 - §1",
+            "effect": "added",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec20602",
+        "class": "LawSection",
+        "num": "20602",
+        "versions": 
+        [
+          {
+            "id": "sec20602-added-2002-chp0748",
+            "src": "urn:legix:us-ca:2002-chp0748:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 748 - §1",
+            "effect": "added",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

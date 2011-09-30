@@ -1,0 +1,255 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp23):json",
+    "title": "Business and Professions Code - Division 8, Chapter 23",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp23",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "23",
+      "title": "Tanning Facilities",
+      "id2": "chp23-sec22700",
+      "rangeLow": "22700",
+      "rangeHigh": "22708",
+      "rangeText": " [§22700-§22708]",
+      "heading":
+      {
+        "id": "div8-chp23-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp23-heading-id35E6535E02F9"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22700",
+        "class": "LawSection",
+        "num": "22700",
+        "versions": 
+        [
+          {
+            "id": "sec22700-added-1988-chp0808",
+            "src": "urn:legix:us-ca:1988-chp0808:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 808 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22701",
+        "class": "LawSection",
+        "num": "22701",
+        "versions": 
+        [
+          {
+            "id": "sec22701-amended-2006-chp0538",
+            "src": "urn:legix:us-ca:2006-chp0538:doc(sec31)",
+            "srcLabel": "Stats. of 2005, Chapter 538 - §31",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22702",
+        "class": "LawSection",
+        "num": "22702",
+        "versions": 
+        [
+          {
+            "id": "sec22702-amended-2007-chp0590",
+            "src": "urn:legix:us-ca:2007-chp0590:doc(sec1)",
+            "srcLabel": "Stats. of 2007, Chapter 590 - §1",
+            "effect": "amended",
+            "effective": "2008-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22703",
+        "class": "LawSection",
+        "num": "22703",
+        "versions": 
+        [
+          {
+            "id": "sec22703-added-1988-chp0808",
+            "src": "urn:legix:us-ca:1988-chp0808:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 808 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22704",
+        "class": "LawSection",
+        "num": "22704",
+        "versions": 
+        [
+          {
+            "id": "sec22704-added-1988-chp0808",
+            "src": "urn:legix:us-ca:1988-chp0808:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 808 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22705",
+        "class": "LawSection",
+        "num": "22705",
+        "versions": 
+        [
+          {
+            "id": "sec22705-amended-2007-chp0590",
+            "src": "urn:legix:us-ca:2007-chp0590:doc(sec2)",
+            "srcLabel": "Stats. of 2007, Chapter 590 - §2",
+            "effect": "amended",
+            "effective": "2008-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec1",
+        "class": "LawSection",
+        "num": "1",
+        "versions": 
+        [
+          {
+            "id": "sec1-idEE43C2161125"
+          }
+        ]
+      },
+      {
+        "id": "sec2",
+        "class": "LawSection",
+        "num": "2",
+        "versions": 
+        [
+          {
+            "id": "sec2-idCFF76AEF8514"
+          }
+        ]
+      },
+      {
+        "id": "sec3",
+        "class": "LawSection",
+        "num": "3",
+        "versions": 
+        [
+          {
+            "id": "sec3-idDFEEB7EB997A"
+          }
+        ]
+      },
+      {
+        "id": "sec4",
+        "class": "LawSection",
+        "num": "4",
+        "versions": 
+        [
+          {
+            "id": "sec4-id6B79B51825E3"
+          }
+        ]
+      },
+      {
+        "id": "sec5",
+        "class": "LawSection",
+        "num": "5",
+        "versions": 
+        [
+          {
+            "id": "sec5-idBFF65137A867"
+          }
+        ]
+      },
+      {
+        "id": "sec22706",
+        "class": "LawSection",
+        "num": "22706",
+        "versions": 
+        [
+          {
+            "id": "sec22706-amended-2007-chp0590",
+            "src": "urn:legix:us-ca:2007-chp0590:doc(sec3)",
+            "srcLabel": "Stats. of 2007, Chapter 590 - §3",
+            "effect": "amended",
+            "effective": "2008-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec22706-amended-2004-chp0758",
+            "src": "urn:legix:us-ca:2004-chp0758:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 758 - §2",
+            "effect": "amended",
+            "effective": "2005-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec22707",
+        "class": "LawSection",
+        "num": "22707",
+        "versions": 
+        [
+          {
+            "id": "sec22707-added-1988-chp0808",
+            "src": "urn:legix:us-ca:1988-chp0808:doc(sec1)",
+            "srcLabel": "Stats. of 1987, Chapter 808 - §1",
+            "effect": "added",
+            "effective": "1989-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22708",
+        "class": "LawSection",
+        "num": "22708",
+        "versions": 
+        [
+          {
+            "id": "sec22708-amended-2004-chp0758",
+            "src": "urn:legix:us-ca:2004-chp0758:doc(sec3)",
+            "srcLabel": "Stats. of 2003, Chapter 758 - §3",
+            "effect": "amended",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec22708-amended-1993-chp0521",
+            "src": "urn:legix:us-ca:1993-chp0521:doc(sec2)",
+            "srcLabel": "Stats. of 1993, Chapter 521 - §2",
+            "effect": "amended",
+            "effective": "1994-01-01",
+            "linking": "linked"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

@@ -1,0 +1,311 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div5-chp15):json",
+    "title": "Business and Professions Code - Division 5, Chapter 15",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div5-chp15",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "15",
+      "title": "Automotive Products",
+      "id2": "div5-chp15-sec13710",
+      "heading":
+      {
+        "id": "div5-chp15-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div5-chp15-heading-id813C6803308D"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div5-chp15-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "General Provisions",
+        "heading":
+        {
+          "id": "div5-chp15-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp15-art1-heading-id0850B1872751"
+            }
+          ]
+      
+        }
+      },
+      {
+        "id": "div5-chp15-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Specifications and Labeling",
+        "id2": "art2-sec13710",
+        "rangeLow": "13710",
+        "rangeHigh": "13713",
+        "rangeText": " [§13710-§13713]",
+        "heading":
+        {
+          "id": "div5-chp15-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp15-art2-heading-id779E02C3C57F"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13710",
+          "class": "LawSection",
+          "num": "13710",
+          "versions": 
+          [
+            {
+              "id": "sec13710-amended-1999-chp0494",
+              "src": "urn:legix:us-ca:1999-chp0494:doc(sec2)",
+              "srcLabel": "Stats. of 1999, Chapter 494 - §2",
+              "effect": "amended",
+              "effective": "2000-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13711",
+          "class": "LawSection",
+          "num": "13711",
+          "versions": 
+          [
+            {
+              "id": "sec13711-amended-1992-chp0322",
+              "src": "urn:legix:us-ca:1992-chp0322:doc(sec12)",
+              "srcLabel": "Stats. of 1991, Chapter 322 - §12",
+              "effect": "amended",
+              "effective": "1993-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13712",
+          "class": "LawSection",
+          "num": "13712",
+          "versions": 
+          [
+            {
+              "id": "sec13712-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec10)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §10",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13713",
+          "class": "LawSection",
+          "num": "13713",
+          "versions": 
+          [
+            {
+              "id": "sec13713-added-1992-chp0322",
+              "src": "urn:legix:us-ca:1992-chp0322:doc(sec8)",
+              "srcLabel": "Stats. of 1991, Chapter 322 - §8",
+              "effect": "added",
+              "effective": "1993-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp15-art3",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3",
+        "title": "Container Requirements",
+        "id2": "art3-sec13720",
+        "rangeLow": "13720",
+        "rangeText": " [§13720]",
+        "heading":
+        {
+          "id": "div5-chp15-art3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp15-art3-heading-idACF638E712D3"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13720",
+          "class": "LawSection",
+          "num": "13720",
+          "versions": 
+          [
+            {
+              "id": "sec13720-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec10)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §10",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp15-art4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4",
+        "title": "Enforcement of the Chapter",
+        "id2": "art4-sec13730",
+        "rangeLow": "13730",
+        "rangeHigh": "13731",
+        "rangeText": " [§13730-§13731]",
+        "heading":
+        {
+          "id": "div5-chp15-art4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp15-art4-heading-idAC59B5DC28A4"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13730",
+          "class": "LawSection",
+          "num": "13730",
+          "versions": 
+          [
+            {
+              "id": "sec13730-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec10)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §10",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13731",
+          "class": "LawSection",
+          "num": "13731",
+          "versions": 
+          [
+            {
+              "id": "sec13731-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec10)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §10",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp15-art5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "5",
+        "title": "Unlawful Acts",
+        "id2": "art5-sec13740",
+        "rangeLow": "13740",
+        "rangeHigh": "13741",
+        "rangeText": " [§13740-§13741]",
+        "heading":
+        {
+          "id": "div5-chp15-art5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp15-art5-heading-id9A1DC57E5BEC"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13740",
+          "class": "LawSection",
+          "num": "13740",
+          "versions": 
+          [
+            {
+              "id": "sec13740-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec10)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §10",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13741",
+          "class": "LawSection",
+          "num": "13741",
+          "versions": 
+          [
+            {
+              "id": "sec13741-added-1992-chp0322",
+              "src": "urn:legix:us-ca:1992-chp0322:doc(sec13)",
+              "srcLabel": "Stats. of 1991, Chapter 322 - §13",
+              "effect": "added",
+              "effective": "1993-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

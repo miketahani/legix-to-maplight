@@ -1,0 +1,72 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp30):json",
+    "title": "Business and Professions Code - Division 8, Chapter 30",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp30",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "30",
+      "title": "Billing Practices",
+      "id2": "chp30-sec22940",
+      "rangeLow": "22940",
+      "rangeHigh": "22941",
+      "rangeText": " [§22940-§22941]",
+      "heading":
+      {
+        "id": "div8-chp30-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp30-heading-id69030EC84D79"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22940",
+        "class": "LawSection",
+        "num": "22940",
+        "versions": 
+        [
+          {
+            "id": "sec22940-added-1999-chp0343",
+            "src": "urn:legix:us-ca:1999-chp0343:doc(sec1)",
+            "srcLabel": "Stats. of 1999, Chapter 343 - §1",
+            "effect": "added",
+            "effective": "2000-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22941",
+        "class": "LawSection",
+        "num": "22941",
+        "versions": 
+        [
+          {
+            "id": "sec22941-added-1999-chp0343",
+            "src": "urn:legix:us-ca:1999-chp0343:doc(sec1)",
+            "srcLabel": "Stats. of 1999, Chapter 343 - §1",
+            "effect": "added",
+            "effective": "2000-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

@@ -1,0 +1,288 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div9-chp7):json",
+    "title": "Business and Professions Code - Division 9, Chapter 7",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div9-chp7",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "7",
+      "title": "Suspension and Revocation of Licenses",
+      "id2": "chp7-sec24200",
+      "rangeLow": "24200",
+      "rangeHigh": "24211",
+      "rangeText": " [§24200-§24211]",
+      "heading":
+      {
+        "id": "div9-chp7-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div9-chp7-heading-idE727B32F36FD"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec24200",
+        "class": "LawSection",
+        "num": "24200",
+        "versions": 
+        [
+          {
+            "id": "sec24200-amended-2006-chp0625",
+            "src": "urn:legix:us-ca:2006-chp0625:doc(sec2)",
+            "srcLabel": "Stats. of 2005, Chapter 625 - §2",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec24200-amended-1995-chp0743",
+            "src": "urn:legix:us-ca:1995-chp0743:doc(sec3)",
+            "srcLabel": "Stats. of 1995, Chapter 743 - §3",
+            "effect": "amended",
+            "effective": "1996-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec24200.1",
+        "class": "LawSection",
+        "num": "24200.1",
+        "versions": 
+        [
+          {
+            "id": "sec24200.1-added-2006-chp0625",
+            "src": "urn:legix:us-ca:2006-chp0625:doc(sec3)",
+            "srcLabel": "Stats. of 2005, Chapter 625 - §3",
+            "effect": "added",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24200.5",
+        "class": "LawSection",
+        "num": "24200.5",
+        "versions": 
+        [
+          {
+            "id": "sec24200.5-amended-2007-chp0349",
+            "src": "urn:legix:us-ca:2007-chp0349:doc(sec3)",
+            "srcLabel": "Stats. of 2007, Chapter 349 - §3",
+            "effect": "amended",
+            "effective": "2008-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24200.6",
+        "class": "LawSection",
+        "num": "24200.6",
+        "versions": 
+        [
+          {
+            "id": "sec24200.6-added-2002-chp1027",
+            "src": "urn:legix:us-ca:2002-chp1027:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 1027 - §1",
+            "effect": "added",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24201",
+        "class": "LawSection",
+        "num": "24201",
+        "versions": 
+        [
+          {
+            "id": "sec24201-amended-1955-chp0447",
+            "src": "urn:legix:us-ca:1955-chp0447:doc",
+            "srcLabel": "Stats. of 1955, Chapter 447",
+            "effect": "amended",
+            "effective": "1956-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24202",
+        "class": "LawSection",
+        "num": "24202",
+        "versions": 
+        [
+          {
+            "id": "sec24202-amended-1990-chp0695",
+            "src": "urn:legix:us-ca:1990-chp0695:doc(sec1)",
+            "srcLabel": "Stats. of 1989, Chapter 695 - §1",
+            "effect": "amended",
+            "effective": "1991-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24203",
+        "class": "LawSection",
+        "num": "24203",
+        "versions": 
+        [
+          {
+            "id": "sec24203-amended-1980-chp0457",
+            "src": "urn:legix:us-ca:1980-chp0457:doc(sec1)",
+            "srcLabel": "Stats. of 1979, Chapter 457 - §1",
+            "effect": "amended",
+            "effective": "1981-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24204",
+        "class": "LawSection",
+        "num": "24204",
+        "versions": 
+        [
+          {
+            "id": "sec24204-amended-1955-chp0447",
+            "src": "urn:legix:us-ca:1955-chp0447:doc",
+            "srcLabel": "Stats. of 1955, Chapter 447",
+            "effect": "amended",
+            "effective": "1956-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24205",
+        "class": "LawSection",
+        "num": "24205",
+        "versions": 
+        [
+          {
+            "id": "sec24205-amended-1996-chp0409",
+            "src": "urn:legix:us-ca:1996-chp0409:doc(sec1)",
+            "srcLabel": "Stats. of 1995, Chapter 409 - §1",
+            "effect": "amended",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24206",
+        "class": "LawSection",
+        "num": "24206",
+        "versions": 
+        [
+          {
+            "id": "sec24206-amended-1963-chp1040",
+            "src": "urn:legix:us-ca:1963-chp1040:doc",
+            "srcLabel": "Stats. of 1963, Chapter 1040",
+            "effect": "amended",
+            "effective": "1964-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24207",
+        "class": "LawSection",
+        "num": "24207",
+        "versions": 
+        [
+          {
+            "id": "sec24207-added-1957-chp1962",
+            "src": "urn:legix:us-ca:1957-chp1962:doc",
+            "srcLabel": "Stats. of 1957, Chapter 1962",
+            "effect": "added",
+            "effective": "1958-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24208",
+        "class": "LawSection",
+        "num": "24208",
+        "versions": 
+        [
+          {
+            "id": "sec24208-added-1957-chp1962",
+            "src": "urn:legix:us-ca:1957-chp1962:doc",
+            "srcLabel": "Stats. of 1957, Chapter 1962",
+            "effect": "added",
+            "effective": "1958-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24209",
+        "class": "LawSection",
+        "num": "24209",
+        "versions": 
+        [
+          {
+            "id": "sec24209-added-1959-chp0199",
+            "src": "urn:legix:us-ca:1959-chp0199:doc",
+            "srcLabel": "Stats. of 1959, Chapter 199",
+            "effect": "added",
+            "effective": "1960-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24210",
+        "class": "LawSection",
+        "num": "24210",
+        "versions": 
+        [
+          {
+            "id": "sec24210-amended-1994-chp0627",
+            "src": "urn:legix:us-ca:1994-chp0627:doc(sec6)",
+            "srcLabel": "Stats. of 1993, Chapter 627 - §6",
+            "effect": "amended",
+            "effective": "1995-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec24211",
+        "class": "LawSection",
+        "num": "24211",
+        "versions": 
+        [
+          {
+            "id": "sec24211-added-1963-chp0777",
+            "src": "urn:legix:us-ca:1963-chp0777:doc",
+            "srcLabel": "Stats. of 1963, Chapter 777",
+            "effect": "added",
+            "effective": "1964-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

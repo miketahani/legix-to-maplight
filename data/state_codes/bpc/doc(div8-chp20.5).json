@@ -1,0 +1,55 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp20.5):json",
+    "title": "Business and Professions Code - Division 8, Chapter 20.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp20.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "20.5",
+      "title": "Magazine Distributors",
+      "id2": "chp20.5-sec22475",
+      "rangeLow": "22475",
+      "rangeText": " [§22475]",
+      "heading":
+      {
+        "id": "div8-chp20.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp20.5-heading-idE6FFBB482408"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22475",
+        "class": "LawSection",
+        "num": "22475",
+        "versions": 
+        [
+          {
+            "id": "sec22475-added-2002-chp0191",
+            "src": "urn:legix:us-ca:2002-chp0191:doc(sec1)",
+            "srcLabel": "Stats. of 2001, Chapter 191 - §1",
+            "effect": "added",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

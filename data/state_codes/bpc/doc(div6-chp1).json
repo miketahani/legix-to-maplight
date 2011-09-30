@@ -1,0 +1,104 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div6-chp1):json",
+    "title": "Business and Professions Code - Division 6, Chapter 1",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div6-chp1",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "1",
+      "title": "Good Will",
+      "id2": "chp1-sec14100",
+      "rangeLow": "14100",
+      "rangeHigh": "14103",
+      "rangeText": " [§14100-§14103]",
+      "heading":
+      {
+        "id": "div6-chp1-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div6-chp1-heading-id33EC0E418AE8"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec14100",
+        "class": "LawSection",
+        "num": "14100",
+        "versions": 
+        [
+          {
+            "id": "sec14100-added-1941-chp0057",
+            "src": "urn:legix:us-ca:1941-chp0057:doc",
+            "srcLabel": "Stats. of 1941, Chapter 57",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec14101",
+        "class": "LawSection",
+        "num": "14101",
+        "versions": 
+        [
+          {
+            "id": "sec14101-added-1941-chp0057",
+            "src": "urn:legix:us-ca:1941-chp0057:doc",
+            "srcLabel": "Stats. of 1941, Chapter 57",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec14102",
+        "class": "LawSection",
+        "num": "14102",
+        "versions": 
+        [
+          {
+            "id": "sec14102-added-1941-chp0057",
+            "src": "urn:legix:us-ca:1941-chp0057:doc",
+            "srcLabel": "Stats. of 1941, Chapter 57",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec14103",
+        "class": "LawSection",
+        "num": "14103",
+        "versions": 
+        [
+          {
+            "id": "sec14103-added-1941-chp0057",
+            "src": "urn:legix:us-ca:1941-chp0057:doc",
+            "srcLabel": "Stats. of 1941, Chapter 57",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

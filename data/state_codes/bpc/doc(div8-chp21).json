@@ -1,0 +1,312 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp21):json",
+    "title": "Business and Professions Code - Division 8, Chapter 21",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp21",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "21",
+      "title": "Ticket Sellers",
+      "id2": "chp21-sec22500",
+      "rangeLow": "22500",
+      "rangeHigh": "22511",
+      "rangeText": " [§22500-§22511]",
+      "heading":
+      {
+        "id": "div8-chp21-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp21-heading-idB47D7B6853EB"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22500",
+        "class": "LawSection",
+        "num": "22500",
+        "versions": 
+        [
+          {
+            "id": "sec22500-amended-1994-chp1132",
+            "src": "urn:legix:us-ca:1994-chp1132:doc(sec1)",
+            "srcLabel": "Stats. of 1993, Chapter 1132 - §1",
+            "effect": "amended",
+            "effective": "1994-09-30",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22501",
+        "class": "LawSection",
+        "num": "22501",
+        "versions": 
+        [
+          {
+            "id": "sec22501-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22502",
+        "class": "LawSection",
+        "num": "22502",
+        "versions": 
+        [
+          {
+            "id": "sec22502-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22502.1",
+        "class": "LawSection",
+        "num": "22502.1",
+        "versions": 
+        [
+          {
+            "id": "sec22502.1-added-1994-chp1132",
+            "src": "urn:legix:us-ca:1994-chp1132:doc(sec2)",
+            "srcLabel": "Stats. of 1993, Chapter 1132 - §2",
+            "effect": "added",
+            "effective": "1994-09-30",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22502.2",
+        "class": "LawSection",
+        "num": "22502.2",
+        "versions": 
+        [
+          {
+            "id": "sec22502.2-added-1994-chp1132",
+            "src": "urn:legix:us-ca:1994-chp1132:doc(sec3)",
+            "srcLabel": "Stats. of 1993, Chapter 1132 - §3",
+            "effect": "added",
+            "effective": "1994-09-30",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22502.3",
+        "class": "LawSection",
+        "num": "22502.3",
+        "versions": 
+        [
+          {
+            "id": "sec22502.3-added-1994-chp1132",
+            "src": "urn:legix:us-ca:1994-chp1132:doc(sec4)",
+            "srcLabel": "Stats. of 1993, Chapter 1132 - §4",
+            "effect": "added",
+            "effective": "1994-09-30",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22503",
+        "class": "LawSection",
+        "num": "22503",
+        "versions": 
+        [
+          {
+            "id": "sec22503-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22503.5",
+        "class": "LawSection",
+        "num": "22503.5",
+        "versions": 
+        [
+          {
+            "id": "sec22503.5-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22503.6",
+        "class": "LawSection",
+        "num": "22503.6",
+        "versions": 
+        [
+          {
+            "id": "sec22503.6-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22504",
+        "class": "LawSection",
+        "num": "22504",
+        "versions": 
+        [
+          {
+            "id": "sec22504-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22505",
+        "class": "LawSection",
+        "num": "22505",
+        "versions": 
+        [
+          {
+            "id": "sec22505-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22506",
+        "class": "LawSection",
+        "num": "22506",
+        "versions": 
+        [
+          {
+            "id": "sec22506-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22507",
+        "class": "LawSection",
+        "num": "22507",
+        "versions": 
+        [
+          {
+            "id": "sec22507-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22508",
+        "class": "LawSection",
+        "num": "22508",
+        "versions": 
+        [
+          {
+            "id": "sec22508-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22509",
+        "class": "LawSection",
+        "num": "22509",
+        "versions": 
+        [
+          {
+            "id": "sec22509-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22510",
+        "class": "LawSection",
+        "num": "22510",
+        "versions": 
+        [
+          {
+            "id": "sec22510-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22511",
+        "class": "LawSection",
+        "num": "22511",
+        "versions": 
+        [
+          {
+            "id": "sec22511-added-1986-chp0378",
+            "src": "urn:legix:us-ca:1986-chp0378:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 378 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

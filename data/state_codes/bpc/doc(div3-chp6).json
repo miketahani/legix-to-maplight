@@ -1,0 +1,813 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div3-chp6):json",
+    "title": "Business and Professions Code - Division 3, Chapter 6",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div3-chp6",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "6",
+      "title": "Professional Fiduciaries",
+      "id2": "div3-chp6-sec6500",
+      "heading":
+      {
+        "id": "div3-chp6-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div3-chp6-heading-id397105804319"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div3-chp6-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "General Provisions",
+        "id2": "art1-sec6500",
+        "rangeLow": "6500",
+        "rangeHigh": "6502",
+        "rangeText": " [§6500-§6502]",
+        "heading":
+        {
+          "id": "div3-chp6-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div3-chp6-art1-heading-id21A35B607737"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec6500",
+          "class": "LawSection",
+          "num": "6500",
+          "versions": 
+          [
+            {
+              "id": "sec6500-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6501",
+          "class": "LawSection",
+          "num": "6501",
+          "versions": 
+          [
+            {
+              "id": "sec6501-amended-2009-chp0348",
+              "src": "urn:legix:us-ca:2009-chp0348:doc(sec1)",
+              "srcLabel": "Stats. of 2009, Chapter 348 - §1",
+              "effect": "amended",
+              "effective": "2010-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec6501-amended-2007-chp0354",
+              "src": "urn:legix:us-ca:2007-chp0354:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 354 - §2",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec6502",
+          "class": "LawSection",
+          "num": "6502",
+          "versions": 
+          [
+            {
+              "id": "sec6502-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div3-chp6-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Administration",
+        "id2": "art2-sec6510",
+        "rangeLow": "6510",
+        "rangeHigh": "6520",
+        "rangeText": " [§6510-§6520]",
+        "heading":
+        {
+          "id": "div3-chp6-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div3-chp6-art2-heading-id5215748ECCD0"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec6510",
+          "class": "LawSection",
+          "num": "6510",
+          "versions": 
+          [
+            {
+              "id": "sec6510-amended-2010-chp0695",
+              "src": "urn:legix:us-ca:2010-chp0695:doc(sec34)",
+              "srcLabel": "Stats. of 2009, Chapter 695 - §34",
+              "effect": "amended",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6511",
+          "class": "LawSection",
+          "num": "6511",
+          "versions": 
+          [
+            {
+              "id": "sec6511-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6513",
+          "class": "LawSection",
+          "num": "6513",
+          "versions": 
+          [
+            {
+              "id": "sec6513-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6514",
+          "class": "LawSection",
+          "num": "6514",
+          "versions": 
+          [
+            {
+              "id": "sec6514-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6515",
+          "class": "LawSection",
+          "num": "6515",
+          "versions": 
+          [
+            {
+              "id": "sec6515-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6516",
+          "class": "LawSection",
+          "num": "6516",
+          "versions": 
+          [
+            {
+              "id": "sec6516-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6517",
+          "class": "LawSection",
+          "num": "6517",
+          "versions": 
+          [
+            {
+              "id": "sec6517-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6518",
+          "class": "LawSection",
+          "num": "6518",
+          "versions": 
+          [
+            {
+              "id": "sec6518-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6520",
+          "class": "LawSection",
+          "num": "6520",
+          "versions": 
+          [
+            {
+              "id": "sec6520-amended-2007-chp0354",
+              "src": "urn:legix:us-ca:2007-chp0354:doc(sec3)",
+              "srcLabel": "Stats. of 2007, Chapter 354 - §3",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div3-chp6-art3",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3",
+        "title": "Licensing",
+        "id2": "art3-sec6530",
+        "rangeLow": "6530",
+        "rangeHigh": "6541",
+        "rangeText": " [§6530-§6541]",
+        "heading":
+        {
+          "id": "div3-chp6-art3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div3-chp6-art3-heading-idF0CC403A31DA"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec6530",
+          "class": "LawSection",
+          "num": "6530",
+          "versions": 
+          [
+            {
+              "id": "sec6530-amended-2007-chp0354",
+              "src": "urn:legix:us-ca:2007-chp0354:doc(sec4)",
+              "srcLabel": "Stats. of 2007, Chapter 354 - §4",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6531",
+          "class": "LawSection",
+          "num": "6531",
+          "versions": 
+          [
+            {
+              "id": "sec6531-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6532",
+          "class": "LawSection",
+          "num": "6532",
+          "versions": 
+          [
+            {
+              "id": "sec6532-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6533",
+          "class": "LawSection",
+          "num": "6533",
+          "versions": 
+          [
+            {
+              "id": "sec6533-amended-2007-chp0354",
+              "src": "urn:legix:us-ca:2007-chp0354:doc(sec5)",
+              "srcLabel": "Stats. of 2007, Chapter 354 - §5",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6533.5",
+          "class": "LawSection",
+          "num": "6533.5",
+          "versions": 
+          [
+            {
+              "id": "sec6533.5-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6534",
+          "class": "LawSection",
+          "num": "6534",
+          "versions": 
+          [
+            {
+              "id": "sec6534-amended-2009-chp0308",
+              "src": "urn:legix:us-ca:2009-chp0308:doc(sec82)",
+              "srcLabel": "Stats. of 2009, Chapter 308 - §82",
+              "effect": "amended",
+              "effective": "2010-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec6534-amended-2007-chp0354",
+              "src": "urn:legix:us-ca:2007-chp0354:doc(sec6)",
+              "srcLabel": "Stats. of 2007, Chapter 354 - §6",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec6535",
+          "class": "LawSection",
+          "num": "6535",
+          "versions": 
+          [
+            {
+              "id": "sec6535-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6536",
+          "class": "LawSection",
+          "num": "6536",
+          "versions": 
+          [
+            {
+              "id": "sec6536-amended-2009-chp0308",
+              "src": "urn:legix:us-ca:2009-chp0308:doc(sec83)",
+              "srcLabel": "Stats. of 2009, Chapter 308 - §83",
+              "effect": "amended",
+              "effective": "2010-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec6536-amended-2007-chp0354",
+              "src": "urn:legix:us-ca:2007-chp0354:doc(sec7)",
+              "srcLabel": "Stats. of 2007, Chapter 354 - §7",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec6537",
+          "class": "LawSection",
+          "num": "6537",
+          "versions": 
+          [
+            {
+              "id": "sec6537-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6538",
+          "class": "LawSection",
+          "num": "6538",
+          "versions": 
+          [
+            {
+              "id": "sec6538-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6539",
+          "class": "LawSection",
+          "num": "6539",
+          "versions": 
+          [
+            {
+              "id": "sec6539-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6540",
+          "class": "LawSection",
+          "num": "6540",
+          "versions": 
+          [
+            {
+              "id": "sec6540-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6541",
+          "class": "LawSection",
+          "num": "6541",
+          "versions": 
+          [
+            {
+              "id": "sec6541-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div3-chp6-art4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4",
+        "title": "Practice Provisions",
+        "id2": "art4-sec6560",
+        "rangeLow": "6560",
+        "rangeHigh": "6562",
+        "rangeText": " [§6560-§6562]",
+        "heading":
+        {
+          "id": "div3-chp6-art4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div3-chp6-art4-heading-id323DAC8510BB"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec6560",
+          "class": "LawSection",
+          "num": "6560",
+          "versions": 
+          [
+            {
+              "id": "sec6560-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6561",
+          "class": "LawSection",
+          "num": "6561",
+          "versions": 
+          [
+            {
+              "id": "sec6561-amended-2009-chp0308",
+              "src": "urn:legix:us-ca:2009-chp0308:doc(sec84)",
+              "srcLabel": "Stats. of 2009, Chapter 308 - §84",
+              "effect": "amended",
+              "effective": "2010-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec6561-amended-2007-chp0354",
+              "src": "urn:legix:us-ca:2007-chp0354:doc(sec8)",
+              "srcLabel": "Stats. of 2007, Chapter 354 - §8",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec6562",
+          "class": "LawSection",
+          "num": "6562",
+          "versions": 
+          [
+            {
+              "id": "sec6562-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div3-chp6-art5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "5",
+        "title": "Enforcement and Disciplinary Proceedings",
+        "id2": "art5-sec6580",
+        "rangeLow": "6580",
+        "rangeHigh": "6584",
+        "rangeText": " [§6580-§6584]",
+        "heading":
+        {
+          "id": "div3-chp6-art5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div3-chp6-art5-heading-id817681B653B8"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec6580",
+          "class": "LawSection",
+          "num": "6580",
+          "versions": 
+          [
+            {
+              "id": "sec6580-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6582",
+          "class": "LawSection",
+          "num": "6582",
+          "versions": 
+          [
+            {
+              "id": "sec6582-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6582.5",
+          "class": "LawSection",
+          "num": "6582.5",
+          "versions": 
+          [
+            {
+              "id": "sec6582.5-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6583",
+          "class": "LawSection",
+          "num": "6583",
+          "versions": 
+          [
+            {
+              "id": "sec6583-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6584",
+          "class": "LawSection",
+          "num": "6584",
+          "versions": 
+          [
+            {
+              "id": "sec6584-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div3-chp6-art6",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "6",
+        "title": "Revenue",
+        "id2": "art6-sec6590",
+        "rangeLow": "6590",
+        "rangeHigh": "6592",
+        "rangeText": " [§6590-§6592]",
+        "heading":
+        {
+          "id": "div3-chp6-art6-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div3-chp6-art6-heading-idF3D2D671804F"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec6590",
+          "class": "LawSection",
+          "num": "6590",
+          "versions": 
+          [
+            {
+              "id": "sec6590-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6591",
+          "class": "LawSection",
+          "num": "6591",
+          "versions": 
+          [
+            {
+              "id": "sec6591-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec6592",
+          "class": "LawSection",
+          "num": "6592",
+          "versions": 
+          [
+            {
+              "id": "sec6592-added-2006-chp0491",
+              "src": "urn:legix:us-ca:2006-chp0491:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 491 - §3",
+              "effect": "added",
+              "effective": "2007-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

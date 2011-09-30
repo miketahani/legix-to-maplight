@@ -1,0 +1,552 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div1.5):json",
+    "title": "Business and Professions Code - Division 1.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div1.5",
+      "class": "Division",
+      "role": "slim:Division",
+      "num": "1.5",
+      "title": "Denial, Suspension and Revocation of Licenses",
+      "id2": "div1.5-sec475",
+      "heading":
+      {
+        "id": "div1.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div1.5-heading-id418519A43963"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div1.5-chp1",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "1",
+        "title": "General Provisions",
+        "id2": "chp1-sec475",
+        "rangeLow": "475",
+        "rangeHigh": "478",
+        "rangeText": " [§475-§478]",
+        "heading":
+        {
+          "id": "div1.5-chp1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1.5-chp1-heading-id5DF965496C0C"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec475",
+          "class": "LawSection",
+          "num": "475",
+          "versions": 
+          [
+            {
+              "id": "sec475-amended-1992-chp1289",
+              "src": "urn:legix:us-ca:1992-chp1289:doc(sec5)",
+              "srcLabel": "Stats. of 1991, Chapter 1289 - §5",
+              "effect": "amended",
+              "effective": "1993-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec476",
+          "class": "LawSection",
+          "num": "476",
+          "versions": 
+          [
+            {
+              "id": "sec476-amended-1983-chp0721",
+              "src": "urn:legix:us-ca:1983-chp0721:doc(sec1)",
+              "srcLabel": "Stats. of 1983, Chapter 721 - §1",
+              "effect": "amended",
+              "effective": "1984-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec477",
+          "class": "LawSection",
+          "num": "477",
+          "versions": 
+          [
+            {
+              "id": "sec477-amended-1991-chp0654",
+              "src": "urn:legix:us-ca:1991-chp0654:doc(sec5)",
+              "srcLabel": "Stats. of 1991, Chapter 654 - §5",
+              "effect": "amended",
+              "effective": "1992-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec478",
+          "class": "LawSection",
+          "num": "478",
+          "versions": 
+          [
+            {
+              "id": "sec478-added-1992-chp1289",
+              "src": "urn:legix:us-ca:1992-chp1289:doc(sec6)",
+              "srcLabel": "Stats. of 1991, Chapter 1289 - §6",
+              "effect": "added",
+              "effective": "1993-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1.5-chp2",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "2",
+        "title": "Denial of Licenses",
+        "id2": "chp2-sec480",
+        "rangeLow": "480",
+        "rangeHigh": "489",
+        "rangeText": " [§480-§489]",
+        "heading":
+        {
+          "id": "div1.5-chp2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1.5-chp2-heading-idA21CA1DBD41F"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec480",
+          "class": "LawSection",
+          "num": "480",
+          "versions": 
+          [
+            {
+              "id": "sec480-amended-2008-chp0179",
+              "src": "urn:legix:us-ca:2008-chp0179:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 179 - §2",
+              "effect": "amended",
+              "effective": "2009-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec481",
+          "class": "LawSection",
+          "num": "481",
+          "versions": 
+          [
+            {
+              "id": "sec481-added-1974-chp1321",
+              "src": "urn:legix:us-ca:1974-chp1321:doc",
+              "srcLabel": "Stats. of 1973, Chapter 1321",
+              "effect": "added",
+              "effective": "1975-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec482",
+          "class": "LawSection",
+          "num": "482",
+          "versions": 
+          [
+            {
+              "id": "sec482-amended-1974-chp1321",
+              "src": "urn:legix:us-ca:1974-chp1321:doc",
+              "srcLabel": "Stats. of 1973, Chapter 1321",
+              "effect": "amended",
+              "effective": "1975-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec484",
+          "class": "LawSection",
+          "num": "484",
+          "versions": 
+          [
+            {
+              "id": "sec484-amended-1974-chp1321",
+              "src": "urn:legix:us-ca:1974-chp1321:doc",
+              "srcLabel": "Stats. of 1973, Chapter 1321",
+              "effect": "amended",
+              "effective": "1975-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec485",
+          "class": "LawSection",
+          "num": "485",
+          "versions": 
+          [
+            {
+              "id": "sec485-amended-1997-chp0758",
+              "src": "urn:legix:us-ca:1997-chp0758:doc(sec2.3)",
+              "srcLabel": "Stats. of 1997, Chapter 758 - §2.3",
+              "effect": "amended",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec486",
+          "class": "LawSection",
+          "num": "486",
+          "versions": 
+          [
+            {
+              "id": "sec486-amended-1997-chp0758",
+              "src": "urn:legix:us-ca:1997-chp0758:doc(sec2.4)",
+              "srcLabel": "Stats. of 1997, Chapter 758 - §2.4",
+              "effect": "amended",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec487",
+          "class": "LawSection",
+          "num": "487",
+          "versions": 
+          [
+            {
+              "id": "sec487-amended-1986-chp0220",
+              "src": "urn:legix:us-ca:1986-chp0220:doc(sec1)",
+              "srcLabel": "Stats. of 1985, Chapter 220 - §1",
+              "effect": "amended",
+              "effective": "1986-06-30",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec488",
+          "class": "LawSection",
+          "num": "488",
+          "versions": 
+          [
+            {
+              "id": "sec488-added-2000-chp0568",
+              "src": "urn:legix:us-ca:2000-chp0568:doc(sec2)",
+              "srcLabel": "Stats. of 1999, Chapter 568 - §2",
+              "effect": "added",
+              "effective": "2001-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec489",
+          "class": "LawSection",
+          "num": "489",
+          "versions": 
+          [
+            {
+              "id": "sec489-amended-1997-chp0758",
+              "src": "urn:legix:us-ca:1997-chp0758:doc(sec2.5)",
+              "srcLabel": "Stats. of 1997, Chapter 758 - §2.5",
+              "effect": "amended",
+              "effective": "1998-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1.5-chp3",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "3",
+        "title": "Suspension and Revocation of Licenses",
+        "id2": "chp3-sec490",
+        "rangeLow": "490",
+        "rangeHigh": "494",
+        "rangeText": " [§490-§494]",
+        "heading":
+        {
+          "id": "div1.5-chp3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1.5-chp3-heading-idD6B5B588927D"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec490",
+          "class": "LawSection",
+          "num": "490",
+          "versions": 
+          [
+            {
+              "id": "sec490-amended-2010-chp0328",
+              "src": "urn:legix:us-ca:2010-chp0328:doc(sec2)",
+              "srcLabel": "Stats. of 2009, Chapter 328 - §2",
+              "effect": "amended",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec490-amended-2008-chp0033",
+              "src": "urn:legix:us-ca:2008-chp0033:doc(sec2)",
+              "srcLabel": "Stats. of 2007, Chapter 33 - §2",
+              "effect": "amended",
+              "effective": "2009-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec490.5",
+          "class": "LawSection",
+          "num": "490.5",
+          "versions": 
+          [
+            {
+              "id": "sec490.5-amended-2010-chp0328",
+              "src": "urn:legix:us-ca:2010-chp0328:doc(sec3)",
+              "srcLabel": "Stats. of 2009, Chapter 328 - §3",
+              "effect": "amended",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec491",
+          "class": "LawSection",
+          "num": "491",
+          "versions": 
+          [
+            {
+              "id": "sec491-amended-1975-chp0678",
+              "src": "urn:legix:us-ca:1975-chp0678:doc",
+              "srcLabel": "Stats. of 1975, Chapter 678",
+              "effect": "amended",
+              "effective": "1976-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec492",
+          "class": "LawSection",
+          "num": "492",
+          "versions": 
+          [
+            {
+              "id": "sec492-amended-1994-chp0026",
+              "src": "urn:legix:us-ca:1994-chp0026:doc(sec15)",
+              "srcLabel": "Stats. of 1993, Chapter 26 - §15",
+              "effect": "amended",
+              "effective": "1994-03-30",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec493",
+          "class": "LawSection",
+          "num": "493",
+          "versions": 
+          [
+            {
+              "id": "sec493-added-1989-chp1104",
+              "src": "urn:legix:us-ca:1989-chp1104:doc(sec1.3)",
+              "srcLabel": "Stats. of 1989, Chapter 1104 - §1.3",
+              "effect": "added",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec494",
+          "class": "LawSection",
+          "num": "494",
+          "versions": 
+          [
+            {
+              "id": "sec494-amended-1994-chp1275",
+              "src": "urn:legix:us-ca:1994-chp1275:doc(sec4)",
+              "srcLabel": "Stats. of 1993, Chapter 1275 - §4",
+              "effect": "amended",
+              "effective": "1995-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1.5-chp4",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "4",
+        "title": "Public Reprovals",
+        "id2": "chp4-sec495",
+        "rangeLow": "495",
+        "rangeText": " [§495]",
+        "heading":
+        {
+          "id": "div1.5-chp4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1.5-chp4-heading-id540947818444"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec495",
+          "class": "LawSection",
+          "num": "495",
+          "versions": 
+          [
+            {
+              "id": "sec495-amended-1997-chp0220",
+              "src": "urn:legix:us-ca:1997-chp0220:doc(sec2)",
+              "srcLabel": "Stats. of 1997, Chapter 220 - §2",
+              "effect": "amended",
+              "effective": "1997-08-04",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1.5-chp5",
+        "class": "Chapter",
+        "role": "slim:Chapter",
+        "num": "5",
+        "title": "Examination Security",
+        "id2": "chp5-sec496",
+        "rangeLow": "496",
+        "rangeHigh": "499",
+        "rangeText": " [§496-§499]",
+        "heading":
+        {
+          "id": "div1.5-chp5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1.5-chp5-heading-id91E395269FED"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec496",
+          "class": "LawSection",
+          "num": "496",
+          "versions": 
+          [
+            {
+              "id": "sec496-added-1989-chp1022",
+              "src": "urn:legix:us-ca:1989-chp1022:doc(sec3)",
+              "srcLabel": "Stats. of 1989, Chapter 1022 - §3",
+              "effect": "added",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec498",
+          "class": "LawSection",
+          "num": "498",
+          "versions": 
+          [
+            {
+              "id": "sec498-added-1992-chp1289",
+              "src": "urn:legix:us-ca:1992-chp1289:doc(sec8)",
+              "srcLabel": "Stats. of 1991, Chapter 1289 - §8",
+              "effect": "added",
+              "effective": "1993-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec499",
+          "class": "LawSection",
+          "num": "499",
+          "versions": 
+          [
+            {
+              "id": "sec499-added-1992-chp1289",
+              "src": "urn:legix:us-ca:1992-chp1289:doc(sec9)",
+              "srcLabel": "Stats. of 1991, Chapter 1289 - §9",
+              "effect": "added",
+              "effective": "1993-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

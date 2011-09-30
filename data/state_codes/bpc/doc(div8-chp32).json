@@ -1,0 +1,148 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp32):json",
+    "title": "Business and Professions Code - Division 8, Chapter 32",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp32",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "32",
+      "title": "Consumer Protection Against Computer Spyware Act 22947-22947.6",
+      "heading":
+      {
+        "id": "div8-chp32-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp32-heading-idDBF725F7DF35"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22947",
+        "class": "LawSection",
+        "num": "22947",
+        "versions": 
+        [
+          {
+            "id": "sec22947-added-2004-chp0843",
+            "src": "urn:legix:us-ca:2004-chp0843:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 843 - §2",
+            "effect": "added",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22947.1",
+        "class": "LawSection",
+        "num": "22947.1",
+        "versions": 
+        [
+          {
+            "id": "sec22947.1-added-2004-chp0843",
+            "src": "urn:legix:us-ca:2004-chp0843:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 843 - §2",
+            "effect": "added",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22947.2",
+        "class": "LawSection",
+        "num": "22947.2",
+        "versions": 
+        [
+          {
+            "id": "sec22947.2-added-2004-chp0843",
+            "src": "urn:legix:us-ca:2004-chp0843:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 843 - §2",
+            "effect": "added",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22947.3",
+        "class": "LawSection",
+        "num": "22947.3",
+        "versions": 
+        [
+          {
+            "id": "sec22947.3-added-2004-chp0843",
+            "src": "urn:legix:us-ca:2004-chp0843:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 843 - §2",
+            "effect": "added",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22947.4",
+        "class": "LawSection",
+        "num": "22947.4",
+        "versions": 
+        [
+          {
+            "id": "sec22947.4-added-2004-chp0843",
+            "src": "urn:legix:us-ca:2004-chp0843:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 843 - §2",
+            "effect": "added",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22947.5",
+        "class": "LawSection",
+        "num": "22947.5",
+        "versions": 
+        [
+          {
+            "id": "sec22947.5-added-2004-chp0843",
+            "src": "urn:legix:us-ca:2004-chp0843:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 843 - §2",
+            "effect": "added",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22947.6",
+        "class": "LawSection",
+        "num": "22947.6",
+        "versions": 
+        [
+          {
+            "id": "sec22947.6-added-2004-chp0843",
+            "src": "urn:legix:us-ca:2004-chp0843:doc(sec2)",
+            "srcLabel": "Stats. of 2003, Chapter 843 - §2",
+            "effect": "added",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

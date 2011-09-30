@@ -1,0 +1,200 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp11):json",
+    "title": "Business and Professions Code - Division 8, Chapter 11",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp11",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "11",
+      "title": "Copyrighted Performances of Musical Works",
+      "id2": "chp11-sec21750",
+      "rangeLow": "21750",
+      "rangeHigh": "21758",
+      "rangeText": " [§21750-§21758]",
+      "heading":
+      {
+        "id": "div8-chp11-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp11-heading-idD4B87FAAB94C"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec21750",
+        "class": "LawSection",
+        "num": "21750",
+        "versions": 
+        [
+          {
+            "id": "sec21750-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21751",
+        "class": "LawSection",
+        "num": "21751",
+        "versions": 
+        [
+          {
+            "id": "sec21751-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21751.5",
+        "class": "LawSection",
+        "num": "21751.5",
+        "versions": 
+        [
+          {
+            "id": "sec21751.5-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21752",
+        "class": "LawSection",
+        "num": "21752",
+        "versions": 
+        [
+          {
+            "id": "sec21752-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21753",
+        "class": "LawSection",
+        "num": "21753",
+        "versions": 
+        [
+          {
+            "id": "sec21753-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21754",
+        "class": "LawSection",
+        "num": "21754",
+        "versions": 
+        [
+          {
+            "id": "sec21754-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21755",
+        "class": "LawSection",
+        "num": "21755",
+        "versions": 
+        [
+          {
+            "id": "sec21755-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21756",
+        "class": "LawSection",
+        "num": "21756",
+        "versions": 
+        [
+          {
+            "id": "sec21756-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21757",
+        "class": "LawSection",
+        "num": "21757",
+        "versions": 
+        [
+          {
+            "id": "sec21757-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21758",
+        "class": "LawSection",
+        "num": "21758",
+        "versions": 
+        [
+          {
+            "id": "sec21758-added-1996-chp0340",
+            "src": "urn:legix:us-ca:1996-chp0340:doc(sec2)",
+            "srcLabel": "Stats. of 1995, Chapter 340 - §2",
+            "effect": "added",
+            "effective": "1997-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

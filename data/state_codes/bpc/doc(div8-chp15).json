@@ -1,0 +1,120 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp15):json",
+    "title": "Business and Professions Code - Division 8, Chapter 15",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp15",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "15",
+      "title": "Passage Tickets",
+      "id2": "chp15-sec22300",
+      "rangeLow": "22300",
+      "rangeHigh": "22304",
+      "rangeText": " [§22300-§22304]",
+      "heading":
+      {
+        "id": "div8-chp15-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp15-heading-id81003236D9FC"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22300",
+        "class": "LawSection",
+        "num": "22300",
+        "versions": 
+        [
+          {
+            "id": "sec22300-added-1965-chp1224",
+            "src": "urn:legix:us-ca:1965-chp1224:doc",
+            "srcLabel": "Stats. of 1965, Chapter 1224",
+            "effect": "added",
+            "effective": "1966-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22301",
+        "class": "LawSection",
+        "num": "22301",
+        "versions": 
+        [
+          {
+            "id": "sec22301-added-1965-chp1224",
+            "src": "urn:legix:us-ca:1965-chp1224:doc",
+            "srcLabel": "Stats. of 1965, Chapter 1224",
+            "effect": "added",
+            "effective": "1966-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22302",
+        "class": "LawSection",
+        "num": "22302",
+        "versions": 
+        [
+          {
+            "id": "sec22302-amended-1973-chp1090",
+            "src": "urn:legix:us-ca:1973-chp1090:doc",
+            "srcLabel": "Stats. of 1973, Chapter 1090",
+            "effect": "amended",
+            "effective": "1974-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22303",
+        "class": "LawSection",
+        "num": "22303",
+        "versions": 
+        [
+          {
+            "id": "sec22303-added-1965-chp1224",
+            "src": "urn:legix:us-ca:1965-chp1224:doc",
+            "srcLabel": "Stats. of 1965, Chapter 1224",
+            "effect": "added",
+            "effective": "1966-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec22304",
+        "class": "LawSection",
+        "num": "22304",
+        "versions": 
+        [
+          {
+            "id": "sec22304-added-1965-chp1224",
+            "src": "urn:legix:us-ca:1965-chp1224:doc",
+            "srcLabel": "Stats. of 1965, Chapter 1224",
+            "effect": "added",
+            "effective": "1966-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

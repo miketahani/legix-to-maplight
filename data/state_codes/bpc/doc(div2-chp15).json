@@ -1,0 +1,192 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div2-chp15):json",
+    "title": "Business and Professions Code - Division 2, Chapter 15",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div2-chp15",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "15",
+      "title": "Telephone Medical Advice Services",
+      "id2": "chp15-sec4999",
+      "rangeLow": "4999",
+      "rangeHigh": "4999.7",
+      "rangeText": " [§4999-§4999.7]",
+      "heading":
+      {
+        "id": "div2-chp15-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div2-chp15-heading-idBC3DCB2F42F8"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec4999",
+        "class": "LawSection",
+        "num": "4999",
+        "versions": 
+        [
+          {
+            "id": "sec4999-amended-2006-chp0659",
+            "src": "urn:legix:us-ca:2006-chp0659:doc(sec29)",
+            "srcLabel": "Stats. of 2005, Chapter 659 - §29",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec4999-amended-2002-chp0107",
+            "src": "urn:legix:us-ca:2002-chp0107:doc(sec22)",
+            "srcLabel": "Stats. of 2001, Chapter 107 - §22",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec4999.1",
+        "class": "LawSection",
+        "num": "4999.1",
+        "versions": 
+        [
+          {
+            "id": "sec4999.1-amended-2006-chp0659",
+            "src": "urn:legix:us-ca:2006-chp0659:doc(sec30)",
+            "srcLabel": "Stats. of 2005, Chapter 659 - §30",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec4999.2",
+        "class": "LawSection",
+        "num": "4999.2",
+        "versions": 
+        [
+          {
+            "id": "sec4999.2-amended-2010-chp0328",
+            "src": "urn:legix:us-ca:2010-chp0328:doc(sec12)",
+            "srcLabel": "Stats. of 2009, Chapter 328 - §12",
+            "effect": "amended",
+            "effective": "2011-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec4999.2-amended-2008-chp0031",
+            "src": "urn:legix:us-ca:2008-chp0031:doc(sec48)",
+            "srcLabel": "Stats. of 2007, Chapter 31 - §48",
+            "effect": "amended",
+            "effective": "2009-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec4999.3",
+        "class": "LawSection",
+        "num": "4999.3",
+        "versions": 
+        [
+          {
+            "id": "sec4999.3-added-1999-chp0535",
+            "src": "urn:legix:us-ca:1999-chp0535:doc(sec1)",
+            "srcLabel": "Stats. of 1999, Chapter 535 - §1",
+            "effect": "added",
+            "effective": "2000-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec4999.4",
+        "class": "LawSection",
+        "num": "4999.4",
+        "versions": 
+        [
+          {
+            "id": "sec4999.4-amended-2006-chp0659",
+            "src": "urn:legix:us-ca:2006-chp0659:doc(sec31)",
+            "srcLabel": "Stats. of 2005, Chapter 659 - §31",
+            "effect": "amended",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec4999.5",
+        "class": "LawSection",
+        "num": "4999.5",
+        "versions": 
+        [
+          {
+            "id": "sec4999.5-added-1999-chp0535",
+            "src": "urn:legix:us-ca:1999-chp0535:doc(sec1)",
+            "srcLabel": "Stats. of 1999, Chapter 535 - §1",
+            "effect": "added",
+            "effective": "2000-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec4999.6",
+        "class": "LawSection",
+        "num": "4999.6",
+        "versions": 
+        [
+          {
+            "id": "sec4999.6-amended-2000-chp0857",
+            "src": "urn:legix:us-ca:2000-chp0857:doc(sec2.3)",
+            "srcLabel": "Stats. of 1999, Chapter 857 - §2.3",
+            "effect": "amended",
+            "effective": "2001-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec4999.7",
+        "class": "LawSection",
+        "num": "4999.7",
+        "versions": 
+        [
+          {
+            "id": "sec4999.7-amended-2010-chp0328",
+            "src": "urn:legix:us-ca:2010-chp0328:doc(sec13)",
+            "srcLabel": "Stats. of 2009, Chapter 328 - §13",
+            "effect": "amended",
+            "effective": "2011-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec4999.7-amended-2008-chp0031",
+            "src": "urn:legix:us-ca:2008-chp0031:doc(sec49)",
+            "srcLabel": "Stats. of 2007, Chapter 31 - §49",
+            "effect": "amended",
+            "effective": "2009-01-01",
+            "linking": "linked"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

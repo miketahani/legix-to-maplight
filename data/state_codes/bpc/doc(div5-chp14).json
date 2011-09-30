@@ -1,0 +1,1888 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div5-chp14):json",
+    "title": "Business and Professions Code - Division 5, Chapter 14",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div5-chp14",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "14",
+      "title": "Petroleum and Hydrogen Fuels",
+      "id2": "div5-chp14-sec13400",
+      "heading":
+      {
+        "id": "div5-chp14-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div5-chp14-heading-id5F94A89CF807"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div5-chp14-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "General Provisions",
+        "id2": "art1-sec13400",
+        "rangeLow": "13400",
+        "rangeHigh": "13405",
+        "rangeText": " [§13400-§13405]",
+        "heading":
+        {
+          "id": "div5-chp14-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art1-heading-id8077441660D4"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13400",
+          "class": "LawSection",
+          "num": "13400",
+          "versions": 
+          [
+            {
+              "id": "sec13400-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13401",
+          "class": "LawSection",
+          "num": "13401",
+          "versions": 
+          [
+            {
+              "id": "sec13401-amended-2005-chp0091",
+              "src": "urn:legix:us-ca:2005-chp0091:doc(sec2)",
+              "srcLabel": "Stats. of 2005, Chapter 91 - §2",
+              "effect": "amended",
+              "effective": "2006-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec13401-amended-2001-chp0596",
+              "src": "urn:legix:us-ca:2001-chp0596:doc(sec1)",
+              "srcLabel": "Stats. of 2001, Chapter 596 - §1",
+              "effect": "amended",
+              "effective": "2002-01-01",
+              "linking": "linked"
+            },
+            {
+              "id": "sec13401-amended-1994-chp0521",
+              "src": "urn:legix:us-ca:1994-chp0521:doc(sec1)",
+              "srcLabel": "Stats. of 1993, Chapter 521 - §1",
+              "effect": "amended",
+              "effective": "1995-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec13402",
+          "class": "LawSection",
+          "num": "13402",
+          "versions": 
+          [
+            {
+              "id": "sec13402-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13403",
+          "class": "LawSection",
+          "num": "13403",
+          "versions": 
+          [
+            {
+              "id": "sec13403-amended-1989-chp1047",
+              "src": "urn:legix:us-ca:1989-chp1047:doc(sec2)",
+              "srcLabel": "Stats. of 1989, Chapter 1047 - §2",
+              "effect": "amended",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13404",
+          "class": "LawSection",
+          "num": "13404",
+          "versions": 
+          [
+            {
+              "id": "sec13404-added-1991-chp0514",
+              "src": "urn:legix:us-ca:1991-chp0514:doc(sec1)",
+              "srcLabel": "Stats. of 1991, Chapter 514 - §1",
+              "effect": "added",
+              "effective": "1991-10-07",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13405",
+          "class": "LawSection",
+          "num": "13405",
+          "versions": 
+          [
+            {
+              "id": "sec13405-amended-2002-chp0664",
+              "src": "urn:legix:us-ca:2002-chp0664:doc(sec26)",
+              "srcLabel": "Stats. of 2001, Chapter 664 - §26",
+              "effect": "amended",
+              "effective": "2003-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec13405-added-2001-chp0596",
+              "src": "urn:legix:us-ca:2001-chp0596:doc(sec2)",
+              "srcLabel": "Stats. of 2001, Chapter 596 - §2",
+              "effect": "added",
+              "effective": "2002-01-01",
+              "linking": "linked"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Sale of Petroleum Products",
+        "id2": "art2-sec13410",
+        "rangeLow": "13410",
+        "rangeHigh": "13413",
+        "rangeText": " [§13410-§13413]",
+        "heading":
+        {
+          "id": "div5-chp14-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art2-heading-id3C3A50494F75"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13410",
+          "class": "LawSection",
+          "num": "13410",
+          "versions": 
+          [
+            {
+              "id": "sec13410-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13411",
+          "class": "LawSection",
+          "num": "13411",
+          "versions": 
+          [
+            {
+              "id": "sec13411-amended-1980-chp1344",
+              "src": "urn:legix:us-ca:1980-chp1344:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 1344 - §1",
+              "effect": "amended",
+              "effective": "1980-09-30",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13413",
+          "class": "LawSection",
+          "num": "13413",
+          "versions": 
+          [
+            {
+              "id": "sec13413-amended-1986-chp0201",
+              "src": "urn:legix:us-ca:1986-chp0201:doc(sec2)",
+              "srcLabel": "Stats. of 1985, Chapter 201 - §2",
+              "effect": "amended",
+              "effective": "1987-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art3",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3",
+        "title": "Hours of Business",
+        "id2": "art3-sec13420",
+        "rangeLow": "13420",
+        "rangeHigh": "13422",
+        "rangeText": " [§13420-§13422]",
+        "heading":
+        {
+          "id": "div5-chp14-art3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art3-heading-id26CBAC140395"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13420",
+          "class": "LawSection",
+          "num": "13420",
+          "versions": 
+          [
+            {
+              "id": "sec13420-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13421",
+          "class": "LawSection",
+          "num": "13421",
+          "versions": 
+          [
+            {
+              "id": "sec13421-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13422",
+          "class": "LawSection",
+          "num": "13422",
+          "versions": 
+          [
+            {
+              "id": "sec13422-amended-1983-chp1092",
+              "src": "urn:legix:us-ca:1983-chp1092:doc(sec46)",
+              "srcLabel": "Stats. of 1983, Chapter 1092 - §46",
+              "effect": "amended",
+              "effective": "1983-09-27",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4",
+        "title": "Motor Oil Fee",
+        "id2": "art4-sec13430",
+        "rangeLow": "13430",
+        "rangeHigh": "13434",
+        "rangeText": " [§13430-§13434]",
+        "heading":
+        {
+          "id": "div5-chp14-art4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art4-heading-idADB12D5661D3"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13430",
+          "class": "LawSection",
+          "num": "13430",
+          "versions": 
+          [
+            {
+              "id": "sec13430-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13431",
+          "class": "LawSection",
+          "num": "13431",
+          "versions": 
+          [
+            {
+              "id": "sec13431-amended-2009-chp0573",
+              "src": "urn:legix:us-ca:2009-chp0573:doc(sec1)",
+              "srcLabel": "Stats. of 2009, Chapter 573 - §1",
+              "effect": "amended",
+              "effective": "2010-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13432",
+          "class": "LawSection",
+          "num": "13432",
+          "versions": 
+          [
+            {
+              "id": "sec13432-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13433",
+          "class": "LawSection",
+          "num": "13433",
+          "versions": 
+          [
+            {
+              "id": "sec13433-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13434",
+          "class": "LawSection",
+          "num": "13434",
+          "versions": 
+          [
+            {
+              "id": "sec13434-amended-1985-chp0345",
+              "src": "urn:legix:us-ca:1985-chp0345:doc(sec1)",
+              "srcLabel": "Stats. of 1985, Chapter 345 - §1",
+              "effect": "amended",
+              "effective": "1986-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "5",
+        "title": "Standards for Gasoline",
+        "id2": "art5-sec13440",
+        "rangeLow": "13440",
+        "rangeHigh": "13443",
+        "rangeText": " [§13440-§13443]",
+        "heading":
+        {
+          "id": "div5-chp14-art5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art5-heading-idAFC37820B0D8"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13440",
+          "class": "LawSection",
+          "num": "13440",
+          "versions": 
+          [
+            {
+              "id": "sec13440-amended-1996-chp0489",
+              "src": "urn:legix:us-ca:1996-chp0489:doc(sec1)",
+              "srcLabel": "Stats. of 1995, Chapter 489 - §1",
+              "effect": "amended",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec13440-amended-1994-chp0521",
+              "src": "urn:legix:us-ca:1994-chp0521:doc(sec2)",
+              "srcLabel": "Stats. of 1993, Chapter 521 - §2",
+              "effect": "amended",
+              "effective": "1995-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec13440.5",
+          "class": "LawSection",
+          "num": "13440.5",
+          "versions": 
+          [
+            {
+              "id": "sec13440.5-added-1983-chp1012",
+              "src": "urn:legix:us-ca:1983-chp1012:doc(sec2)",
+              "srcLabel": "Stats. of 1983, Chapter 1012 - §2",
+              "effect": "added",
+              "effective": "1984-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13441",
+          "class": "LawSection",
+          "num": "13441",
+          "versions": 
+          [
+            {
+              "id": "sec13441-amended-1985-chp0167",
+              "src": "urn:legix:us-ca:1985-chp0167:doc(sec2.5)",
+              "srcLabel": "Stats. of 1985, Chapter 167 - §2.5",
+              "effect": "amended",
+              "effective": "1986-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13442",
+          "class": "LawSection",
+          "num": "13442",
+          "versions": 
+          [
+            {
+              "id": "sec13442-amended-1989-chp1047",
+              "src": "urn:legix:us-ca:1989-chp1047:doc(sec3)",
+              "srcLabel": "Stats. of 1989, Chapter 1047 - §3",
+              "effect": "amended",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13443",
+          "class": "LawSection",
+          "num": "13443",
+          "versions": 
+          [
+            {
+              "id": "sec13443-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art5.5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "5.5",
+        "title": "Standards for Hydrogen",
+        "id2": "art5.5-sec13446",
+        "rangeLow": "13446",
+        "rangeText": " [§13446]",
+        "heading":
+        {
+          "id": "div5-chp14-art5.5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art5.5-heading-id6EA016E64051"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13446",
+          "class": "LawSection",
+          "num": "13446",
+          "versions": 
+          [
+            {
+              "id": "sec13446-added-2005-chp0091",
+              "src": "urn:legix:us-ca:2005-chp0091:doc(sec3)",
+              "srcLabel": "Stats. of 2005, Chapter 91 - §3",
+              "effect": "added",
+              "effective": "2006-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art6",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "6",
+        "title": "Standards for Diesel Fuel, Kerosene, and Fuel Oils 13450-13451",
+        "heading":
+        {
+          "id": "div5-chp14-art6-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art6-heading-idCDEDCA601C42"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13450",
+          "class": "LawSection",
+          "num": "13450",
+          "versions": 
+          [
+            {
+              "id": "sec13450-amended-1993-chp0740",
+              "src": "urn:legix:us-ca:1993-chp0740:doc(sec3)",
+              "srcLabel": "Stats. of 1993, Chapter 740 - §3",
+              "effect": "amended",
+              "effective": "1994-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13451",
+          "class": "LawSection",
+          "num": "13451",
+          "versions": 
+          [
+            {
+              "id": "sec13451-amended-1994-chp0521",
+              "src": "urn:legix:us-ca:1994-chp0521:doc(sec3)",
+              "srcLabel": "Stats. of 1993, Chapter 521 - §3",
+              "effect": "amended",
+              "effective": "1995-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art7",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "7",
+        "title": "Standards for Lubricating Oils and Oils Used to Lubricate Transmissions, Gears, or Axles",
+        "id2": "art7-sec13460",
+        "rangeLow": "13460",
+        "rangeHigh": "13462",
+        "rangeText": " [§13460-§13462]",
+        "heading":
+        {
+          "id": "div5-chp14-art7-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art7-heading-id7F27D623F1DA"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13460",
+          "class": "LawSection",
+          "num": "13460",
+          "versions": 
+          [
+            {
+              "id": "sec13460-added-1989-chp1047",
+              "src": "urn:legix:us-ca:1989-chp1047:doc(sec5)",
+              "srcLabel": "Stats. of 1989, Chapter 1047 - §5",
+              "effect": "added",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13461",
+          "class": "LawSection",
+          "num": "13461",
+          "versions": 
+          [
+            {
+              "id": "sec13461-added-1989-chp1047",
+              "src": "urn:legix:us-ca:1989-chp1047:doc(sec7)",
+              "srcLabel": "Stats. of 1989, Chapter 1047 - §7",
+              "effect": "added",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13462",
+          "class": "LawSection",
+          "num": "13462",
+          "versions": 
+          [
+            {
+              "id": "sec13462-added-1989-chp1047",
+              "src": "urn:legix:us-ca:1989-chp1047:doc(sec9)",
+              "srcLabel": "Stats. of 1989, Chapter 1047 - §9",
+              "effect": "added",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art8",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "8",
+        "title": "Price Indications on Petroleum Dispensing Apparatus",
+        "id2": "art8-sec13470",
+        "rangeLow": "13470",
+        "rangeHigh": "13477",
+        "rangeText": " [§13470-§13477]",
+        "heading":
+        {
+          "id": "div5-chp14-art8-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art8-heading-idB52CE79CCF2F"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13470",
+          "class": "LawSection",
+          "num": "13470",
+          "versions": 
+          [
+            {
+              "id": "sec13470-amended-1985-chp0345",
+              "src": "urn:legix:us-ca:1985-chp0345:doc(sec2)",
+              "srcLabel": "Stats. of 1985, Chapter 345 - §2",
+              "effect": "amended",
+              "effective": "1986-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13470.1",
+          "class": "LawSection",
+          "num": "13470.1",
+          "versions": 
+          [
+            {
+              "id": "sec13470.1-added-1980-chp0984",
+              "src": "urn:legix:us-ca:1980-chp0984:doc(sec1)",
+              "srcLabel": "Stats. of 1979, Chapter 984 - §1",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13470.5",
+          "class": "LawSection",
+          "num": "13470.5",
+          "versions": 
+          [
+            {
+              "id": "sec13470.5-amended-1985-chp0167",
+              "src": "urn:legix:us-ca:1985-chp0167:doc(sec7)",
+              "srcLabel": "Stats. of 1985, Chapter 167 - §7",
+              "effect": "amended",
+              "effective": "1986-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13471",
+          "class": "LawSection",
+          "num": "13471",
+          "versions": 
+          [
+            {
+              "id": "sec13471-amended-1985-chp0167",
+              "src": "urn:legix:us-ca:1985-chp0167:doc(sec8)",
+              "srcLabel": "Stats. of 1985, Chapter 167 - §8",
+              "effect": "amended",
+              "effective": "1986-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13472",
+          "class": "LawSection",
+          "num": "13472",
+          "versions": 
+          [
+            {
+              "id": "sec13472-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13473",
+          "class": "LawSection",
+          "num": "13473",
+          "versions": 
+          [
+            {
+              "id": "sec13473-amended-1985-chp0345",
+              "src": "urn:legix:us-ca:1985-chp0345:doc(sec3)",
+              "srcLabel": "Stats. of 1985, Chapter 345 - §3",
+              "effect": "amended",
+              "effective": "1986-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13474",
+          "class": "LawSection",
+          "num": "13474",
+          "versions": 
+          [
+            {
+              "id": "sec13474-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13475",
+          "class": "LawSection",
+          "num": "13475",
+          "versions": 
+          [
+            {
+              "id": "sec13475-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13477",
+          "class": "LawSection",
+          "num": "13477",
+          "versions": 
+          [
+            {
+              "id": "sec13477-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art9",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "9",
+        "title": "Labeling",
+        "id2": "art9-sec13480",
+        "rangeLow": "13480",
+        "rangeHigh": "13490",
+        "rangeText": " [§13480-§13490]",
+        "heading":
+        {
+          "id": "div5-chp14-art9-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art9-heading-id2AFC99D41E6F"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13480",
+          "class": "LawSection",
+          "num": "13480",
+          "versions": 
+          [
+            {
+              "id": "sec13480-amended-1998-chp0459",
+              "src": "urn:legix:us-ca:1998-chp0459:doc(sec1)",
+              "srcLabel": "Stats. of 1997, Chapter 459 - §1",
+              "effect": "amended",
+              "effective": "1999-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec13480-amended-1994-chp0521",
+              "src": "urn:legix:us-ca:1994-chp0521:doc(sec4)",
+              "srcLabel": "Stats. of 1993, Chapter 521 - §4",
+              "effect": "amended",
+              "effective": "1995-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec13481",
+          "class": "LawSection",
+          "num": "13481",
+          "versions": 
+          [
+            {
+              "id": "sec13481-added-1988-chp0590",
+              "src": "urn:legix:us-ca:1988-chp0590:doc(sec2)",
+              "srcLabel": "Stats. of 1987, Chapter 590 - §2",
+              "effect": "added",
+              "effective": "1989-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13482",
+          "class": "LawSection",
+          "num": "13482",
+          "versions": 
+          [
+            {
+              "id": "sec13482-added-1989-chp1047",
+              "src": "urn:legix:us-ca:1989-chp1047:doc(sec11)",
+              "srcLabel": "Stats. of 1989, Chapter 1047 - §11",
+              "effect": "added",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13483",
+          "class": "LawSection",
+          "num": "13483",
+          "versions": 
+          [
+            {
+              "id": "sec13483-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13484",
+          "class": "LawSection",
+          "num": "13484",
+          "versions": 
+          [
+            {
+              "id": "sec13484-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13485",
+          "class": "LawSection",
+          "num": "13485",
+          "versions": 
+          [
+            {
+              "id": "sec13485-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13486",
+          "class": "LawSection",
+          "num": "13486",
+          "versions": 
+          [
+            {
+              "id": "sec13486-added-1988-chp0590",
+              "src": "urn:legix:us-ca:1988-chp0590:doc(sec5)",
+              "srcLabel": "Stats. of 1987, Chapter 590 - §5",
+              "effect": "added",
+              "effective": "1989-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13489",
+          "class": "LawSection",
+          "num": "13489",
+          "versions": 
+          [
+            {
+              "id": "sec13489-amended-1989-chp1047",
+              "src": "urn:legix:us-ca:1989-chp1047:doc(sec12)",
+              "srcLabel": "Stats. of 1989, Chapter 1047 - §12",
+              "effect": "amended",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13490",
+          "class": "LawSection",
+          "num": "13490",
+          "versions": 
+          [
+            {
+              "id": "sec13490-amended-1989-chp1047",
+              "src": "urn:legix:us-ca:1989-chp1047:doc(sec13)",
+              "srcLabel": "Stats. of 1989, Chapter 1047 - §13",
+              "effect": "amended",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art10",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "10",
+        "title": "Tank Vehicles",
+        "id2": "art10-sec13500",
+        "rangeLow": "13500",
+        "rangeHigh": "13503",
+        "rangeText": " [§13500-§13503]",
+        "heading":
+        {
+          "id": "div5-chp14-art10-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art10-heading-id2652F46902EC"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13500",
+          "class": "LawSection",
+          "num": "13500",
+          "versions": 
+          [
+            {
+              "id": "sec13500-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec4)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §4",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13501",
+          "class": "LawSection",
+          "num": "13501",
+          "versions": 
+          [
+            {
+              "id": "sec13501-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec4)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §4",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13502",
+          "class": "LawSection",
+          "num": "13502",
+          "versions": 
+          [
+            {
+              "id": "sec13502-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec4)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §4",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13503",
+          "class": "LawSection",
+          "num": "13503",
+          "versions": 
+          [
+            {
+              "id": "sec13503-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec4)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §4",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art11",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "11",
+        "title": "Basis of Settlement",
+        "id2": "art11-sec13520",
+        "rangeLow": "13520",
+        "rangeText": " [§13520]",
+        "heading":
+        {
+          "id": "div5-chp14-art11-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art11-heading-id125458659E85"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13520",
+          "class": "LawSection",
+          "num": "13520",
+          "versions": 
+          [
+            {
+              "id": "sec13520-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art12",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "12",
+        "title": "Price Sign Advertising",
+        "id2": "art12-sec13530",
+        "rangeLow": "13530",
+        "rangeHigh": "13540",
+        "rangeText": " [§13530-§13540]",
+        "heading":
+        {
+          "id": "div5-chp14-art12-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art12-heading-id8CA56CC6E237"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13530",
+          "class": "LawSection",
+          "num": "13530",
+          "versions": 
+          [
+            {
+              "id": "sec13530-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec6)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §6",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13531",
+          "class": "LawSection",
+          "num": "13531",
+          "versions": 
+          [
+            {
+              "id": "sec13531-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec6)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §6",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13532",
+          "class": "LawSection",
+          "num": "13532",
+          "versions": 
+          [
+            {
+              "id": "sec13532-amended-1988-chp0590",
+              "src": "urn:legix:us-ca:1988-chp0590:doc(sec8)",
+              "srcLabel": "Stats. of 1987, Chapter 590 - §8",
+              "effect": "amended",
+              "effective": "1989-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13533",
+          "class": "LawSection",
+          "num": "13533",
+          "versions": 
+          [
+            {
+              "id": "sec13533-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec6)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §6",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13534",
+          "class": "LawSection",
+          "num": "13534",
+          "versions": 
+          [
+            {
+              "id": "sec13534-amended-2004-chp0072",
+              "src": "urn:legix:us-ca:2004-chp0072:doc(sec1)",
+              "srcLabel": "Stats. of 2003, Chapter 72 - §1",
+              "effect": "amended",
+              "effective": "2005-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13535",
+          "class": "LawSection",
+          "num": "13535",
+          "versions": 
+          [
+            {
+              "id": "sec13535-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec6)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §6",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13536",
+          "class": "LawSection",
+          "num": "13536",
+          "versions": 
+          [
+            {
+              "id": "sec13536-amended-1985-chp0345",
+              "src": "urn:legix:us-ca:1985-chp0345:doc(sec7)",
+              "srcLabel": "Stats. of 1985, Chapter 345 - §7",
+              "effect": "amended",
+              "effective": "1986-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13540",
+          "class": "LawSection",
+          "num": "13540",
+          "versions": 
+          [
+            {
+              "id": "sec13540-added-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec6)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §6",
+              "effect": "added",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art13",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "13",
+        "title": "Inducements for the Sale of Gasoline or Motor Fuel",
+        "id2": "art13-sec13550",
+        "rangeLow": "13550",
+        "rangeText": " [§13550]",
+        "heading":
+        {
+          "id": "div5-chp14-art13-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art13-heading-id75200CD98CC3"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13550",
+          "class": "LawSection",
+          "num": "13550",
+          "versions": 
+          [
+            {
+              "id": "sec13550-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art14",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "14",
+        "title": "Passing Off",
+        "id2": "art14-sec13561",
+        "rangeLow": "13561",
+        "rangeHigh": "13571",
+        "rangeText": " [§13561-§13571]",
+        "heading":
+        {
+          "id": "div5-chp14-art14-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art14-heading-id07A62C4C6D79"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13561",
+          "class": "LawSection",
+          "num": "13561",
+          "versions": 
+          [
+            {
+              "id": "sec13561-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13562",
+          "class": "LawSection",
+          "num": "13562",
+          "versions": 
+          [
+            {
+              "id": "sec13562-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13568",
+          "class": "LawSection",
+          "num": "13568",
+          "versions": 
+          [
+            {
+              "id": "sec13568-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13570",
+          "class": "LawSection",
+          "num": "13570",
+          "versions": 
+          [
+            {
+              "id": "sec13570-amended-2004-chp0183",
+              "src": "urn:legix:us-ca:2004-chp0183:doc(sec13)",
+              "srcLabel": "Stats. of 2003, Chapter 183 - §13",
+              "effect": "amended",
+              "effective": "2005-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec13570-amended-2003-chp0063",
+              "src": "urn:legix:us-ca:2003-chp0063:doc(sec1)",
+              "srcLabel": "Stats. of 2003, Chapter 63 - §1",
+              "effect": "amended",
+              "effective": "2004-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec13571",
+          "class": "LawSection",
+          "num": "13571",
+          "versions": 
+          [
+            {
+              "id": "sec13571-added-1983-chp1012",
+              "src": "urn:legix:us-ca:1983-chp1012:doc(sec5)",
+              "srcLabel": "Stats. of 1983, Chapter 1012 - §5",
+              "effect": "added",
+              "effective": "1984-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art16",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "16",
+        "title": "Enforcement",
+        "id2": "art16-sec13590",
+        "rangeLow": "13590",
+        "rangeHigh": "13600",
+        "rangeText": " [§13590-§13600]",
+        "heading":
+        {
+          "id": "div5-chp14-art16-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art16-heading-id5BCF5E862A6F"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13590",
+          "class": "LawSection",
+          "num": "13590",
+          "versions": 
+          [
+            {
+              "id": "sec13590-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13591",
+          "class": "LawSection",
+          "num": "13591",
+          "versions": 
+          [
+            {
+              "id": "sec13591-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13592",
+          "class": "LawSection",
+          "num": "13592",
+          "versions": 
+          [
+            {
+              "id": "sec13592-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13593",
+          "class": "LawSection",
+          "num": "13593",
+          "versions": 
+          [
+            {
+              "id": "sec13593-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13594",
+          "class": "LawSection",
+          "num": "13594",
+          "versions": 
+          [
+            {
+              "id": "sec13594-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13595",
+          "class": "LawSection",
+          "num": "13595",
+          "versions": 
+          [
+            {
+              "id": "sec13595-added-1985-chp0167",
+              "src": "urn:legix:us-ca:1985-chp0167:doc(sec12)",
+              "srcLabel": "Stats. of 1985, Chapter 167 - §12",
+              "effect": "added",
+              "effective": "1986-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13596",
+          "class": "LawSection",
+          "num": "13596",
+          "versions": 
+          [
+            {
+              "id": "sec13596-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13597",
+          "class": "LawSection",
+          "num": "13597",
+          "versions": 
+          [
+            {
+              "id": "sec13597-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13598",
+          "class": "LawSection",
+          "num": "13598",
+          "versions": 
+          [
+            {
+              "id": "sec13598-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13599",
+          "class": "LawSection",
+          "num": "13599",
+          "versions": 
+          [
+            {
+              "id": "sec13599-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13600",
+          "class": "LawSection",
+          "num": "13600",
+          "versions": 
+          [
+            {
+              "id": "sec13600-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art17",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "17",
+        "title": "Penalties",
+        "id2": "art17-sec13610",
+        "rangeLow": "13610",
+        "rangeHigh": "13611",
+        "rangeText": " [§13610-§13611]",
+        "heading":
+        {
+          "id": "div5-chp14-art17-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art17-heading-id0476316390AE"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13610",
+          "class": "LawSection",
+          "num": "13610",
+          "versions": 
+          [
+            {
+              "id": "sec13610-amended-1988-chp0590",
+              "src": "urn:legix:us-ca:1988-chp0590:doc(sec11)",
+              "srcLabel": "Stats. of 1987, Chapter 590 - §11",
+              "effect": "amended",
+              "effective": "1989-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec13611",
+          "class": "LawSection",
+          "num": "13611",
+          "versions": 
+          [
+            {
+              "id": "sec13611-added-1980-chp0636",
+              "src": "urn:legix:us-ca:1980-chp0636:doc(sec5)",
+              "srcLabel": "Stats. of 1979, Chapter 636 - §5",
+              "effect": "added",
+              "effective": "1981-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art18",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "18",
+        "title": "Disposition and Use of Moneys",
+        "id2": "art18-sec13620",
+        "rangeLow": "13620",
+        "rangeText": " [§13620]",
+        "heading":
+        {
+          "id": "div5-chp14-art18-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art18-heading-id63589DB8C544"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13620",
+          "class": "LawSection",
+          "num": "13620",
+          "versions": 
+          [
+            {
+              "id": "sec13620-amended-1984-chp0698",
+              "src": "urn:legix:us-ca:1984-chp0698:doc(sec8)",
+              "srcLabel": "Stats. of 1983, Chapter 698 - §8",
+              "effect": "amended",
+              "effective": "1985-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div5-chp14-art19",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "19",
+        "title": "Fuel Delivery Temperature Study",
+        "id2": "art19-sec13630",
+        "rangeLow": "13630",
+        "rangeText": " [§13630]",
+        "heading":
+        {
+          "id": "div5-chp14-art19-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div5-chp14-art19-heading-idBF7383AB491D"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec13630",
+          "class": "LawSection",
+          "num": "13630",
+          "versions": 
+          [
+            {
+              "id": "sec13630-added-2007-chp0398",
+              "src": "urn:legix:us-ca:2007-chp0398:doc(sec1)",
+              "srcLabel": "Stats. of 2007, Chapter 398 - §1",
+              "effect": "added",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

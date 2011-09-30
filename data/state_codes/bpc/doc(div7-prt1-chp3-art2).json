@@ -1,0 +1,120 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div7-prt1-chp3-art2):json",
+    "title": "Business and Professions Code - Division 7, Part 1, Chapter 3, Article 2",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div7-prt1-chp3-art2",
+      "class": "Article",
+      "role": "slim:Article",
+      "num": "2",
+      "title": "Actions",
+      "id2": "art2-sec16220",
+      "rangeLow": "16220",
+      "rangeHigh": "16224",
+      "rangeText": " [§16220-§16224]",
+      "heading":
+      {
+        "id": "div7-prt1-chp3-art2-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div7-prt1-chp3-art2-heading-id818C95D7F178"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec16220",
+        "class": "LawSection",
+        "num": "16220",
+        "versions": 
+        [
+          {
+            "id": "sec16220-added-1941-chp0061",
+            "src": "urn:legix:us-ca:1941-chp0061:doc",
+            "srcLabel": "Stats. of 1941, Chapter 61",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec16221",
+        "class": "LawSection",
+        "num": "16221",
+        "versions": 
+        [
+          {
+            "id": "sec16221-added-1941-chp0061",
+            "src": "urn:legix:us-ca:1941-chp0061:doc",
+            "srcLabel": "Stats. of 1941, Chapter 61",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec16222",
+        "class": "LawSection",
+        "num": "16222",
+        "versions": 
+        [
+          {
+            "id": "sec16222-added-1941-chp0061",
+            "src": "urn:legix:us-ca:1941-chp0061:doc",
+            "srcLabel": "Stats. of 1941, Chapter 61",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec16223",
+        "class": "LawSection",
+        "num": "16223",
+        "versions": 
+        [
+          {
+            "id": "sec16223-added-1941-chp0061",
+            "src": "urn:legix:us-ca:1941-chp0061:doc",
+            "srcLabel": "Stats. of 1941, Chapter 61",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec16224",
+        "class": "LawSection",
+        "num": "16224",
+        "versions": 
+        [
+          {
+            "id": "sec16224-added-1941-chp0061",
+            "src": "urn:legix:us-ca:1941-chp0061:doc",
+            "srcLabel": "Stats. of 1941, Chapter 61",
+            "effect": "added",
+            "effective": "1942-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

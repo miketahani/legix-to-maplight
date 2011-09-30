@@ -1,0 +1,104 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp8):json",
+    "title": "Business and Professions Code - Division 8, Chapter 8",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp8",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "8",
+      "title": "Unfair Practices",
+      "id2": "chp8-sec21200",
+      "rangeLow": "21200",
+      "rangeHigh": "21203",
+      "rangeText": " [§21200-§21203]",
+      "heading":
+      {
+        "id": "div8-chp8-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp8-heading-idD4CBC4A2FDFC"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec21200",
+        "class": "LawSection",
+        "num": "21200",
+        "versions": 
+        [
+          {
+            "id": "sec21200-added-1975-chp0951",
+            "src": "urn:legix:us-ca:1975-chp0951:doc",
+            "srcLabel": "Stats. of 1975, Chapter 951",
+            "effect": "added",
+            "effective": "1976-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21201",
+        "class": "LawSection",
+        "num": "21201",
+        "versions": 
+        [
+          {
+            "id": "sec21201-added-1975-chp0951",
+            "src": "urn:legix:us-ca:1975-chp0951:doc",
+            "srcLabel": "Stats. of 1975, Chapter 951",
+            "effect": "added",
+            "effective": "1976-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21202",
+        "class": "LawSection",
+        "num": "21202",
+        "versions": 
+        [
+          {
+            "id": "sec21202-added-1975-chp0951",
+            "src": "urn:legix:us-ca:1975-chp0951:doc",
+            "srcLabel": "Stats. of 1975, Chapter 951",
+            "effect": "added",
+            "effective": "1976-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec21203",
+        "class": "LawSection",
+        "num": "21203",
+        "versions": 
+        [
+          {
+            "id": "sec21203-added-1975-chp0951",
+            "src": "urn:legix:us-ca:1975-chp0951:doc",
+            "srcLabel": "Stats. of 1975, Chapter 951",
+            "effect": "added",
+            "effective": "1976-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

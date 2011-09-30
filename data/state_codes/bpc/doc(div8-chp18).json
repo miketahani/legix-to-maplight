@@ -1,0 +1,55 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div8-chp18):json",
+    "title": "Business and Professions Code - Division 8, Chapter 18",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div8-chp18",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "18",
+      "title": "Identification Cards",
+      "id2": "chp18-sec22430",
+      "rangeLow": "22430",
+      "rangeText": " [§22430]",
+      "heading":
+      {
+        "id": "div8-chp18-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div8-chp18-heading-idDD184A77B7F2"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec22430",
+        "class": "LawSection",
+        "num": "22430",
+        "versions": 
+        [
+          {
+            "id": "sec22430-amended-1995-chp0133",
+            "src": "urn:legix:us-ca:1995-chp0133:doc(sec1)",
+            "srcLabel": "Stats. of 1995, Chapter 133 - §1",
+            "effect": "amended",
+            "effective": "1996-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

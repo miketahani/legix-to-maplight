@@ -1,0 +1,646 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div1-chp4):json",
+    "title": "Business and Professions Code - Division 1, Chapter 4",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div1-chp4",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "4",
+      "title": "Consumer Affairs",
+      "id2": "div1-chp4-sec300",
+      "heading":
+      {
+        "id": "div1-chp4-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div1-chp4-heading-id7BCF9190A6E7"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "div1-chp4-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "General Provisions and Definitions",
+        "id2": "art1-sec300",
+        "rangeLow": "300",
+        "rangeHigh": "303",
+        "rangeText": " [§300-§303]",
+        "heading":
+        {
+          "id": "div1-chp4-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art1-heading-id08D34D2E2853"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec300",
+          "class": "LawSection",
+          "num": "300",
+          "versions": 
+          [
+            {
+              "id": "sec300-added-1970-chp1394",
+              "src": "urn:legix:us-ca:1970-chp1394:doc",
+              "srcLabel": "Stats. of 1969, Chapter 1394",
+              "effect": "added",
+              "effective": "1971-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec301",
+          "class": "LawSection",
+          "num": "301",
+          "versions": 
+          [
+            {
+              "id": "sec301-amended-1975-chp1262",
+              "src": "urn:legix:us-ca:1975-chp1262:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1262",
+              "effect": "amended",
+              "effective": "1976-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec302",
+          "class": "LawSection",
+          "num": "302",
+          "versions": 
+          [
+            {
+              "id": "sec302-amended-1994-chp1010",
+              "src": "urn:legix:us-ca:1994-chp1010:doc(sec2)",
+              "srcLabel": "Stats. of 1993, Chapter 1010 - §2",
+              "effect": "amended",
+              "effective": "1995-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec303",
+          "class": "LawSection",
+          "num": "303",
+          "versions": 
+          [
+            {
+              "id": "sec303-added-1972-chp0808",
+              "src": "urn:legix:us-ca:1972-chp0808:doc",
+              "srcLabel": "Stats. of 1971, Chapter 808",
+              "effect": "added",
+              "effective": "1973-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1-chp4-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Director and Employees",
+        "id2": "art2-sec305",
+        "rangeLow": "305",
+        "rangeHigh": "307",
+        "rangeText": " [§305-§307]",
+        "heading":
+        {
+          "id": "div1-chp4-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art2-heading-idA1B70B120C7D"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec305",
+          "class": "LawSection",
+          "num": "305",
+          "versions": 
+          [
+            {
+              "id": "sec305-amended-1971-chp0114",
+              "src": "urn:legix:us-ca:1971-chp0114:doc",
+              "srcLabel": "Stats. of 1971, Chapter 114",
+              "effect": "amended",
+              "effective": "1972-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec306",
+          "class": "LawSection",
+          "num": "306",
+          "versions": 
+          [
+            {
+              "id": "sec306-added-1970-chp1394",
+              "src": "urn:legix:us-ca:1970-chp1394:doc",
+              "srcLabel": "Stats. of 1969, Chapter 1394",
+              "effect": "added",
+              "effective": "1971-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec307",
+          "class": "LawSection",
+          "num": "307",
+          "versions": 
+          [
+            {
+              "id": "sec307-added-1975-chp1262",
+              "src": "urn:legix:us-ca:1975-chp1262:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1262",
+              "effect": "added",
+              "effective": "1976-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1-chp4-art3",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3",
+        "title": "Powers and Duties",
+        "id2": "art3-sec310",
+        "rangeLow": "310",
+        "rangeHigh": "313.5",
+        "rangeText": " [§310-§313.5]",
+        "heading":
+        {
+          "id": "div1-chp4-art3-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art3-heading-idE4777C18AAB4"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec310",
+          "class": "LawSection",
+          "num": "310",
+          "versions": 
+          [
+            {
+              "id": "sec310-amended-1975-chp1262",
+              "src": "urn:legix:us-ca:1975-chp1262:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1262",
+              "effect": "amended",
+              "effective": "1976-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec311",
+          "class": "LawSection",
+          "num": "311",
+          "versions": 
+          [
+            {
+              "id": "sec311-added-1970-chp1394",
+              "src": "urn:legix:us-ca:1970-chp1394:doc",
+              "srcLabel": "Stats. of 1969, Chapter 1394",
+              "effect": "added",
+              "effective": "1971-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec312",
+          "class": "LawSection",
+          "num": "312",
+          "versions": 
+          [
+            {
+              "id": "sec312-amended-2002-chp0405",
+              "src": "urn:legix:us-ca:2002-chp0405:doc(sec3)",
+              "srcLabel": "Stats. of 2001, Chapter 405 - §3",
+              "effect": "amended",
+              "effective": "2003-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec312-amended-1998-chp0829",
+              "src": "urn:legix:us-ca:1998-chp0829:doc(sec1)",
+              "srcLabel": "Stats. of 1997, Chapter 829 - §1",
+              "effect": "amended",
+              "effective": "1999-01-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec313",
+          "class": "LawSection",
+          "num": "313",
+          "versions": 
+          [
+            {
+              "id": "sec313-amended-1975-chp1262",
+              "src": "urn:legix:us-ca:1975-chp1262:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1262",
+              "effect": "amended",
+              "effective": "1976-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec313.1",
+          "class": "LawSection",
+          "num": "313.1",
+          "versions": 
+          [
+            {
+              "id": "sec313.1-amended-1994-chp0026",
+              "src": "urn:legix:us-ca:1994-chp0026:doc(sec13)",
+              "srcLabel": "Stats. of 1993, Chapter 26 - §13",
+              "effect": "amended",
+              "effective": "1994-03-30",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec313.2",
+          "class": "LawSection",
+          "num": "313.2",
+          "versions": 
+          [
+            {
+              "id": "sec313.2-added-1992-chp1289",
+              "src": "urn:legix:us-ca:1992-chp1289:doc(sec3)",
+              "srcLabel": "Stats. of 1991, Chapter 1289 - §3",
+              "effect": "added",
+              "effective": "1993-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec313.5",
+          "class": "LawSection",
+          "num": "313.5",
+          "versions": 
+          [
+            {
+              "id": "sec313.5-amended-1975-chp1262",
+              "src": "urn:legix:us-ca:1975-chp1262:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1262",
+              "effect": "amended",
+              "effective": "1976-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1-chp4-art3.5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3.5",
+        "title": "Consumer Advisory Council",
+        "heading":
+        {
+          "id": "div1-chp4-art3.5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art3.5-heading-id3FAF38ACC452"
+            }
+          ]
+      
+        }
+      },
+      {
+        "id": "div1-chp4-art3.6",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "3.6",
+        "title": "Uniform Standards Regarding Substance-abusing Healing Arts Licensees",
+        "id2": "art3.6-sec315",
+        "rangeLow": "315",
+        "rangeHigh": "315.4",
+        "rangeText": " [§315-§315.4]",
+        "heading":
+        {
+          "id": "div1-chp4-art3.6-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art3.6-heading-id6F62C392BFA8"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec315",
+          "class": "LawSection",
+          "num": "315",
+          "versions": 
+          [
+            {
+              "id": "sec315-amended-2009-chp0140",
+              "src": "urn:legix:us-ca:2009-chp0140:doc(sec1)",
+              "srcLabel": "Stats. of 2009, Chapter 140 - §1",
+              "effect": "amended",
+              "effective": "2010-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec315.2",
+          "class": "LawSection",
+          "num": "315.2",
+          "versions": 
+          [
+            {
+              "id": "sec315.2-added-2010-chp0517",
+              "src": "urn:legix:us-ca:2010-chp0517:doc(sec2)",
+              "srcLabel": "Stats. of 2009, Chapter 517 - §2",
+              "effect": "added",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec315.4",
+          "class": "LawSection",
+          "num": "315.4",
+          "versions": 
+          [
+            {
+              "id": "sec315.4-added-2010-chp0517",
+              "src": "urn:legix:us-ca:2010-chp0517:doc(sec3)",
+              "srcLabel": "Stats. of 2009, Chapter 517 - §3",
+              "effect": "added",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1-chp4-art4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4",
+        "title": "Representation of Consumers",
+        "id2": "art4-sec320",
+        "rangeLow": "320",
+        "rangeHigh": "321",
+        "rangeText": " [§320-§321]",
+        "heading":
+        {
+          "id": "div1-chp4-art4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art4-heading-id7BC4D66872FC"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec320",
+          "class": "LawSection",
+          "num": "320",
+          "versions": 
+          [
+            {
+              "id": "sec320-amended-1975-chp1262",
+              "src": "urn:legix:us-ca:1975-chp1262:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1262",
+              "effect": "amended",
+              "effective": "1976-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec321",
+          "class": "LawSection",
+          "num": "321",
+          "versions": 
+          [
+            {
+              "id": "sec321-added-1975-chp1262",
+              "src": "urn:legix:us-ca:1975-chp1262:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1262",
+              "effect": "added",
+              "effective": "1976-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1-chp4-art5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "5",
+        "title": "Consumer Complaints",
+        "id2": "art5-sec325",
+        "rangeLow": "325",
+        "rangeHigh": "326",
+        "rangeText": " [§325-§326]",
+        "heading":
+        {
+          "id": "div1-chp4-art5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art5-heading-idA09D8F38D146"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec325",
+          "class": "LawSection",
+          "num": "325",
+          "versions": 
+          [
+            {
+              "id": "sec325-added-1970-chp1394",
+              "src": "urn:legix:us-ca:1970-chp1394:doc",
+              "srcLabel": "Stats. of 1969, Chapter 1394",
+              "effect": "added",
+              "effective": "1971-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec325.3",
+          "class": "LawSection",
+          "num": "325.3",
+          "versions": 
+          [
+            {
+              "id": "sec325.3-added-1995-chp0357",
+              "src": "urn:legix:us-ca:1995-chp0357:doc(sec1)",
+              "srcLabel": "Stats. of 1995, Chapter 357 - §1",
+              "effect": "added",
+              "effective": "1996-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec326",
+          "class": "LawSection",
+          "num": "326",
+          "versions": 
+          [
+            {
+              "id": "sec326-amended-1989-chp1360",
+              "src": "urn:legix:us-ca:1989-chp1360:doc(sec1)",
+              "srcLabel": "Stats. of 1989, Chapter 1360 - §1",
+              "effect": "amended",
+              "effective": "1990-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1-chp4-art6",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "6",
+        "title": "Information",
+        "id2": "art6-sec337",
+        "rangeLow": "337",
+        "rangeText": " [§337]",
+        "heading":
+        {
+          "id": "div1-chp4-art6-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art6-heading-id938310AF27E5"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec337",
+          "class": "LawSection",
+          "num": "337",
+          "versions": 
+          [
+            {
+              "id": "sec337-amended-2007-chp0588",
+              "src": "urn:legix:us-ca:2007-chp0588:doc(sec1)",
+              "srcLabel": "Stats. of 2007, Chapter 588 - §1",
+              "effect": "amended",
+              "effective": "2008-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "div1-chp4-art7",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "7",
+        "title": "Personal Information and Privacy Protection",
+        "heading":
+        {
+          "id": "div1-chp4-art7-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "div1-chp4-art7-heading-idE977DFD3075B"
+            }
+          ]
+      
+        }
+      }
+    ]
+    }
+  }
+}
+   

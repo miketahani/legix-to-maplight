@@ -1,0 +1,72 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div5-chp6.5):json",
+    "title": "Business and Professions Code - Division 5, Chapter 6.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div5-chp6.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "6.5",
+      "title": "Unit Pricing",
+      "id2": "chp6.5-sec12655",
+      "rangeLow": "12655",
+      "rangeHigh": "12656",
+      "rangeText": " [§12655-§12656]",
+      "heading":
+      {
+        "id": "div5-chp6.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div5-chp6.5-heading-idD4A64A765C78"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec12655",
+        "class": "LawSection",
+        "num": "12655",
+        "versions": 
+        [
+          {
+            "id": "sec12655-amended-1994-chp1157",
+            "src": "urn:legix:us-ca:1994-chp1157:doc(sec1)",
+            "srcLabel": "Stats. of 1993, Chapter 1157 - §1",
+            "effect": "amended",
+            "effective": "1995-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec12656",
+        "class": "LawSection",
+        "num": "12656",
+        "versions": 
+        [
+          {
+            "id": "sec12656-amended-1994-chp1157",
+            "src": "urn:legix:us-ca:1994-chp1157:doc(sec2)",
+            "srcLabel": "Stats. of 1993, Chapter 1157 - §2",
+            "effect": "amended",
+            "effective": "1995-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   

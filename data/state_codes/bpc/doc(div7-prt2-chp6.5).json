@@ -1,0 +1,72 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-bpc:doc(div7-prt2-chp6.5):json",
+    "title": "Business and Professions Code - Division 7, Part 2, Chapter 6.5",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div7-prt2-chp6.5",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "6.5",
+      "title": "Reassignments",
+      "id2": "chp6.5-sec17350",
+      "rangeLow": "17350",
+      "rangeHigh": "17351",
+      "rangeText": " [§17350-§17351]",
+      "heading":
+      {
+        "id": "div7-prt2-chp6.5-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div7-prt2-chp6.5-heading-id97C1EE98F59F"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec17350",
+        "class": "LawSection",
+        "num": "17350",
+        "versions": 
+        [
+          {
+            "id": "sec17350-added-1979-chp0819",
+            "src": "urn:legix:us-ca:1979-chp0819:doc",
+            "srcLabel": "Stats. of 1979, Chapter 819",
+            "effect": "added",
+            "effective": "1980-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec17351",
+        "class": "LawSection",
+        "num": "17351",
+        "versions": 
+        [
+          {
+            "id": "sec17351-amended-1980-chp0423",
+            "src": "urn:legix:us-ca:1980-chp0423:doc(sec3)",
+            "srcLabel": "Stats. of 1979, Chapter 423 - §3",
+            "effect": "amended",
+            "effective": "1980-07-11",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   
