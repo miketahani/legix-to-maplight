@@ -1,6 +1,7 @@
 # link legix data to ML data via APIs
 # mike tahani       m.tahani at gmail
-# usage: linkdata.py
+# usage: linkdata.py CODE
+#   where CODE is the state code abbreviation (found in data/state_codes/CODE/)
 import json, urllib, re, sys, os, jsonpath
 
 MAPLIGHT_API_KEY = 'INSERT API KEY HERE'
@@ -99,11 +100,10 @@ def query_maplight(url_suffix):
     print jsond
     return dict( [ (org['name'], org['disposition']) for org in jsond['bill']['organizations'] ] )
 
-def main():
+def main(code):
     """ testing/debugging """
-    dir = 'data/state_codes/edc/'
-    # the following doesn't return any results for organizations
-    files = [f for f in os.listdir(dir)]
+    dir = 'data/state_codes/' + code + '/'
+    files = [f for f in os.listdir(dir)] # add in filters here
     for file in files:
         print file
         d = open( dir + file ).read()
@@ -116,4 +116,4 @@ def main():
     return
 
 if __name__ == '__main__':
-    main()
+    main( sys.argv[-1] )
