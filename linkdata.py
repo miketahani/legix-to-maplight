@@ -3,7 +3,7 @@
 # usage: linkdata.py
 import json, urllib, re, sys, os, jsonpath
 
-MAPLIGHT_API_KEY = 'ca53c9867a2b4baeb9b0e58f6b312021'
+MAPLIGHT_API_KEY = 'INSERT API KEY HERE'
 
 def search(json_data):
     """ search for "versions" > "src" using jsonpath, returning a list of URNs """
@@ -23,7 +23,7 @@ def legix_to_maplight(json_data):
     result = search(json_data)
     if result:
         all_urns = list( set( [re.sub('\(.+?\)', '', urn) for urn in result] ) )
-        bills = get_bill_data(all_urns)
+        bills = filter(None, get_bill_data(all_urns))
         for bill in bills:
             if bill['prefix'] == 'ab' or bill['prefix'] == 'sb':
                 print bill
@@ -38,10 +38,16 @@ def get_bill_data(all_urns):
     reformatted_stats = filter(None, [reformat_statute_name(urn) for urn in all_urns])
     for statute in reformatted_stats:
         # look up bill prefix/number ('ab_1099') from statuteslist.json:
-        prefix, number = statutes[ statute['reformatted'] ].split('_') 
-        session = statute['session']
-        yield dict( zip( ['session', 'prefix', 'number'],
-                         [ session, prefix, number ] ) )
+        statute_listing = statute['reformatted']
+        try:
+            prefix, number = statutes[ statute_listing ].split('_') 
+            session = statute['session']
+            yield dict( zip( ['session', 'prefix', 'number'],
+                             [ session, prefix, number ] ) )
+        except KeyError:
+            # couldn't find the statute in statuteslist.json
+            yield ''
+
 
 def reformat_statute_name(urn):
     """ format statute data for a lookup in statuteslist.json; get session """

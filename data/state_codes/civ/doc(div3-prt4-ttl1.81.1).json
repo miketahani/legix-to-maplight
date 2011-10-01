@@ -1,0 +1,124 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-civ:doc(div3-prt4-ttl1.81.1):json",
+    "title": "Civil Code - Division 3, Part 4, Title 1.81.1",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "div3-prt4-ttl1.81.1",
+      "class": "Title",
+      "role": "slim:Title",
+      "num": "1.81.1",
+      "title": "Confidentiality of Social Security Numbers 1798.85-1798.89",
+      "heading":
+      {
+        "id": "div3-prt4-ttl1.81.1-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "div3-prt4-ttl1.81.1-heading-idCA11E78AC22C"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec1798.85",
+        "class": "LawSection",
+        "num": "1798.85",
+        "versions": 
+        [
+          {
+            "id": "sec1798.85-amended-2004-chp0282",
+            "src": "urn:legix:us-ca:2004-chp0282:doc(sec1)",
+            "srcLabel": "Stats. of 2003, Chapter 282 - §1",
+            "effect": "amended",
+            "effective": "2005-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec1798.85-amended-2003-chp0907",
+            "src": "urn:legix:us-ca:2003-chp0907:doc(sec5)",
+            "srcLabel": "Stats. of 2003, Chapter 907 - §5",
+            "effect": "amended",
+            "effective": "2004-01-01",
+            "linking": "linked"
+          },
+          {
+            "id": "sec1798.85-amended-2003-chp0907",
+            "src": "urn:legix:us-ca:2003-chp0907:doc(sec5.5)",
+            "srcLabel": "Stats. of 2003, Chapter 907 - §5.5",
+            "effect": "amended",
+            "effective": "2004-01-01",
+            "linking": "linked"
+          },
+          {
+            "id": "sec1798.85-amended-2002-chp0786",
+            "src": "urn:legix:us-ca:2002-chp0786:doc(sec3)",
+            "srcLabel": "Stats. of 2001, Chapter 786 - §3",
+            "effect": "amended",
+            "effective": "2003-01-01",
+            "linking": "linked"
+          }
+        ]
+      },
+      {
+        "id": "sec1798.86",
+        "class": "LawSection",
+        "num": "1798.86",
+        "versions": 
+        [
+          {
+            "id": "sec1798.86-added-2002-chp0815",
+            "src": "urn:legix:us-ca:2002-chp0815:doc(sec16)",
+            "srcLabel": "Stats. of 2001, Chapter 815 - §16",
+            "effect": "added",
+            "effective": "2003-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec1798.89",
+        "class": "LawSection",
+        "num": "1798.89",
+        "versions": 
+        [
+          {
+            "id": "sec1798.89-added-2009-chp0552",
+            "src": "urn:legix:us-ca:2009-chp0552:doc(sec2)",
+            "srcLabel": "Stats. of 2009, Chapter 552 - §2",
+            "effect": "added",
+            "effective": "2010-01-01",
+            "linking": "embedded"
+          },
+          {
+            "id": "sec1798.89-repealed-2009-chp0552",
+            "src": "urn:legix:us-ca:2009-chp0552:doc(sec1)",
+            "srcLabel": "Stats. of 2009, Chapter 552 - §1",
+            "effect": "repealed",
+            "effective": "2010-01-01",
+            "linking": "linked"
+          },
+          {
+            "id": "sec1798.89-added-2007-chp0627",
+            "src": "urn:legix:us-ca:2007-chp0627:doc(sec1)",
+            "srcLabel": "Stats. of 2007, Chapter 627 - §1",
+            "effect": "added",
+            "effective": "2008-01-01",
+            "linking": "linked"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   
