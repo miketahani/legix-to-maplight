@@ -1,0 +1,652 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-edc:doc(ttl2-div4-prt27-chp1):json",
+    "title": "Education Code - Title 2, Division 4, Part 27, Chapter 1",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "ttl2-div4-prt27-chp1",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "1",
+      "title": "Admission",
+      "id2": "ttl2-div4-prt27-chp1-sec48000",
+      "heading":
+      {
+        "id": "ttl2-div4-prt27-chp1-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "ttl2-div4-prt27-chp1-heading-id66947961F95E"
+          }
+        ]
+      
+      },
+   
+      "levels":
+   
+    [
+      {
+        "id": "ttl2-div4-prt27-chp1-art1",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1",
+        "title": "Kindergartens",
+        "id2": "art1-sec48000",
+        "rangeLow": "48000",
+        "rangeHigh": "48002",
+        "rangeText": " [§48000-§48002]",
+        "heading":
+        {
+          "id": "ttl2-div4-prt27-chp1-art1-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "ttl2-div4-prt27-chp1-art1-heading-id215C82E01E0B"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec48000",
+          "class": "LawSection",
+          "num": "48000",
+          "versions": 
+          [
+            {
+              "id": "sec48000-amended-2010-chp0705",
+              "src": "urn:legix:us-ca:2010-chp0705:doc(sec3)",
+              "srcLabel": "Stats. of 2009, Chapter 705 - §3",
+              "effect": "amended",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48002",
+          "class": "LawSection",
+          "num": "48002",
+          "versions": 
+          [
+            {
+              "id": "sec48002-amended-1990-chp0700",
+              "src": "urn:legix:us-ca:1990-chp0700:doc(sec1)",
+              "srcLabel": "Stats. of 1989, Chapter 700 - §1",
+              "effect": "amended",
+              "effective": "1990-09-12",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "ttl2-div4-prt27-chp1-art1.5",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "1.5",
+        "title": "Kindergarten Readiness Pilot Program",
+        "id2": "art1.5-sec48005.10",
+        "rangeLow": "48005.10",
+        "rangeHigh": "48005.55",
+        "rangeText": " [§48005.10-§48005.55]",
+        "heading":
+        {
+          "id": "ttl2-div4-prt27-chp1-art1.5-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "ttl2-div4-prt27-chp1-art1.5-heading-id2D518ACB231A"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec48005.10",
+          "class": "LawSection",
+          "num": "48005.10",
+          "versions": 
+          [
+            {
+              "id": "sec48005.10-amended-2003-chp0227",
+              "src": "urn:legix:us-ca:2003-chp0227:doc(sec20)",
+              "srcLabel": "Stats. of 2003, Chapter 227 - §20",
+              "effect": "amended",
+              "effective": "2003-08-11",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec48005.10-amended-2001-chp0394",
+              "src": "urn:legix:us-ca:2001-chp0394:doc(sec3)",
+              "srcLabel": "Stats. of 2001, Chapter 394 - §3",
+              "effect": "amended",
+              "effective": "2001-10-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.11",
+          "class": "LawSection",
+          "num": "48005.11",
+          "versions": 
+          [
+            {
+              "id": "sec48005.11-added-2001-chp0394",
+              "src": "urn:legix:us-ca:2001-chp0394:doc(sec4)",
+              "srcLabel": "Stats. of 2001, Chapter 394 - §4",
+              "effect": "added",
+              "effective": "2001-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.13",
+          "class": "LawSection",
+          "num": "48005.13",
+          "versions": 
+          [
+            {
+              "id": "sec48005.13-amended-2003-chp0227",
+              "src": "urn:legix:us-ca:2003-chp0227:doc(sec21)",
+              "srcLabel": "Stats. of 2003, Chapter 227 - §21",
+              "effect": "amended",
+              "effective": "2003-08-11",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec48005.13-amended-2001-chp0394",
+              "src": "urn:legix:us-ca:2001-chp0394:doc(sec5)",
+              "srcLabel": "Stats. of 2001, Chapter 394 - §5",
+              "effect": "amended",
+              "effective": "2001-10-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.15",
+          "class": "LawSection",
+          "num": "48005.15",
+          "versions": 
+          [
+            {
+              "id": "sec48005.15-amended-2003-chp0227",
+              "src": "urn:legix:us-ca:2003-chp0227:doc(sec22)",
+              "srcLabel": "Stats. of 2003, Chapter 227 - §22",
+              "effect": "amended",
+              "effective": "2003-08-11",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec48005.15-amended-2001-chp0394",
+              "src": "urn:legix:us-ca:2001-chp0394:doc(sec6)",
+              "srcLabel": "Stats. of 2001, Chapter 394 - §6",
+              "effect": "amended",
+              "effective": "2001-10-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.20",
+          "class": "LawSection",
+          "num": "48005.20",
+          "versions": 
+          [
+            {
+              "id": "sec48005.20-amended-2001-chp0394",
+              "src": "urn:legix:us-ca:2001-chp0394:doc(sec7)",
+              "srcLabel": "Stats. of 2001, Chapter 394 - §7",
+              "effect": "amended",
+              "effective": "2001-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.25",
+          "class": "LawSection",
+          "num": "48005.25",
+          "versions": 
+          [
+            {
+              "id": "sec48005.25-amended-2003-chp0227",
+              "src": "urn:legix:us-ca:2003-chp0227:doc(sec23)",
+              "srcLabel": "Stats. of 2003, Chapter 227 - §23",
+              "effect": "amended",
+              "effective": "2003-08-11",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.30",
+          "class": "LawSection",
+          "num": "48005.30",
+          "versions": 
+          [
+            {
+              "id": "sec48005.30-amended-2003-chp0227",
+              "src": "urn:legix:us-ca:2003-chp0227:doc(sec24)",
+              "srcLabel": "Stats. of 2003, Chapter 227 - §24",
+              "effect": "amended",
+              "effective": "2003-08-11",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.33",
+          "class": "LawSection",
+          "num": "48005.33",
+          "versions": 
+          [
+            {
+              "id": "sec48005.33-added-2000-chp1022",
+              "src": "urn:legix:us-ca:2000-chp1022:doc(sec1)",
+              "srcLabel": "Stats. of 1999, Chapter 1022 - §1",
+              "effect": "added",
+              "effective": "2001-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.35",
+          "class": "LawSection",
+          "num": "48005.35",
+          "versions": 
+          [
+            {
+              "id": "sec48005.35-amended-2003-chp0227",
+              "src": "urn:legix:us-ca:2003-chp0227:doc(sec25)",
+              "srcLabel": "Stats. of 2003, Chapter 227 - §25",
+              "effect": "amended",
+              "effective": "2003-08-11",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.45",
+          "class": "LawSection",
+          "num": "48005.45",
+          "versions": 
+          [
+            {
+              "id": "sec48005.45-amended-2003-chp0227",
+              "src": "urn:legix:us-ca:2003-chp0227:doc(sec26)",
+              "srcLabel": "Stats. of 2003, Chapter 227 - §26",
+              "effect": "amended",
+              "effective": "2003-08-11",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec48005.45-amended-2001-chp0394",
+              "src": "urn:legix:us-ca:2001-chp0394:doc(sec9)",
+              "srcLabel": "Stats. of 2001, Chapter 394 - §9",
+              "effect": "amended",
+              "effective": "2001-10-01",
+              "linking": "linked"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.50",
+          "class": "LawSection",
+          "num": "48005.50",
+          "versions": 
+          [
+            {
+              "id": "sec48005.50-amended-2001-chp0394",
+              "src": "urn:legix:us-ca:2001-chp0394:doc(sec10)",
+              "srcLabel": "Stats. of 2001, Chapter 394 - §10",
+              "effect": "amended",
+              "effective": "2001-10-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48005.55",
+          "class": "LawSection",
+          "num": "48005.55",
+          "versions": 
+          [
+            {
+              "id": "sec48005.55-amended-2003-chp0227",
+              "src": "urn:legix:us-ca:2003-chp0227:doc(sec27)",
+              "srcLabel": "Stats. of 2003, Chapter 227 - §27",
+              "effect": "amended",
+              "effective": "2003-08-11",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec48005.55-amended-2001-chp0394",
+              "src": "urn:legix:us-ca:2001-chp0394:doc(sec11)",
+              "srcLabel": "Stats. of 2001, Chapter 394 - §11",
+              "effect": "amended",
+              "effective": "2001-10-01",
+              "linking": "linked"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "ttl2-div4-prt27-chp1-art2",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "2",
+        "title": "Elementary Schools",
+        "id2": "art2-sec48010",
+        "rangeLow": "48010",
+        "rangeHigh": "48011",
+        "rangeText": " [§48010-§48011]",
+        "heading":
+        {
+          "id": "ttl2-div4-prt27-chp1-art2-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "ttl2-div4-prt27-chp1-art2-heading-idBCD46235C633"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec48010",
+          "class": "LawSection",
+          "num": "48010",
+          "versions": 
+          [
+            {
+              "id": "sec48010-amended-2010-chp0705",
+              "src": "urn:legix:us-ca:2010-chp0705:doc(sec4)",
+              "srcLabel": "Stats. of 2009, Chapter 705 - §4",
+              "effect": "amended",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48011",
+          "class": "LawSection",
+          "num": "48011",
+          "versions": 
+          [
+            {
+              "id": "sec48011-amended-1991-chp0221",
+              "src": "urn:legix:us-ca:1991-chp0221:doc(sec2)",
+              "srcLabel": "Stats. of 1991, Chapter 221 - §2",
+              "effect": "amended",
+              "effective": "1992-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "ttl2-div4-prt27-chp1-art4",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "4",
+        "title": "High Schools",
+        "id2": "art4-sec48031",
+        "rangeLow": "48031",
+        "rangeText": " [§48031]",
+        "heading":
+        {
+          "id": "ttl2-div4-prt27-chp1-art4-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "ttl2-div4-prt27-chp1-art4-heading-idB65F79AEEB44"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec48031",
+          "class": "LawSection",
+          "num": "48031",
+          "versions": 
+          [
+            {
+              "id": "sec48031-amended-1994-chp1186",
+              "src": "urn:legix:us-ca:1994-chp1186:doc(sec19)",
+              "srcLabel": "Stats. of 1993, Chapter 1186 - §19",
+              "effect": "amended",
+              "effective": "1995-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "ttl2-div4-prt27-chp1-art6",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "6",
+        "title": "Nonresidents",
+        "id2": "art6-sec48050",
+        "rangeLow": "48050",
+        "rangeHigh": "48054",
+        "rangeText": " [§48050-§48054]",
+        "heading":
+        {
+          "id": "ttl2-div4-prt27-chp1-art6-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "ttl2-div4-prt27-chp1-art6-heading-idD5C912C9E162"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec48050",
+          "class": "LawSection",
+          "num": "48050",
+          "versions": 
+          [
+            {
+              "id": "sec48050-enacted-1976-chp1010",
+              "src": "urn:legix:us-ca:1976-chp1010:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1010",
+              "effect": "enacted",
+              "effective": "1977-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48051",
+          "class": "LawSection",
+          "num": "48051",
+          "versions": 
+          [
+            {
+              "id": "sec48051-enacted-1976-chp1010",
+              "src": "urn:legix:us-ca:1976-chp1010:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1010",
+              "effect": "enacted",
+              "effective": "1977-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48052",
+          "class": "LawSection",
+          "num": "48052",
+          "versions": 
+          [
+            {
+              "id": "sec48052-enacted-1976-chp1010",
+              "src": "urn:legix:us-ca:1976-chp1010:doc",
+              "srcLabel": "Stats. of 1975, Chapter 1010",
+              "effect": "enacted",
+              "effective": "1977-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48053",
+          "class": "LawSection",
+          "num": "48053",
+          "versions": 
+          [
+            {
+              "id": "sec48053-amended-1980-chp0750",
+              "src": "urn:legix:us-ca:1980-chp0750:doc(sec4)",
+              "srcLabel": "Stats. of 1979, Chapter 750 - §4",
+              "effect": "amended",
+              "effective": "1980-07-28",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48054",
+          "class": "LawSection",
+          "num": "48054",
+          "versions": 
+          [
+            {
+              "id": "sec48054-added-1996-chp0773",
+              "src": "urn:legix:us-ca:1996-chp0773:doc(sec1)",
+              "srcLabel": "Stats. of 1995, Chapter 773 - §1",
+              "effect": "added",
+              "effective": "1997-01-01",
+              "linking": "embedded"
+            }
+          ]
+        }
+      ]
+      },
+      {
+        "id": "ttl2-div4-prt27-chp1-art7",
+        "class": "Article",
+        "role": "slim:Article",
+        "num": "7",
+        "title": "Promotion and Retention",
+        "id2": "art7-sec48070",
+        "rangeLow": "48070",
+        "rangeHigh": "48070.6",
+        "rangeText": " [§48070-§48070.6]",
+        "heading":
+        {
+          "id": "ttl2-div4-prt27-chp1-art7-heading",
+          "class": "LawHeading",
+          "versions": 
+          [
+            {
+              "id": "ttl2-div4-prt27-chp1-art7-heading-idCE8FF1C8E958"
+            }
+          ]
+      
+        },
+   
+        "sections":
+   
+      [
+        {
+          "id": "sec48070",
+          "class": "LawSection",
+          "num": "48070",
+          "versions": 
+          [
+            {
+              "id": "sec48070-added-1983-chp0498",
+              "src": "urn:legix:us-ca:1983-chp0498:doc(sec81)",
+              "srcLabel": "Stats. of 1983, Chapter 498 - §81",
+              "effect": "added",
+              "effective": "1983-07-28",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48070.5",
+          "class": "LawSection",
+          "num": "48070.5",
+          "versions": 
+          [
+            {
+              "id": "sec48070.5-added-1998-chp0742",
+              "src": "urn:legix:us-ca:1998-chp0742:doc(sec2)",
+              "srcLabel": "Stats. of 1997, Chapter 742 - §2",
+              "effect": "added",
+              "effective": "1999-01-01",
+              "linking": "embedded"
+            }
+          ]
+        },
+        {
+          "id": "sec48070.6",
+          "class": "LawSection",
+          "num": "48070.6",
+          "versions": 
+          [
+            {
+              "id": "sec48070.6-amended-2010-chp0704",
+              "src": "urn:legix:us-ca:2010-chp0704:doc(sec2)",
+              "srcLabel": "Stats. of 2009, Chapter 704 - §2",
+              "effect": "amended",
+              "effective": "2011-01-01",
+              "linking": "embedded"
+            },
+            {
+              "id": "sec48070.6-added-2009-chp0197",
+              "src": "urn:legix:us-ca:2009-chp0197:doc(sec1)",
+              "srcLabel": "Stats. of 2009, Chapter 197 - §1",
+              "effect": "added",
+              "effective": "2010-01-01",
+              "linking": "linked"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+    }
+  }
+}
+   

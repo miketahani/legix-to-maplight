@@ -3,11 +3,13 @@
 # usage: linkdata.py
 import json, urllib, re, sys, os, jsonpath
 
-MAPLIGHT_API_KEY = 'INSERT API KEY HERE'
+MAPLIGHT_API_KEY = 'ca53c9867a2b4baeb9b0e58f6b312021'
 
 def search(json_data):
     """ search for "versions" > "src" using jsonpath, returning a list of URNs """
-    return list( set( jsonpath.jsonpath( json_data, '$..versions[*].src' ) ) )
+    found = jsonpath.jsonpath( json_data, '$..versions[*].src' )
+    if found: return list( set( found ) )
+    else: return False
 
 def url(urn):
     """ return a properly formatted legix API resolve() call from a URN """
@@ -93,11 +95,12 @@ def query_maplight(url_suffix):
 
 def main():
     """ testing/debugging """
+    dir = 'data/state_codes/edc/'
     # the following doesn't return any results for organizations
-    files = [f for f in os.listdir('data/state_codes/bpc/')]
+    files = [f for f in os.listdir(dir)]
     for file in files:
         print file
-        d = open( 'data/state_codes/bpc/' + file ).read()
+        d = open( dir + file ).read()
         try:
             json_data = json.loads( d.decode('ascii','ignore') )
             legix_to_maplight(json_data)

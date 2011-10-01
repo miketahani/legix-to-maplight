@@ -1,0 +1,104 @@
+{
+  "fragment": 
+  {
+    "model": "calm",
+    "authority": "us-ca",
+    "src": "urn:legix:us-ca:code-edc:doc(ttl3-div5-prt40-chp15):json",
+    "title": "Education Code - Title 3, Division 5, Part 40, Chapter 15",
+    "manifestations": "HTML,SLIM,CALM,RDF",
+    "content": 
+    {
+      "id": "ttl3-div5-prt40-chp15",
+      "class": "Chapter",
+      "role": "slim:Chapter",
+      "num": "15",
+      "title": "Student Athletes",
+      "id2": "chp15-sec67360",
+      "rangeLow": "67360",
+      "rangeHigh": "67365",
+      "rangeText": " [§67360-§67365]",
+      "heading":
+      {
+        "id": "ttl3-div5-prt40-chp15-heading",
+        "class": "LawHeading",
+        "versions": 
+        [
+          {
+            "id": "ttl3-div5-prt40-chp15-heading-idCAC2BDF3CA44"
+          }
+        ]
+      
+      },
+   
+      "sections":
+   
+    [
+      {
+        "id": "sec67360",
+        "class": "LawSection",
+        "num": "67360",
+        "versions": 
+        [
+          {
+            "id": "sec67360-added-1986-chp0902",
+            "src": "urn:legix:us-ca:1986-chp0902:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 902 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec67361",
+        "class": "LawSection",
+        "num": "67361",
+        "versions": 
+        [
+          {
+            "id": "sec67361-added-1986-chp0902",
+            "src": "urn:legix:us-ca:1986-chp0902:doc(sec1)",
+            "srcLabel": "Stats. of 1985, Chapter 902 - §1",
+            "effect": "added",
+            "effective": "1987-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec67362",
+        "class": "LawSection",
+        "num": "67362",
+        "versions": 
+        [
+          {
+            "id": "sec67362-added-2006-chp0200",
+            "src": "urn:legix:us-ca:2006-chp0200:doc(sec1)",
+            "srcLabel": "Stats. of 2005, Chapter 200 - §1",
+            "effect": "added",
+            "effective": "2007-01-01",
+            "linking": "embedded"
+          }
+        ]
+      },
+      {
+        "id": "sec67365",
+        "class": "LawSection",
+        "num": "67365",
+        "versions": 
+        [
+          {
+            "id": "sec67365-added-2010-chp0592",
+            "src": "urn:legix:us-ca:2010-chp0592:doc(sec1)",
+            "srcLabel": "Stats. of 2009, Chapter 592 - §1",
+            "effect": "added",
+            "effective": "2011-01-01",
+            "linking": "embedded"
+          }
+        ]
+      }
+    ]
+    }
+  }
+}
+   
