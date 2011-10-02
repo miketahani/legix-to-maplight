@@ -4,7 +4,7 @@ Expose organizations that influenced the creation of california state codes.
 
 ### Requirements
 
-The only third-party requirement is JSONPath (`easy-install jsonpath` on Windows).
+The only third-party requirement is JSONPath (`easy_install jsonpath` on Windows).
 
 ### Technical Description
 
